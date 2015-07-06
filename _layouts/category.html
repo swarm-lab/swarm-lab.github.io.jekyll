@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+
+<body id="nofront" class="index">
+
+{% include nav_nofront.html %}
+
+<!-- Header -->
+<header id="blog">
+    <div class="container">
+        <div class="intro-text">
+            <div class="cat-heading"><span class="cat-name">Category: {{ page.category }}</span></div>
+        </div>
+    </div>
+</header>
+
+<!-- Content -->
+<div class="home">
+
+    {% for post in site.categories.[page.category] %}
+
+    {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
+
+    <section class="blog {% if thecycle == 'even' %}bg-light-gray{% else %}bg-white{% endif %}">
+
+        <div class="entry">
+
+            <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+            <h3>{{ post.subtitle }}</h3>
+
+            {% if post.content contains '<!--more-->' %}
+            {{ post.content | split:'<!--more-->' | first }}
+            {% else %}
+            {{ post.content | truncatewords:100 | strip_html }}
+            {% endif %}
+
+            <a href="{{ post.url }}">Read more.</a>
+
+            <p style="padding-top: 3em;">
+                Date: {{ post.date | date: "%B %-d, %Y" }} |
+                Categories: {% for category in post.categories %}
+                    {% if category == "blog"%}
+                        <a href="/blog/">blog</a> &bull;
+                    {% else %}
+                        <a href="/category/{{category}}/">{{ category }}</a> &bull;
+                    {% endif %}
+                {% endfor %}
+            </p>
+
+        </div>
+
+    </section>
+
+    {% endfor %}
+
+</div>
+
+{% include rss_footer.html %}
+{% include footer.html %}
+{% include js.html %}
+
+</body>
+</html>

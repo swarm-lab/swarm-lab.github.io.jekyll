@@ -1,0 +1,221 @@
+.navbar-default .navbar-brand {
+    font-family: "Ubuntu", "Montserrat","Helvetica Neue",Helvetica,Arial,sans-serif;
+    color: #{{ site.color.primary }};
+}
+
+.navbar-default .nav li a {
+    font-size: 90%;
+    padding-left: 12px;
+    padding-right: 12px;
+    color: #{{ site.color.secondary-dark }};
+}
+
+@media(min-width:768px) {
+    header .intro-text {
+        padding-top: 200px;
+    }
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
+
+.entry {
+    width: 90%;
+    max-width: 768px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+}
+
+.lab-name {
+    font-family: "Ubuntu", "Montserrat","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-style: normal;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: #{{ site.color.secondary-dark }};
+}
+
+.intro-lead-in {
+    color: #{{ site.color.secondary-dark }};
+}
+
+@media(min-width:768px) {
+    #blog .intro-text {
+        padding-top: 160px;
+        padding-bottom: 100px;
+    }
+}
+
+section.blog {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+section.post {
+    padding-bottom: 10px;
+}
+
+section.map {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+div.bg-light-gray {
+    background-color: #f7f7f7;
+}
+
+div.bg-white {
+    background-color: #ffffff;
+}
+
+div.bg-darkest-gray {
+    background-color: #222;
+}
+
+img.wrap-around-left {
+    float: left;
+    padding: 5px 10px 5px 0px;
+}
+
+img.wrap-around-right {
+    float: right;
+    padding: 5px 0px 5px 10px;
+}
+
+img.full {
+    width: 100%;
+}
+
+.dropdown-menu a {
+    color: #000 !important;
+}
+
+.dropdown-menu a:hover {
+    color: #fff !important;
+}
+
+ul.social-buttons li a.fa-fw {
+    background-color:#fff;
+    pointer-events: none;
+    cursor: default;
+}
+
+code.language-r:before {
+    content: 'R code \A';
+    color: #8A0606;
+    font-weight: bold;
+}
+
+code.language-python:before {
+    content: 'Python code \A';
+    color: #068A06;
+    font-weight: bold;
+}
+
+code.language-r, code.language-python {
+    font-size: smaller;
+}
+
+header .cat-heading {
+    margin-bottom: 25px;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 50px;
+}
+
+@media(min-width:768px) {
+    header .cat-heading {
+        margin-bottom: 50px;
+        font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+        font-size: 50px;
+        font-weight: 700;
+        line-height: 75px;
+    }
+}
+
+.cat-name {
+    font-family: "Ubuntu", "Montserrat","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    color: #333;
+}
+
+.portfolio .portfolio-item {
+    right: 0;
+    margin: 0 0 15px;
+}
+
+.portfolio .portfolio-item .portfolio-link {
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    max-width: 400px;
+}
+
+.portfolio .portfolio-item .portfolio-link .portfolio-hover {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    -webkit-transition: all ease .5s;
+    -moz-transition: all ease .5s;
+    transition: all ease .5s;
+    background: rgba(254,209,54,.9); /* Fallback when no plugin support */
+    background: rgba({{ site.color.primary | hex_to_rgb | join: ',' }}, .9);
+}
+
+.portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {
+    opacity: 1;
+}
+
+.portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    height: 20px;
+    margin-top: -12px;
+    text-align: center;
+    font-size: 20px;
+    color: #fff;
+}
+
+.portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content i {
+    margin-top: -12px;
+}
+
+.portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h3,
+.portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h4 {
+    margin: 0;
+}
+
+.portfolio .portfolio-item .portfolio-caption {
+    margin: 0 auto;
+    padding-top: 25px;
+    max-width: 400px;
+    text-align: center;
+    background-color: rgba(0,0,0,0);
+}
+
+.portfolio .portfolio-item .portfolio-caption h4 {
+    margin: 0;
+    text-transform: none;
+}
+
+.portfolio .portfolio-item .portfolio-caption p {
+    margin: 0;
+    font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    font-style: italic;
+}
+
+.portfolio * {
+    z-index: 2;
+}
+
+@media(min-width:767px) {
+    .portfolio .portfolio-item {
+        margin: 0 0 30px;
+    }
+}

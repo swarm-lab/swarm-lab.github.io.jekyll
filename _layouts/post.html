@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+
+<body id="nofront" class="index">
+
+{% include nav_nofront.html %}
+
+<section class="bg-white post">
+
+    <div class="entry">
+
+        <h2>{{ page.title }}</h2>
+        <h3>{{ page.subtitle }}</h3>
+
+        <p>Written by {{ page.author}} on {{ page.date | date: "%B %-d, %Y" }}</p>
+
+        <hr>
+
+        {{ content }}
+
+        <hr>
+
+        <p>Categories:
+            {% for category in page.categories %}
+                {% if category == "blog"%}
+                    <a href="/blog/">blog</a> &bull;
+                {% else %}
+                    <a href="/category/{{category}}/">{{ category }}</a> &bull;
+                {% endif %}
+            {% endfor %}
+        </p>
+
+        <hr>
+
+        {% include comments.html %}
+
+    </div>
+
+</section>
+
+{% include rss_footer.html %}
+{% include footer.html %}
+{% include js.html %}
+
+</body>
+</html>

@@ -1,0 +1,178 @@
+url: http://www.theswarmlab.com
+#baseurl: /agency-jekyll-theme/
+
+# Site settings
+title: Swarm Lab
+email: garnier@njit.edu
+description: "Welcome to the Swarm Lab where we study Swarm Intelligence in natural and artificial systems."
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: ed564b
+  secondary: f96b61  
+  secondary-dark: 333
+
+# Team names, titles and social links
+people:
+- name: Simon Garnier
+  pic: simon
+  position: PI / Assistant Professor
+  social:
+    - title: twitter
+      url: https://twitter.com/sjmgarnier
+    - title: google-plus
+      url: https://plus.google.com/u/0/+SimonGarnier
+    - title: github
+      url: https://github.com/sjmgarnier
+    - title: linkedin
+      url: https://www.linkedin.com/in/simongarnier
+
+- name: Jason Graham
+  pic: jason
+  position: Visiting Scholar (<a href="http://www.scranton.edu/">U. of Scranton</a>)
+  social:
+    - title: link
+      url: https://sites.google.com/site/jasonmgrahamus/
+
+- name: Lisa O'Bryan
+  pic: lisa
+  position: Postdoctoral Fellow
+  social:
+    - title: twitter
+      url: https://twitter.com/Project_Grunt
+
+- name: Courtney Rockenbach
+  pic: courtney
+  position: Graduate Student
+  social:
+    - title: twitter
+      url: https://twitter.com/CourtRockenbach
+    - title: tumblr
+      url: https://www.tumblr.com/blog/field-biology
+    - title: link
+      url: https://www.researchgate.net/profile/Courtney_Rockenbach
+    - title: github
+      url: https://github.com/livethedance
+    - title: linkedin
+      url: https://www.linkedin.com/pub/courtney-rockenbach/1a/8a8/794
+
+- name: Subash Ray
+  pic: subash
+  position: Research Assistant
+  social:
+    - title: twitter
+      url: https://twitter.com/skrRay
+
+- name: Nidhi Dharithreesan
+  pic: default
+  position: Master Student
+
+- name: Oswaldo Gil
+  pic: oswaldo
+  position: Master Student
+
+- name: Daniel Chen
+  pic: daniel
+  position: Undergraduate Student
+
+- name: Nilanjan Haldar
+  pic: default
+  position: Undergraduate Student
+
+- name: Abid Haque
+  pic: abid
+  position: Undergraduate Student
+
+- name: Suraj Rajesh
+  pic: default
+  position: Undergraduate Student
+
+- name: Albert Saez
+  pic: default
+  position: Undergraduate Student
+
+- name: Leslie Seby
+  pic: default
+  position: Undergraduate Student
+
+- name: Anna Wisniewski
+  pic: default
+  position: Undergraduate Student
+
+- name: Anusha Bharadia
+  pic: default
+  position: High School Student
+
+people_old:
+- name: Chris Reid
+  pic: chris
+  position: Postdoctoral Fellow & Australian Extraordinaire
+  social:
+    - title: twitter
+      url: https://twitter.com/ChrisRReid1
+    - title: link
+      url: https://sites.google.com/site/chrisreidbiologist/home
+
+- name: Amy Belot
+  pic: default
+  position: Undergraduate Student
+
+- name: Omar Elamir
+  pic: omar
+  position: Undergraduate Student
+
+- name: Michael Gonzalez
+  pic: default
+  position: Undergraduate Student
+
+- name: Katharina Hildebrandt
+  pic: default
+  position: Undergraduate Student
+
+- name: Urvya Iyer
+  pic: default
+  position: Undergraduate Student
+
+- name: Sima Kalam
+  pic: default
+  position: Undergraduate Student
+
+- name: Moheb Kamel
+  pic: default
+  position: Undergraduate Student
+
+- name: Hannelore MacDonald
+  pic: hannelore
+  position: Undergraduate Student
+
+- name: Sudheesha Perera
+  pic: sudheesha
+  position: Undergraduate Student
+
+- name: David Neiman
+  pic: default
+  position: High School Student
+
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/sjmgarnier
+  - title: google-plus
+    url: https://plus.google.com/u/0/+SimonGarnier
+  - title: github
+    url: https://github.com/swarm-lab
+  - title: linkedin
+    url: https://www.linkedin.com/in/simongarnier
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Central King Building, New Jersey Institute of Technology
+  - line: Newark, NJ 07102, USA
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+kramdown:
+  syntax_highlighter: rouge
+highlighter: rouge

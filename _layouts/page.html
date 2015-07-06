@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+
+<body id="nofront" class="index">
+
+{% include nav_nofront.html %}
+
+<div class="home">
+    <section class="bg-white">
+        <div class="entry">
+
+            <h2>{{ page.title }}</h2>
+            <h3>{{ page.subtitle }}</h3>
+
+            <hr>
+
+            {{ content }}
+
+        </div>
+    </section>
+</div>
+
+{% include rss_footer.html %}
+{% include footer.html %}
+{% include js.html %}
+
+</body>
+</html>
