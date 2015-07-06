@@ -6,12 +6,9 @@ title: Join the Swarm Lab
 
 #### Postdoctoral researchers
 
-There is no postdoctoral position currently opened at the Swarm Lab. Such positions are rare because grants large enough 
-to support a postdoctoral researcher are also rare. If you want to join the Swarm Lab as a postdoctoral researcher, your 
-best option is to apply for postdoctoral fellowships that are granted by public and private foundations (NSF, Fulbrigth, 
-Fyssen, etc.). The members of the Swarm Lab will very happy to help you find and apply for postdoctoral fellowships for 
-which you are eligible. If you are interested, please do not hesitate to contact us at 
-[jobs@theswarmlab.com](mailto:jobs@theswarmlab.com) or using our [contact form](/#contact).
+There is currently 1 postdoctoral position available at the Swarm Lab. [Click here](/blog/2015/07/01/postdoc-position-available/) for more information.
+
+Postdoctoral positions are rare because grants large enough to support a postdoctoral researcher are also rare. If you want to join the Swarm Lab as a postdoctoral researcher, your best option is to apply for postdoctoral fellowships that are granted by public and private foundations (NSF, Fulbrigth, Fyssen, etc.). The members of the Swarm Lab will very happy to help you find and apply for postdoctoral fellowships for which you are eligible. If you are interested, please do not hesitate to contact us at [jobs@theswarmlab.com](mailto:jobs@theswarmlab.com) or using our [contact form](/#contact).
 
 ---
 
