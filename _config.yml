@@ -41,6 +41,17 @@ people:
     - title: twitter
       url: https://twitter.com/Project_Grunt
 
+- name: Subash Ray
+  pic: subash
+  position: Graduate Student
+  social:
+    - title: twitter
+      url: https://twitter.com/skrRay
+    - title: github
+      url: https://github.com/subashray
+    - title: linkedin
+      url: https://www.linkedin.com/profile/view?id=141381128
+
 - name: Courtney Rockenbach
   pic: courtney
   position: Graduate Student
@@ -56,19 +67,8 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/pub/courtney-rockenbach/1a/8a8/794
 
-- name: Subash Ray
-  pic: subash
-  position: Research Assistant
-  social:
-    - title: twitter
-      url: https://twitter.com/skrRay
-
 - name: Nidhi Dharithreesan
   pic: default
-  position: Master Student
-
-- name: Oswaldo Gil
-  pic: oswaldo
   position: Master Student
 
 - name: Archana Bottu
@@ -116,6 +116,10 @@ people_old:
       url: https://twitter.com/ChrisRReid1
     - title: link
       url: https://sites.google.com/site/chrisreidbiologist/home
+
+- name: Oswaldo Gil
+  pic: oswaldo
+  position: Master Student
 
 - name: Amy Belot
   pic: default
