@@ -1,5 +1,5 @@
 ---
-title: The <code>teachR</code> R package
+title: <code>teachR</code> package
 subtitle: All our educational Shiny apps in one place 
 layout: default
 modal-id: teachR
@@ -9,6 +9,7 @@ thumbnail: shiny-thumbnail.png
 alt: image-alt
 category: 
     - shiny-portfolio
+    - r-portfolio
 description: 
     <b>Description:</b> <code>teachR</code> is a convenience R package that makes it easy to install and run all our 
     educational Shiny apps on your computer. It also contains a function to export self-contained versions of our apps

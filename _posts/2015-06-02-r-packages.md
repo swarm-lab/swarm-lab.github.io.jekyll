@@ -14,8 +14,8 @@ description:
     around the world. At the Swarm Lab, R is our favorite data processing and visualization tool (though we also like 
     Python, Matlab, Java, C/C++), and from time to time we develop and release new libraries for R.
     <br><br>
-    A complete portfolio of our R libraries will be soon available here. 
+    You can find a complete portfolio of our R packages by <a href="/R/">clicking here</a>. 
     <br><br>
-    In the meantime, you can check out our <a href="https://github.com/swarm-lab">GitHub repos</a>.
+    You can also check out our <a href="https://github.com/swarm-lab">GitHub repos</a>.
 
 ---
