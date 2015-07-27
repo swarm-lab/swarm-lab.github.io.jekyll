@@ -83,10 +83,6 @@ people:
   pic: default
   position: Undergraduate Student
 
-- name: Abid Haque
-  pic: abid
-  position: Undergraduate Student
-
 - name: Suraj Rajesh
   pic: suraj
   position: Undergraduate Student
@@ -99,9 +95,9 @@ people:
   pic: leslie
   position: Undergraduate Student
 
-- name: Anna Wisniewski
+- name: Ranya Agarwal
   pic: default
-  position: Undergraduate Student
+  position: High School Student
 
 - name: Anusha Bharadia
   pic: default
@@ -133,6 +129,10 @@ people_old:
   pic: default
   position: Undergraduate Student
 
+- name: Abid Haque
+  pic: abid
+  position: Undergraduate Student
+
 - name: Katharina Hildebrandt
   pic: default
   position: Undergraduate Student
@@ -155,6 +155,10 @@ people_old:
 
 - name: Sudheesha Perera
   pic: sudheesha
+  position: Undergraduate Student
+
+- name: Anna Wisniewski
+  pic: default
   position: Undergraduate Student
 
 - name: David Neiman
