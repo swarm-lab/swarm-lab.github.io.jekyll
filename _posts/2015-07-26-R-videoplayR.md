@@ -1,21 +1,21 @@
 ---
-title: <code>editR</code> package
-subtitle: Rmarkdown editor with instant previewing
+title: <code>videoplayR</code> package
+subtitle: Read videos with R
 layout: default
-modal-id: editr
+modal-id: videoplayr
 date: 2015-07-26
-img: r_editR.png
-thumbnail: r_editR-thumbnail.png
+img: r_videoplayR.png
+thumbnail: r_videoplayR-thumbnail.png
 alt: image-alt
 category: 
     - r-portfolio
 description: 
-    <b>Description:</b> <code>editR</code> is a basic <a href="http://rmarkdown.rstudio.com/">Rmarkdown</a> editor with 
-    instant previewing of your document. It allows you to create and edit <a href="http://rmarkdown.rstudio.com/">Rmarkdown</a> 
-    documents while instantly previewing the result of your writing and coding. It also allows you to render your 
-    <a href="http://rmarkdown.rstudio.com/">Rmarkdown</a> file in any format permitted by the 
-    <a href="https://github.com/rstudio/rmarkdown"><code>rmarkdown</code> R package</a>.
+    <b>Description:</b> <code>videoplayR</code> makes it possible to import video as R matrices for computer vision 
+    applications. It is still in a very early stage of development and requires the installation of the 
+    <a href="http://opencv.org/">OpenCV library</a> before it can be installed and can work properly. 
+    <code>videoplayR</code> has only been compiled and tested on Mac OS X (10.9 and 10.10) and it is not guaranteed that 
+    it will install or work properly on Windows and Linux computers at the moment. 
     <br><br>
-    <b>Source code and installation instructions:</b> <a href="https://github.com/swarm-lab/editR">Click here</a>
+    <b>Source code and installation instructions:</b> <a href="https://github.com/swarm-lab/videoplayR">Click here</a>
 
 ---
