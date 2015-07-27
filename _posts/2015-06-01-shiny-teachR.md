@@ -4,8 +4,8 @@ subtitle: All our educational Shiny apps in one place
 layout: default
 modal-id: teachR
 date: 2015-06-01
-img: shiny.png
-thumbnail: shiny-thumbnail.png
+img: r_teachr.png
+thumbnail: r_teachr-thumbnail.png
 alt: image-alt
 category: 
     - shiny-portfolio
