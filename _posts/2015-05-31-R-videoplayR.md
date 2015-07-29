@@ -1,9 +1,9 @@
 ---
 title: <code>videoplayR</code> package
-subtitle: Read videos with R
+subtitle: Read videos with R (experimental)
 layout: default
 modal-id: videoplayr
-date: 2015-07-26
+date: 2015-05-31
 img: r_videoplayR.png
 thumbnail: r_videoplayR-thumbnail.png
 alt: image-alt
