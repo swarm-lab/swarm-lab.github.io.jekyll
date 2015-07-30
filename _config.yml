@@ -67,6 +67,15 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/pub/courtney-rockenbach/1a/8a8/794
 
+- name: Felipe Marcel Neves
+  pic: felipe
+  position: Visiting Graduate Student
+  social:
+    - title: twitter
+      url: https://twitter.com/fmarcelneves
+    - title: link
+      url: https://www.researchgate.net/profile/Felipe_Neves5
+
 - name: Nidhi Dharithreesan
   pic: default
   position: Master Student
