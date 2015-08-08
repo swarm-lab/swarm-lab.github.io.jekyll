@@ -10,10 +10,10 @@ published: true
 
 ---
 
-Today is the day [Lisa](https://twitter.com/Project_Grunt) flies to Namibia for a couple months of field work at the 
-[Tsaobis Leopard Park](http://www.tsaobisnaturepark.com/). Among other things she will outfit local goats with GPS 
-collars coupled with small microphones, that she just spent a month and a half patiently building in Swansea, where the 
-[SHOAL group](https://sites.google.com/site/andrewjkingresearch/) of our collaborator [Andrew King](https://sites.google.com/site/andrewjkingresearch/groupmembers/CV) resides. 
+Today is the day [Lisa](https://twitter.com/Project_Grunt) flies to Africa for a couple months of field work . Among 
+other things she will outfit local goats with GPS collars coupled with small microphones, that she just spent a month 
+and a half patiently building in Swansea, where the [SHOAL group](https://sites.google.com/site/andrewjkingresearch/) of 
+our collaborator [Andrew King](https://sites.google.com/site/andrewjkingresearch/groupmembers/CV) resides. 
 
 While in the train toward London Heathrow, she overheard a dad reading a story to his son, a story about ants. Out of 
 curiosity, I asked her to enquire about the book the story was coming from. I was expecting some sort of children book,
