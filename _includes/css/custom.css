@@ -73,20 +73,6 @@ div.bg-darkest-gray {
     background-color: #222;
 }
 
-img.wrap-around-left {
-    float: left;
-    padding: 5px 10px 5px 0px;
-}
-
-img.wrap-around-right {
-    float: right;
-    padding: 5px 0px 5px 10px;
-}
-
-img.full {
-    width: 100%;
-}
-
 .dropdown-menu a {
     color: #000 !important;
 }
@@ -223,3 +209,42 @@ header .cat-heading {
 blockquote {
     text-align: justify;
 }
+
+.wrap-around-left {
+    float: left;
+    padding: 5px 10px 5px 0px;
+}
+
+.wrap-around-right {
+    float: right;
+    padding: 5px 0px 5px 10px;
+}
+
+.full {
+    width: 100%;
+}
+
+figure {
+    display: table;
+}
+
+figcaption {
+    display: table-caption;
+    caption-side: bottom;
+    font-size: 0.6em;
+}
+
+.wrap-around-right figcaption {
+     padding-left: 10px;
+}
+
+.wrap-around-left figcaption {
+    padding-right: 10px;
+}
+
+
+
+
+
+
+

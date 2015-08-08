@@ -10,7 +10,13 @@ published: true
 
 ---
 
-Today is the day [Lisa](https://twitter.com/Project_Grunt) flies to Africa for a couple months of field work . Among 
+<figure class="wrap-around-right">
+    <img src="https://upload.wikimedia.org/wikipedia/en/4/42/Richard_Feynman_Nobel.jpg" 
+        alt="Portrait of Richard Feynman - © The Nobel Foundation, 1965.">
+    <figcaption>Portrait of Richard Feynman - © The Nobel Foundation, 1965</figcaption>
+</figure>
+
+Today is the day [Lisa](https://twitter.com/Project_Grunt) flies to Africa for a couple months of field work. Among 
 other things she will outfit local goats with GPS collars coupled with small microphones, that she just spent a month 
 and a half patiently building in Swansea, where the [SHOAL group](https://sites.google.com/site/andrewjkingresearch/) of 
 our collaborator [Andrew King](https://sites.google.com/site/andrewjkingresearch/groupmembers/CV) resides. 
@@ -28,7 +34,7 @@ and later Caltech, to perform simple experiments with them, in order to understa
 Isn't it great? 
 
 Hereafter is one of these experiments, as told by Feynman himself. It is my favorite one, mostly because it ties in some
-work that we are currently doing in the lab. I hope you enjoy it as much as I do. 
+work that we are currently doing in the lab. I hope you enjoy it as much as I did. 
 
 > Many years later, when I was at Caltech and lived in a little house on Alameda Street, some ants came out around the 
 > bathtub. I thought, "This is a great opportunity." I put some sugar on the other end of the bathtub, and sat there 
@@ -52,3 +58,6 @@ work that we are currently doing in the lab. I hope you enjoy it as much as I do
 > something like sketching: You draw a lousy line at first; then you go over it a few times and it makes a nice
 > line after a while.
 
+---
+
+<small>Portrait of Richard Feynman - © The Nobel Foundation, 1965</small>
