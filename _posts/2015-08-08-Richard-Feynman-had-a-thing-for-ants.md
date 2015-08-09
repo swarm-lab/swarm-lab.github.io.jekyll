@@ -57,7 +57,3 @@ work that we are currently doing in the lab. I hope you enjoy it as much as I di
 > I followed eight or ten ants with my pencil until their trails became a neat line right along the bathtub. It's 
 > something like sketching: You draw a lousy line at first; then you go over it a few times and it makes a nice
 > line after a while.
-
----
-
-<small>Portrait of Richard Feynman - © The Nobel Foundation, 1965</small>
