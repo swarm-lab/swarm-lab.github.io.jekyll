@@ -27,13 +27,6 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/simongarnier
 
-- name: Jason Graham
-  pic: jason
-  position: Visiting Scholar (<a href="http://www.scranton.edu/">U. of Scranton</a>)
-  social:
-    - title: link
-      url: https://sites.google.com/site/jasonmgrahamus/
-
 - name: Lisa O'Bryan
   pic: lisa
   position: Postdoctoral Fellow
@@ -104,15 +97,14 @@ people:
   pic: leslie
   position: Undergraduate Student
 
-- name: Ranya Agarwal
-  pic: default
-  position: High School Student
-
-- name: Anusha Bharadia
-  pic: default
-  position: High School Student
-
 people_old:
+- name: Jason Graham
+  pic: jason
+  position: Visiting Scholar (<a href="http://www.scranton.edu/">U. of Scranton</a>)
+  social:
+    - title: link
+      url: https://sites.google.com/site/jasonmgrahamus/
+
 - name: Chris Reid
   pic: chris
   position: Postdoctoral Fellow & Australian Extraordinaire
@@ -169,6 +161,14 @@ people_old:
 - name: Anna Wisniewski
   pic: default
   position: Undergraduate Student
+
+- name: Ranya Agarwal
+  pic: default
+  position: High School Student
+
+- name: Anusha Bharadia
+  pic: default
+  position: High School Student
 
 - name: David Neiman
   pic: default
