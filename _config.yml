@@ -34,6 +34,13 @@ people:
     - title: twitter
       url: https://twitter.com/Project_Grunt
 
+- name: Nicole Dykstra
+  pic: nicole
+  position: Graduate Student
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/nicolefdykstra
+
 - name: Subash Ray
   pic: subash
   position: Graduate Student
@@ -60,6 +67,13 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/pub/courtney-rockenbach/1a/8a8/794
 
+- name: Maggie Wisniewska
+  pic: maggie
+  position: Graduate Student
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/pub/maggie-wisniewska/44/858/515
+
 - name: Felipe Marcel Neves
   pic: felipe
   position: Visiting Graduate Student
@@ -73,6 +87,10 @@ people:
   pic: default
   position: Master Student
 
+- name: Prit Zaveri
+  pic: prit
+  position: Master Student
+
 - name: Archana Bottu
   pic: archana
   position: Undergraduate Student
@@ -82,19 +100,15 @@ people:
   position: Undergraduate Student
 
 - name: Nilanjan Haldar
-  pic: default
+  pic: nilanjan
   position: Undergraduate Student
 
-- name: Suraj Rajesh
-  pic: suraj
+- name: Urvya Iyer
+  pic: default
   position: Undergraduate Student
 
 - name: Albert Saez
   pic: default
-  position: Undergraduate Student
-
-- name: Leslie Seby
-  pic: leslie
   position: Undergraduate Student
 
 people_old:
@@ -138,10 +152,6 @@ people_old:
   pic: default
   position: Undergraduate Student
 
-- name: Urvya Iyer
-  pic: default
-  position: Undergraduate Student
-
 - name: Sima Kalam
   pic: default
   position: Undergraduate Student
@@ -156,6 +166,14 @@ people_old:
 
 - name: Sudheesha Perera
   pic: sudheesha
+  position: Undergraduate Student
+
+- name: Suraj Rajesh
+  pic: suraj
+  position: Undergraduate Student
+
+- name: Leslie Seby
+  pic: leslie
   position: Undergraduate Student
 
 - name: Anna Wisniewski
@@ -173,7 +191,6 @@ people_old:
 - name: David Neiman
   pic: default
   position: High School Student
-
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
