@@ -9,7 +9,7 @@ description: "Welcome to the Swarm Lab where we study Swarm Intelligence in natu
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: ed564b
-  secondary: f96b61  
+  secondary: f96b61
   secondary-dark: 333
 
 # Team names, titles and social links
@@ -36,14 +36,14 @@ people:
 
 - name: Nicole Dykstra
   pic: nicole
-  position: Graduate Student
+  position: Graduate Student (rotation)
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/nicolefdykstra
 
 - name: Subash Ray
   pic: subash
-  position: Graduate Student
+  position: Graduate Student (rotation)
   social:
     - title: twitter
       url: https://twitter.com/skrRay
@@ -54,7 +54,7 @@ people:
 
 - name: Courtney Rockenbach
   pic: courtney
-  position: Graduate Student
+  position: Graduate Student (PhD candidate)
   social:
     - title: twitter
       url: https://twitter.com/CourtRockenbach
@@ -67,9 +67,13 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/pub/courtney-rockenbach/1a/8a8/794
 
+- name: Megan Wilson
+  pic: default
+  position: Graduate Student (rotation)
+
 - name: Maggie Wisniewska
   pic: maggie
-  position: Graduate Student
+  position: Graduate Student (rotation)
   social:
     - title: linkedin
       url: https://www.linkedin.com/pub/maggie-wisniewska/44/858/515
@@ -84,6 +88,10 @@ people:
       url: https://www.researchgate.net/profile/Felipe_Neves5
 
 - name: Nidhi Dharithreesan
+  pic: default
+  position: Master Student
+
+- name: Siddesh Raut
   pic: default
   position: Master Student
 
@@ -110,6 +118,14 @@ people:
 - name: Albert Saez
   pic: default
   position: Undergraduate Student
+
+- name: Purva Shah
+  pic: default
+  position: Undergraduate Student, Lab Assistant
+
+- name: Emma Stanton
+  pic: default
+  position: High School Student
 
 people_old:
 - name: Jason Graham
