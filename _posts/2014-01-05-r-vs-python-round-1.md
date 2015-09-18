@@ -4,9 +4,10 @@ date: 2014-01-05
 author: Simon Garnier
 layout: post
 type: post
-category: 
+category:
     - blog
     - rvspython
+    - r
 published: true
 
 ---
@@ -31,11 +32,11 @@ ___
 
 ##### 1 - Introduction #####
 
-For this first challenge, we will use data collected by Randy for his recent post on the ["Top 25 most violence packed 
-films" in the history of the movie industry](www.randalolson.com/2013/12/31/most-violence-packed-films/). For his post, 
-Randy generated a simple horizontal barchart showing the top 25 more violent films ordered by number of on screen deaths 
-per minute. In the rest of this document, we will show you how to reproduce this graph using Python and how to achieve a 
-similar result with R. We will detail the different steps of the process and provide for each step the corresponding 
+For this first challenge, we will use data collected by Randy for his recent post on the ["Top 25 most violence packed
+films" in the history of the movie industry](www.randalolson.com/2013/12/31/most-violence-packed-films/). For his post,
+Randy generated a simple horizontal barchart showing the top 25 more violent films ordered by number of on screen deaths
+per minute. In the rest of this document, we will show you how to reproduce this graph using Python and how to achieve a
+similar result with R. We will detail the different steps of the process and provide for each step the corresponding
 code. You will also find the entire codes at the end of this document.
 
 And now without further ado, let's get started!
@@ -47,7 +48,7 @@ First thing first, let's set up our working environment by loading some necessar
 {% highlight r %}
 # Load libraries
 library(lattice)        # Very versatile graphics package
-library(latticeExtra)   # Addition to lattice that makes layering graphs a breathe 
+library(latticeExtra)   # Addition to lattice that makes layering graphs a breathe
 {% endhighlight %}
 
 {% highlight python %}
@@ -58,8 +59,8 @@ from pandas import *
 {% endhighlight %}
 
 
-Now let's load the data for today's job. The raw data were scraped by Randy (using Python) from 
-[www.MovieBodyCounts.com](http://www.MovieBodyCounts.com) and he generously provided the result of his hard work on 
+Now let's load the data for today's job. The raw data were scraped by Randy (using Python) from
+[www.MovieBodyCounts.com](http://www.MovieBodyCounts.com) and he generously provided the result of his hard work on
 FigShare at this address: [http://dx.doi.org/10.6084/m9.figshare.889719](http://dx.doi.org/10.6084/m9.figshare.889719).
 
 {% highlight r %}
@@ -73,13 +74,13 @@ body_count_data = read_csv("http://files.figshare.com/1332945/film_death_counts.
 {% endhighlight %}
 
 
-For each movie, the data frame contains a column for the total number of on screen deaths ("Body_Count") and a column for 
-the duration ("Length_Minutes"). We will now create an extra column for the number of on screen deaths per minute of each 
+For each movie, the data frame contains a column for the total number of on screen deaths ("Body_Count") and a column for
+the duration ("Length_Minutes"). We will now create an extra column for the number of on screen deaths per minute of each
 movie ("Deaths_Per_Minute")
 
 {% highlight r %}
-# Compute on screen deaths per minute for each movie. 
-body.count.data <- within(body.count.data, { 
+# Compute on screen deaths per minute for each movie.
+body.count.data <- within(body.count.data, {
   Deaths_Per_Minute <- Body_Count / Length_Minutes
   ord <- order(Deaths_Per_Minute, decreasing = TRUE)  # useful later
 })
@@ -92,7 +93,7 @@ body_count_data["Deaths_Per_Minute"] = (body_count_data["Body_Count"].apply(floa
 {% endhighlight %}
 
 
-Now we will reorder the data frame by (descending) number of on screen deaths per minute, and select the top 25 most 
+Now we will reorder the data frame by (descending) number of on screen deaths per minute, and select the top 25 most
 violent movies according to this criterion.
 
 {% highlight r %}
@@ -112,7 +113,7 @@ body_count_data = body_count_data.sort("Deaths_Per_Minute", ascending=True)
 {% endhighlight %}
 
 
-In Randy's graph, the "y" axis shows the film title with the release date. We will now generate the full title for each 
+In Randy's graph, the "y" axis shows the film title with the release date. We will now generate the full title for each
 movie following a "Movie name (year)" format, and append it to the data frame.
 
 {% highlight r %}
@@ -138,7 +139,7 @@ ax.xaxis.tick_bottom()data["Full_Title"] = array(full_title)
 {% endhighlight %}
 
 
-Now we are ready to generate the barchart. We're going to start with the default options and then we will make this thing 
+Now we are ready to generate the barchart. We're going to start with the default options and then we will make this thing
 look pretty.
 
 {% highlight r %}
@@ -167,12 +168,12 @@ yticks(range(len(body_count_data["Full_Title"])), body_count_data["Full_Title"].
 
 ![Base Python graph](/img/posts/2014-01-05-r-vs-python-round-1/Py/basePy.png){: .full }
 
-Ok, now let's make this pretty. 
+Ok, now let's make this pretty.
 
 {% highlight r %}
 # Create theme
 my.bloody.theme <- within(trellis.par.get(), {    # Initialize theme with default value
-  axis.line$col <- NA                             # Remove axes 
+  axis.line$col <- NA                             # Remove axes
   plot.polygon <- within(plot.polygon, {
     col <- "#8A0606"                              # Set bar colors to a nice bloody red
     border <- NA                                  # Remove bars' outline
@@ -187,7 +188,7 @@ my.bloody.theme <- within(trellis.par.get(), {    # Initialize theme with defaul
 
 # Update figure with new theme + other improvements (like a title for instance)
 graph <- update(
-  graph, 
+  graph,
   main='25 most violence packed films by deaths per minute',    # Title of the barchart
   par.settings = my.bloody.theme,                               # Use custom theme
   xlab = NULL,                                                  # Remove label of x axis
@@ -222,7 +223,7 @@ ax.xaxis.grid(color="white", linestyle="-")
 
 ![Pretty Python graph](/img/posts/2014-01-05-r-vs-python-round-1/Py/prettyPy.png){: .full }
 
-Finally, the last thing we want to add to our graph is the number of deaths per minute and the duration of each movie on 
+Finally, the last thing we want to add to our graph is the number of deaths per minute and the duration of each movie on
 the right of the graph.
 
 {% highlight r %}
@@ -231,8 +232,8 @@ body.count.data <- within(body.count.data, {
   Deaths_Per_Minute_With_Length = paste0(round(body.count.data$Deaths_Per_Minute, digits=2), " (", body.count.data$Length_Minutes, " mins)")
 })
 
-# Add number of on screen deaths per minute and duration of movies at the end of each bar 
-graph <- graph + layer(with(body.count.data, 
+# Add number of on screen deaths per minute and duration of movies at the end of each bar
+graph <- graph + layer(with(body.count.data,
   panel.text(
     Deaths_Per_Minute,                  # x position of the text
     25:1,                               # y position of the text
@@ -279,7 +280,7 @@ library(grid)  # Graphics library with better image plotting capabilities
 
 # Download a pretty background image; mode is set to "wb" because it seems that
 # Windows needs it. I don't use Windows, I can't confirm
-download.file(url = "http://www.theswarmlab.com/wp-content/uploads/2014/01/bloody_gun.jpg", 
+download.file(url = "http://www.theswarmlab.com/wp-content/uploads/2014/01/bloody_gun.jpg",
               destfile = "bloody_gun.jpg", quiet = TRUE, mode = "wb")
 
 # Load gun image using "readJPEG" from the "jpeg" package
@@ -306,11 +307,10 @@ ___
 
 R and Python source codes are available [here](https://github.com/morpionZ/R-vs-Python/tree/master/Deadliest%20movies/code).
 
-For F# fan, [Terje Tyldum](http://terjetyl.ghost.io/) has written his version of the code in F# 
+For F# fan, [Terje Tyldum](http://terjetyl.ghost.io/) has written his version of the code in F#
 [here](http://terjetyl.ghost.io/f-charting-challenge/).
 
-Randy and I also recommend that you check out 
+Randy and I also recommend that you check out
 [this post](http://nbviewer.ipython.org/github/yaph/ipython-notebooks/blob/master/Exploring%20Movie%20Body%20Counts.ipynb)
-by [Ramiro Gómez](http://ramiro.org/) ([@yaph](https://twitter.com/yaph)) where he does a more in-depth analysis of the 
+by [Ramiro Gómez](http://ramiro.org/) ([@yaph](https://twitter.com/yaph)) where he does a more in-depth analysis of the
 data set we used for today’s challenge.
-

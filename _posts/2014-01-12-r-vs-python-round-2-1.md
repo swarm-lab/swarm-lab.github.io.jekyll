@@ -4,9 +4,10 @@ date: 2014-01-12
 author: Simon Garnier
 layout: post
 type: post
-category: 
+category:
     - blog
     - rvspython
+    - r
 published: true
 
 ---
@@ -48,7 +49,7 @@ library(RCurl)      # Everything necessary to grab webpages on the Web
 library(XML)        # Everything necessary to parse XML and HTML code
 library(pbapply)    # Progress bars!!! Just because why not :-)
 
-# Create curl handle which can be used for multiple HHTP requests. 
+# Create curl handle which can be used for multiple HHTP requests.
 # followlocation = TRUE in case one of the URLs we want to grab is a redirection
 # link.
 curl <- getCurlHandle(useragent = "R", followlocation = TRUE)
@@ -77,7 +78,7 @@ With all this information in mind, our first task is to create a list of all the
 # Prepare URLs of the movie lists alphabetically ordered by first letter of
 # movie title (capital A to Z, except for v and y) + "numbers" list (for movies
 # which title starts with a number)
-urls.by.letter <- paste0("http://www.moviebodycounts.com/movies-", 
+urls.by.letter <- paste0("http://www.moviebodycounts.com/movies-",
                          c("numbers", LETTERS[1:21], "v", "W" , "x", "Y", "Z"), ".htm")
 
 {% endhighlight %}
@@ -100,15 +101,15 @@ For each movie list, we will...
 {% highlight r %}
 # For each movie list... For loops are frowned upon in R, let's use the classier
 # apply functions instead. Here I use the pblapply from the pbapply package.
-# It's equivalent to the regular lapply function, but it provides a neat 
-# progress bar. Unlist to get a vector. 
+# It's equivalent to the regular lapply function, but it provides a neat
+# progress bar. Unlist to get a vector.
 urls.by.movie <- unlist(pblapply(urls.by.letter, FUN = function(URL) {
 {% endhighlight %}
 
 
 {% highlight python %}
 list_of_films = []
-  
+
 # Go through each movie list page and gather all of the movie web page URLs
 for letter in letters:
   try:
@@ -149,9 +150,9 @@ for letter in letters:
 
 
 {% highlight r %}
-  # Extract desired links from HTML content using XPath. 
+  # Extract desired links from HTML content using XPath.
   # The desired links are all the URLs ("a/@href") directly following
-  # ("/following::") the image which source file is called "graphic-movies.jpg" 
+  # ("/following::") the image which source file is called "graphic-movies.jpg"
   # ("//img[@src='graphic-movies.jpg']").
   links <- as.vector(xpathSApply(parsed.html, "//img[@src='graphic-movies.jpg']/following::a/@href"))
 
@@ -181,7 +182,7 @@ urls.by.movie <- urls.by.movie[-ix]
           # The URL is in between parentheses (), so we can simply split the string on those
           # Some URLs are full URLs, e.g. www.moviebodycounts.com/movie_name.html, so splitting on the / gives us only the page name
           list_of_films.append(line.split("(")[-1].strip(")").split("/")[-1])
-      
+
     # If the movie list page doesn't exist, keep going
     except:
       print "\nerror with " + letter + "\n"
@@ -194,7 +195,7 @@ For each movie, we will...
 
 
 {% highlight r %}
-# For each movie... 
+# For each movie...
 # do.call(rbind, ...) to reorganize the results in a nice data frame
 data <- do.call(rbind, pblapply(urls.by.movie, FUN = function(URL) {
 {% endhighlight %}
@@ -205,7 +206,7 @@ data <- do.call(rbind, pblapply(urls.by.movie, FUN = function(URL) {
 # extract the movie name, kill counts, etc.
 out_file = open("film-death-counts.csv", "wb")
 out_file.write("Film,Year,Kill_Count,IMDB_url\n")
-  
+
 for film_page in list_of_films:
   try:
       # The information we're looking for on the page:
@@ -320,15 +321,15 @@ for film_page in list_of_films:
   # Using gsub, remove everything in parenthesis and all non number characters
   Body_Count <- gsub("\\(.*?\\)", " ", Body_Count)
   Body_Count <- gsub("[^0-9]+", " ", Body_Count)
-  
+
   # In case the total count has been split, we want to separate these numbers
   # from each other so that we can add them up later. Using strsplit, split the
   # character string at spaces
   Body_Count <- unlist(strsplit(Body_Count, " "))
-  
+
   # For now, we have extracted characters. Transform them into numbers.
   Body_Count <- as.numeric(Body_Count)
-  
+
   # Sum up the numbers (in case they have been split into separate categories.
   Body_Count <- sum(Body_Count, na.rm = TRUE)
 {% endhighlight %}
@@ -380,6 +381,6 @@ ___
 
 #### 4 - Bonus for the braves ####
 
-Today's challenge was code and text heavy. No pretty pictures to please the eye. So, for all the brave people who made it to the end, here is a cat picture :-) 
+Today's challenge was code and text heavy. No pretty pictures to please the eye. So, for all the brave people who made it to the end, here is a cat picture :-)
 
 ![Programming cat](/img/posts/2014-01-12-r-vs-python-round-2-1/programming_cat.jpg){: .full }

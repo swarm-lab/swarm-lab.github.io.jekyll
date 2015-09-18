@@ -4,9 +4,10 @@ date: 2014-02-05
 author: Simon Garnier
 layout: post
 type: post
-category: 
+category:
     - blog
     - rvspython
+    - r
 published: true
 
 ---
@@ -64,8 +65,8 @@ Now, let's load the dataset from Quandl. You can find it on Quandl's website [he
 
 {% highlight r %}
 # Load data from Quandl
-my.data <- Quandl("TPC/HIST_RECEIPT", 
-                  start_date = "1945-12-31", 
+my.data <- Quandl("TPC/HIST_RECEIPT",
+                  start_date = "1945-12-31",
                   end_date = "2013-12-31")
 
 # Display first lines of the data frame
@@ -82,7 +83,7 @@ quandl_data.head()
 {% endhighlight %}
 
 
-The column names from Quandl's data frame contain spaces. We need to correct that before we can proceed with the rest of the analysis. 
+The column names from Quandl's data frame contain spaces. We need to correct that before we can proceed with the rest of the analysis.
 
 
 {% highlight r %}
@@ -107,12 +108,12 @@ The dataset contains three columns of interest for us: individuals' and corporat
 
 {% highlight r %}
 # Create graph object
-graph <- xyplot(Individual.Income.Taxes ~ Fiscal.Year, 
+graph <- xyplot(Individual.Income.Taxes ~ Fiscal.Year,
                 data = my.data,
                 type = c("g", "b"),
                 col = "#00526D")
 
-graph <- graph + xyplot(Corporation.Income.Taxes ~ Fiscal.Year, 
+graph <- graph + xyplot(Corporation.Income.Taxes ~ Fiscal.Year,
                         data = my.data,
                         type = c("b"),
                         col = "#AD3333")
@@ -122,23 +123,23 @@ my.theme <- within(trellis.par.get(), {
   plot.line <- within(plot.line, {
     lwd <- 3
   })
-  
+
   axis.text <- within(axis.text, {
     cex <- 1.25
   })
-  
+
   par.xlab.text <- within(par.xlab.text, {
     cex <- 1.5
   })
-  
+
   par.ylab.text <- within(par.ylab.text, {
     cex <- 1.5
   })
-  
+
   add.text <- within(add.text, {
     cex <- 1.25
   })
-  
+
   superpose.line <- within(superpose.line, {
     col <- c("#00526D", "#AD3333")
     lwd <- 3
@@ -157,8 +158,8 @@ key <- within(list(), {
   points = FALSE
 })
 
-# Update graph object 
-graph <- update(graph, 
+# Update graph object
+graph <- update(graph,
                 xlab = "Fiscal year", ylab = "Income taxes (% of GDP)",
                 ylim = ylim,
                 par.settings = my.theme,
@@ -214,8 +215,8 @@ corporation_regression = sm.OLS.from_formula("Corporation_Income_Taxes ~ Fiscal_
 
 
 Now let's have a look to the summary statistics of each fitted model. We will
-display the R output only to keep things simple. However if you decide to 
-look at the Python output, the result of the regression might look a bit 
+display the R output only to keep things simple. However if you decide to
+look at the Python output, the result of the regression might look a bit
 different. Randy had to transform the dates into years because the fitting
 function did not seem capable of handling dates like the fitting function in
 R does (it converts the dates in days in this case).
@@ -227,23 +228,23 @@ First, the model for individuals' income taxes:
 # Summary statistics for individual income taxes model
 summary(model.ind)
 
-## 
+##
 ## Call:
 ## lm(formula = Individual.Income.Taxes ~ Fiscal.Year, data = my.data)
-## 
+##
 ## Residuals:
-##     Min      1Q  Median      3Q     Max 
-## -1.9522 -0.3065  0.0217  0.3101  2.0674 
-## 
+##     Min      1Q  Median      3Q     Max
+## -1.9522 -0.3065  0.0217  0.3101  2.0674
+##
 ## Coefficients:
 ##             Estimate Std. Error t value Pr(>|t|)    
 ## (Intercept) 7.84e+00   1.09e-01   72.18   <2e-16 ***
 ## Fiscal.Year 2.58e-05   1.33e-05    1.93    0.058 .  
 ## ---
 ## Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
-## 
+##
 ## Residual standard error: 0.806 on 67 degrees of freedom
-## Multiple R-squared:  0.0528,	Adjusted R-squared:  0.0387 
+## Multiple R-squared:  0.0528,	Adjusted R-squared:  0.0387
 ## F-statistic: 3.73 on 1 and 67 DF,  p-value: 0.0575
 ##
 {% endhighlight %}
@@ -261,23 +262,23 @@ Then, the model for corporations' income taxes:
 # Summary statistics for corporation income taxes model
 summary(model.corp)
 
-## 
+##
 ## Call:
 ## lm(formula = Corporation.Income.Taxes ~ Fiscal.Year, data = my.data)
-## 
+##
 ## Residuals:
-##    Min     1Q Median     3Q    Max 
-## -1.535 -0.478 -0.150  0.394  2.394 
-## 
+##    Min     1Q Median     3Q    Max
+## -1.535 -0.478 -0.150  0.394  2.394
+##
 ## Coefficients:
 ##              Estimate Std. Error t value Pr(>|t|)    
 ## (Intercept)  3.43e+00   9.93e-02    34.6   <2e-16 ***
 ## Fiscal.Year -1.56e-04   1.22e-05   -12.8   <2e-16 ***
 ## ---
 ## Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
-## 
+##
 ## Residual standard error: 0.737 on 67 degrees of freedom
-## Multiple R-squared:  0.711,	Adjusted R-squared:  0.706 
+## Multiple R-squared:  0.711,	Adjusted R-squared:  0.706
 ## F-statistic:  164 on 1 and 67 DF,  p-value: <2e-16
 ##
 {% endhighlight %}
@@ -295,27 +296,27 @@ Of course, we need to be very cautious in the interpretation of these results be
 
 For now, we will assume that everything is good and we will focus on plotting the two linear models and their confidence interval over the data.
 
-To do this, we will first compute the value and confidence interval as predicted by each model for different dates. We will choose dates that cover the whole studied period (1945-2013), plus a little extra on both ends (10%) to make the graph more aesthetically pleasing (*i.e.*, the models' predictions will cover a larger time period than the x-axis limits of the graph). 
+To do this, we will first compute the value and confidence interval as predicted by each model for different dates. We will choose dates that cover the whole studied period (1945-2013), plus a little extra on both ends (10%) to make the graph more aesthetically pleasing (*i.e.*, the models' predictions will cover a larger time period than the x-axis limits of the graph).
 
 
 {% highlight r %}
 # Create new dates for model predictions
 difference <- as.Date("2013-12-31") - as.Date("1945-12-31")
-new.data <- data.frame(Fiscal.Year = seq.Date(from = as.Date("1945-12-31") - 0.1 * difference, 
+new.data <- data.frame(Fiscal.Year = seq.Date(from = as.Date("1945-12-31") - 0.1 * difference,
                                               to = as.Date("2013-12-31") + 0.1 * difference,
                                               by = "years"))
 
 # Compute model predictions (values + confidence intervals) for new dates
 # Model of individual income taxes
 predict.ind <- within(new.data, {
-  Predictions <- as.data.frame(predict(model.ind, 
+  Predictions <- as.data.frame(predict(model.ind,
                                        newdata = new.data,
                                        interval = "confidence"))
 })
 
 # Model of corporation income taxes
 predict.corp <- within(new.data, {
-  Predictions <- as.data.frame(predict(model.corp, 
+  Predictions <- as.data.frame(predict(model.corp,
                                        newdata = new.data,
                                        interval = "confidence"))
 })
@@ -343,34 +344,34 @@ And finally, we will add to the data plot the predicted values as a line and the
 
 
 {% highlight r %}
-# Add predicted values for model of individual income taxes 
-graph <- graph + xyplot(Predictions$fit ~ Fiscal.Year, 
+# Add predicted values for model of individual income taxes
+graph <- graph + xyplot(Predictions$fit ~ Fiscal.Year,
                         data = predict.ind,
                         type = c("l"),
                         col = "#00526D")
 
-# Add predicted values for model of corporation income taxes 
-graph <- graph + xyplot(Predictions$fit ~ Fiscal.Year, 
+# Add predicted values for model of corporation income taxes
+graph <- graph + xyplot(Predictions$fit ~ Fiscal.Year,
                         data = predict.corp,
                         type = c("l"),
                         col = "#AD3333")
 
-# Add confidence polygon for model of individual income taxes 
-graph <- graph + layer_(lpolygon(x = c(predict.ind$Fiscal.Year, 
+# Add confidence polygon for model of individual income taxes
+graph <- graph + layer_(lpolygon(x = c(predict.ind$Fiscal.Year,
                                        rev(predict.ind$Fiscal.Year)),
-                                 y = c(predict.ind$Predictions$upr, 
+                                 y = c(predict.ind$Predictions$upr,
                                        rev(predict.ind$Predictions$lwr)),
-                                 col = "#00526D25", 
+                                 col = "#00526D25",
                                  border = "#00526D75"))
 
-# Add confidence polygon for model of corporation income taxes 
-graph <- graph + layer_(lpolygon(x = c(predict.corp$Fiscal.Year, 
+# Add confidence polygon for model of corporation income taxes
+graph <- graph + layer_(lpolygon(x = c(predict.corp$Fiscal.Year,
                                        rev(predict.corp$Fiscal.Year)),
-                                 y = c(predict.corp$Predictions$upr, 
+                                 y = c(predict.corp$Predictions$upr,
                                        rev(predict.corp$Predictions$lwr)),
-                                 col = "#AD333325", 
+                                 col = "#AD333325",
                                  border = "#AD333375"))
-                                 
+
 # Reprint graph object
 print(graph)
 {% endhighlight %}
@@ -402,11 +403,11 @@ plt.legend(loc="upper left");
 
 ![Predict + CI Python graph](/img/posts/2014-02-05-r-vs-python-round-3/Py/graphPredictPy.png){: .full }
 
-And that's it for today! We hope that you enjoyed it and that you'll come back next time to find out more about running diagnotic tests and correcting potential errors on today's linear models. 
+And that's it for today! We hope that you enjoyed it and that you'll come back next time to find out more about running diagnotic tests and correcting potential errors on today's linear models.
 
 ___
 
 #### 3 - Source code ####
 
-R and Python source codes are available 
+R and Python source codes are available
 [here](https://github.com/morpionZ/R-vs-Python/tree/master/Linear%20regression/code).

@@ -6,6 +6,7 @@ layout: post
 type: post
 category:
     - blog
+    - r
 published: true
 
 ---
