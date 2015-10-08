@@ -103,6 +103,10 @@ people:
   pic: archana
   position: Undergraduate Student
 
+- name: Jordan Bryant-Smith
+  pic: jordan
+  position: Undergraduate Student, Lab Assistant
+
 - name: Daniel Chen
   pic: daniel
   position: Undergraduate Student
@@ -115,12 +119,16 @@ people:
   pic: default
   position: Undergraduate Student
 
+- name: Djerrica Larsen-Simon
+  pic: default
+  position: Undergraduate Student
+
 - name: Albert Saez
   pic: default
   position: Undergraduate Student
 
 - name: Purva Shah
-  pic: default
+  pic: purva
   position: Undergraduate Student, Lab Assistant
 
 - name: Emma Stanton
