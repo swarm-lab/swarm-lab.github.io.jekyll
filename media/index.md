@@ -6,6 +6,18 @@ title: In the media
 
 #### Television & Documentaries
 
+1. "The Road Best Traveled: A Tale of Ants, Slime Mold and the New Jersey Turnpike", by Luke Groskin for Science Friday
+
+    <iframe width="100%" height="400" src="https://www.youtube.com/embed/NUJ_6vju_U0" frameborder="0" allowfullscreen></iframe>
+
+    <br>
+
+1. "Robot swarms: will they bomb us or save us?", by Mae Ryan for The Guardian
+
+    <iframe width="100%" height="400"  src="https://embed.theguardian.com/embed/video/technology/video/2015/sep/18/robot-swarms-video" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+    <br>
+
 1. "Scientists Use Tiny Robots to Understand Ants", by Seth Wharton for Scientific American
 
     <object id="flashObj" width="100%" height="400" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,47,0">
@@ -17,14 +29,15 @@ title: In the media
     <param name="allowFullScreen" value="true" />
     <param name="swLiveConnect" value="true" />
     <param name="allowScriptAccess" value="always" />
-    <embed src="http://c.brightcove.com/services/viewer/federated_f9?isVid=1&isUI=1" bgcolor="#FFFFFF" flashVars="videoId=2260588361001&playerID=4298174096001&playerKey=AQ~~,AAAAAFNl7zk~,OmXvgxJOvrFlNNcISwb5HS0SrUe6qS3Q&domain=embed&dynamicStreaming=true" base="http://admin.brightcove.com" name="flashObj" width="100%" height="400" seamlesstabbing="false" type="application/x-shockwave-flash" allowFullScreen="true" allowScriptAccess="always" swLiveConnect="true" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></embed></object>
-    
+    <param name="autoStart" value="false" />
+    <embed src="http://c.brightcove.com/services/viewer/federated_f9?isVid=1&isUI=1" bgcolor="#FFFFFF" flashVars="videoId=2260588361001&playerID=4298174096001&playerKey=AQ~~,AAAAAFNl7zk~,OmXvgxJOvrFlNNcISwb5HS0SrUe6qS3Q&domain=embed&dynamicStreaming=true" base="http://admin.brightcove.com" name="flashObj" width="100%" height="400" seamlesstabbing="false" type="application/x-shockwave-flash" allowFullScreen="true" allowScriptAccess="always" swLiveConnect="true" autoStart="false" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></embed></object>
+
     <br>
 
 1. "Robot ants: mini-machines mimic insect colony", by Victoria Gill for BBC News
 
     <iframe width="100%" height="400" src="https://www.youtube.com/embed/4PUsIr1yIOo" frameborder="0" allowfullscreen></iframe>
-    
+
     <br>
 
 1. "Collective Minds - The Intelligence of Swarms", by Jakob Kneser for Arte, produced by [A&Obuero](http://www.a-o-buero.de/)
