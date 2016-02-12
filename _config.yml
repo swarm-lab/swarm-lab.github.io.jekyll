@@ -27,6 +27,13 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/simongarnier
 
+- name: Jason Graham
+  pic: jason
+  position: Visiting Scholar (<a href="http://www.scranton.edu/">U. of Scranton</a>)
+  social:
+    - title: link
+      url: https://sites.google.com/site/jasonmgrahamus/
+
 - name: Lisa O'Bryan
   pic: lisa
   position: Postdoctoral Fellow
@@ -67,33 +74,12 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/pub/courtney-rockenbach/1a/8a8/794
 
-- name: Megan Wilson
-  pic: megan
-  position: Graduate Student (rotation)
-
 - name: Maggie Wisniewska
   pic: maggie
   position: Graduate Student (rotation)
   social:
     - title: linkedin
       url: https://www.linkedin.com/pub/maggie-wisniewska/44/858/515
-
-- name: Felipe Marcel Neves
-  pic: felipe
-  position: Visiting Graduate Student
-  social:
-    - title: twitter
-      url: https://twitter.com/fmarcelneves
-    - title: link
-      url: https://www.researchgate.net/profile/Felipe_Neves5
-
-- name: Nidhi Dharithreesan
-  pic: default
-  position: Master Student
-
-- name: Siddesh Raut
-  pic: default
-  position: Master Student
 
 - name: Prit Zaveri
   pic: prit
@@ -111,6 +97,10 @@ people:
   pic: daniel
   position: Undergraduate Student
 
+- name: Atharva Dhole
+  pic: default
+  position: Undergraduate Student
+
 - name: Nilanjan Haldar
   pic: nilanjan
   position: Undergraduate Student
@@ -119,8 +109,20 @@ people:
   pic: default
   position: Undergraduate Student
 
+- name: Jianna Kurian
+  pic: default
+  position: Undergraduate Student, Lab Assistant
+
 - name: Djerrica Larsen-Simon
   pic: default
+  position: Undergraduate Student
+
+- name: Richard lee
+  pic: default
+  position: Undergraduate Student
+
+- name: Wajihah Memon
+  pic: wajihah
   position: Undergraduate Student
 
 - name: Shrina Patel
@@ -135,18 +137,11 @@ people:
   pic: purva
   position: Undergraduate Student, Lab Assistant
 
-- name: Emma Stanton
+- name: Karima Bello
   pic: default
   position: High School Student
 
 people_old:
-- name: Jason Graham
-  pic: jason
-  position: Visiting Scholar (<a href="http://www.scranton.edu/">U. of Scranton</a>)
-  social:
-    - title: link
-      url: https://sites.google.com/site/jasonmgrahamus/
-
 - name: Chris Reid
   pic: chris
   position: Postdoctoral Fellow & Australian Extraordinaire
@@ -155,6 +150,23 @@ people_old:
       url: https://twitter.com/ChrisRReid1
     - title: link
       url: https://sites.google.com/site/chrisreidbiologist/home
+
+- name: Megan Wilson
+  pic: megan
+  position: Graduate Student (rotation)
+
+- name: Felipe Marcel Neves
+  pic: felipe
+  position: Visiting Graduate Student
+  social:
+    - title: twitter
+      url: https://twitter.com/fmarcelneves
+    - title: link
+      url: https://www.researchgate.net/profile/Felipe_Neves5
+
+- name: Nidhi Dharithreesan
+  pic: default
+  position: Master Student
 
 - name: Oswaldo Gil
   pic: oswaldo
