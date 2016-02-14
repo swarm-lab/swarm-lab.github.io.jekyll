@@ -101,11 +101,19 @@ people:
   pic: default
   position: Undergraduate Student
 
+- name: Yasmine Elfarra
+  pic: default
+  position: Undergraduate Student
+
 - name: Nilanjan Haldar
   pic: nilanjan
   position: Undergraduate Student
 
 - name: Urvya Iyer
+  pic: default
+  position: Undergraduate Student
+
+- name: Sima Kalam
   pic: default
   position: Undergraduate Student
 
@@ -129,15 +137,19 @@ people:
   pic: shrina
   position: Undergraduate Student
 
-- name: Albert Saez
-  pic: default
-  position: Undergraduate Student
-
 - name: Purva Shah
   pic: purva
   position: Undergraduate Student, Lab Assistant
 
+- name: Balvir Singh
+  pic: default
+  position: Undergraduate Student
+
 - name: Karima Bello
+  pic: default
+  position: High School Student
+
+- name: Caren Willphine
   pic: default
   position: High School Student
 
@@ -192,10 +204,6 @@ people_old:
   pic: default
   position: Undergraduate Student
 
-- name: Sima Kalam
-  pic: default
-  position: Undergraduate Student
-
 - name: Moheb Kamel
   pic: default
   position: Undergraduate Student
@@ -210,6 +218,10 @@ people_old:
 
 - name: Suraj Rajesh
   pic: suraj
+  position: Undergraduate Student
+
+- name: Albert Saez
+  pic: default
   position: Undergraduate Student
 
 - name: Leslie Seby
