@@ -105,10 +105,6 @@ people:
   pic: default
   position: Undergraduate Student
 
-- name: Nilanjan Haldar
-  pic: nilanjan
-  position: Undergraduate Student
-
 - name: Urvya Iyer
   pic: default
   position: Undergraduate Student
@@ -140,10 +136,6 @@ people:
 - name: Purva Shah
   pic: purva
   position: Undergraduate Student, Lab Assistant
-
-- name: Balvir Singh
-  pic: default
-  position: Undergraduate Student
 
 - name: Karima Bello
   pic: default
@@ -196,6 +188,10 @@ people_old:
   pic: default
   position: Undergraduate Student
 
+- name: Nilanjan Haldar
+  pic: nilanjan
+  position: Undergraduate Student
+
 - name: Abid Haque
   pic: abid
   position: Undergraduate Student
@@ -228,6 +224,10 @@ people_old:
   pic: leslie
   position: Undergraduate Student
 
+- name: Balvir Singh
+  pic: default
+  position: Undergraduate Student
+  
 - name: Anna Wisniewski
   pic: default
   position: Undergraduate Student
