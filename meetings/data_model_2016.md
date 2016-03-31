@@ -31,6 +31,7 @@ Ultimately, one of our goals is for this workshop to become an annual or biannua
 3. [Simon Garnier](http://www.theswarmlab.com) + students, NJIT
 4. [Jason Graham](https://sites.google.com/site/jasonmgrahamus/), University of Scranton
 5. [Maurizio Porfiri](http://faculty.poly.edu/~mporfiri/) + students, New York University
+6. Lauren Quevillon, Pennsylvania State University
 6. [Bill Romey](https://www.researchgate.net/profile/William_Romey2), Potsdam University
 7. [Daniel Rubenstein](https://www.princeton.edu/~dir/) + students, Princeton University
 8. [Gareth Russell](https://sites.google.com/a/njit.edu/russell-lab/), NJIT
