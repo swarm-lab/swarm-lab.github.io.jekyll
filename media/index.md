@@ -6,6 +6,14 @@ title: In the media
 
 #### Television & Documentaries
 
+1. "Lens of Time: Slime Lapse", by Spine Films
+
+    <video width="100%" controls="controls">
+      <source src="http://n2ps.storied.co/uploads/548ceb34b78402c4c1baadd636a132f4.mp4" type="video/mp4">
+    </video>
+
+    <br>
+
 1. "The Road Best Traveled: A Tale of Ants, Slime Mold and the New Jersey Turnpike", by Luke Groskin for Science Friday
 
     <iframe width="100%" height="400" src="https://www.youtube.com/embed/NUJ_6vju_U0" frameborder="0" allowfullscreen></iframe>

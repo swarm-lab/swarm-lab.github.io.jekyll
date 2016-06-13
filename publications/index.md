@@ -16,9 +16,6 @@ surfaces. In preparation.
 1. **Garnier S**, Neiman D, Ray S, Perna A (2015) Formation of optimal angles at trail bifurcations in the Argentine ant
 (*Linepithema humile*). In preparation.  
 
-1.  Reid C, MacDonald H, Latty T, Mann R, Marshall J, **Garnier, S** (2015) Cellular decision-making: how an amoeboid
-organism conquers the two-armed bandit. In preparation.
-
 1. **Garnier S**, Perna A, Labédan M, Fourcassié V, Theraulaz G, Couzin ID (2015) Spatio-temporal characteristics of
 emerging trail networks in the Argentine ant (*Linepithema humile*). In preparation.
 
@@ -26,41 +23,39 @@ emerging trail networks in the Argentine ant (*Linepithema humile*). In preparat
 
 #### Published Refereed Journal Papers
 
-1. Reid CR, Lutz MJ, Powell S, Kao AB, Couzin ID, **Garnier S** (2015) Army ants dynamically adjust living bridges in response to a cost–benefit trade-off. PNAS Early Edition.
-[link](http://www.pnas.org/content/early/2015/11/18/1512241112) | 
+1. Reid CR, MacDonald H, Mann RP, Marshall JAR, Latty T, **Garnier S** (2016) Decision-making without a brain: how an amoeboid organism solves the two-armed bandit. J R Soc Interface 13: 20160030.
+[link](http://rsif.royalsocietypublishing.org/content/13/119/20160030) |
+[pdf](http://rsif.royalsocietypublishing.org/content/royinterface/13/119/20160030.full.pdf)
+
+1. Reid CR, Lutz MJ, Powell S, Kao AB, Couzin ID, **Garnier S** (2015) Army ants dynamically adjust living bridges in response to a cost–benefit trade-off. PNAS 112: 15113–15118.
+[link](http://www.pnas.org/content/early/2015/11/18/1512241112) |
 pdf
 
-1. Dorigo M, Birattari M, **Garnier S**, Hamann H, de Oca MAM, Solnon C, Stützle, T (2015) ANTS 2014 special issue: Editorial. Swarm Intell (in press).
+1. Dorigo M, Birattari M, **Garnier S**, Hamann H, de Oca MAM, Solnon C, Stützle, T (2015) ANTS 2014 special issue: Editorial. Swarm Intell 9: 71–73.
 [link](http://link.springer.com/article/10.1007/s11721-015-0111-0/fulltext.html) |
 pdf
 
-1. Vela-Pérez M, Fontelos MA, **Garnier S** (2015) From Individual to Collective Dynamics in Argentine Ants (*Linepithema
-humile*). Math Biosci 262: 56-64.
+1. Vela-Pérez M, Fontelos MA, **Garnier S** (2015) From Individual to Collective Dynamics in Argentine Ants (*Linepithema humile*). Math Biosci 262: 56-64.
 [link](http://www.sciencedirect.com/science/article/pii/S0025556415000097) |
 pdf
 
-1. Reid CR, **Garnier S**, Beekman M, Latty T (2015) Information integration and multiattribute decision making in
-non-neuronal organisms. Anim Behav 100: 44–50.
+1. Reid CR, **Garnier S**, Beekman M, Latty T (2015) Information integration and multiattribute decision making in non-neuronal organisms. Anim Behav 100: 44–50.
 [link](http://dx.doi.org/10.1016/j.anbehav.2014.11.010) |
 pdf
 
-1. Pérez-Escudero A, Miller N, Hartnett AT, **Garnier S**, Couzin ID, et al. (2013) Estimation models describe well
-collective decisions among three options. PNAS 110: E3466–E3467.
+1. Pérez-Escudero A, Miller N, Hartnett AT, **Garnier S**, Couzin ID, et al. (2013) Estimation models describe well collective decisions among three options. PNAS 110: E3466–E3467.
 [link](http://www.ncbi.nlm.nih.gov/pubmed/23898214) |
 pdf
 
-1. **Garnier S**, Combe M, Jost C, Theraulaz G (2013) Do ants need to estimate the geometrical properties of trail
-bifurcations to find an efficient route? A swarm robotics test bed. PLoS Comput Biol 9: e1002903.
+1. **Garnier S**, Combe M, Jost C, Theraulaz G (2013) Do ants need to estimate the geometrical properties of trail bifurcations to find an efficient route? A swarm robotics test bed. PLoS Comput Biol 9: e1002903.
 [link](http://dx.plos.org/10.1371/journal.pcbi.1002903) |
 pdf
 
-1. **Garnier S**, Murphy T, Lutz M, Hurme E, Leblanc S, et al. (2013) Stability and responsiveness in a self-organized
-living architecture. PLoS Comput Biol 9: e1002984.
+1. **Garnier S**, Murphy T, Lutz M, Hurme E, Leblanc S, et al. (2013) Stability and responsiveness in a self-organized living architecture. PLoS Comput Biol 9: e1002984.
 [link](http://dx.plos.org/10.1371/journal.pcbi.1002984) |
 pdf
 
-1. Miller N, **Garnier S**, Hartnett AT, Couzin ID (2013) Both information and social cohesion determine collective
-decisions in animal groups. Proc Natl Acad Sci U S A 110: 5263–5268.
+1. Miller N, **Garnier S**, Hartnett AT, Couzin ID (2013) Both information and social cohesion determine collective decisions in animal groups. Proc Natl Acad Sci U S A 110: 5263–5268.
 [link](http://www.pnas.org/cgi/doi/10.1073/pnas.1217513110) |
 pdf
 
