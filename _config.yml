@@ -34,6 +34,15 @@ people:
     - title: link
       url: https://sites.google.com/site/jasonmgrahamus/
 
+- name: Heather Barnett
+  pic: heather
+  position: Visiting Artist
+  social:
+    - title: link
+      url: http://heatherbarnett.co.uk/
+    - title: twitter
+      url: https://twitter.com/HeatherABarnett
+
 - name: Lisa O'Bryan
   pic: lisa
   position: Postdoctoral Fellow
@@ -85,8 +94,12 @@ people:
   pic: prit
   position: Master Student
 
-- name: Archana Bottu
-  pic: archana
+- name: Hala Abbas
+  pic: default
+  position: Undergraduate Student
+
+- name: Breeann Baptiste
+  pic: default
   position: Undergraduate Student
 
 - name: Jordan Bryant-Smith
@@ -95,10 +108,6 @@ people:
 
 - name: Daniel Chen
   pic: daniel
-  position: Undergraduate Student
-
-- name: Atharva Dhole
-  pic: default
   position: Undergraduate Student
 
 - name: Yasmine Elfarra
@@ -121,25 +130,29 @@ people:
   pic: default
   position: Undergraduate Student
 
-- name: Richard lee
-  pic: default
-  position: Undergraduate Student
-
 - name: Wajihah Memon
   pic: wajihah
   position: Undergraduate Student
 
+- name: Matthew Moreno
+  pic: default
+  position: Undergraduate Student, MBI REU intern
+
 - name: Shrina Patel
   pic: shrina
+  position: Undergraduate Student
+
+- name: Emil Severe
+  pic: default
   position: Undergraduate Student
 
 - name: Purva Shah
   pic: purva
   position: Undergraduate Student, Lab Assistant
 
-- name: Karima Bello
+- name: Dylana Wilhelm
   pic: default
-  position: High School Student
+  position: Undergraduate Student, MBI REU intern
 
 - name: Caren Willphine
   pic: caren
@@ -180,6 +193,14 @@ people_old:
   pic: default
   position: Undergraduate Student
 
+- name: Archana Bottu
+  pic: archana
+  position: Undergraduate Student
+
+- name: Atharva Dhole
+  pic: default
+  position: Undergraduate Student
+
 - name: Omar Elamir
   pic: omar
   position: Undergraduate Student
@@ -201,6 +222,10 @@ people_old:
   position: Undergraduate Student
 
 - name: Moheb Kamel
+  pic: default
+  position: Undergraduate Student
+
+- name: Richard lee
   pic: default
   position: Undergraduate Student
 
@@ -227,12 +252,16 @@ people_old:
 - name: Balvir Singh
   pic: default
   position: Undergraduate Student
-  
+
 - name: Anna Wisniewski
   pic: default
   position: Undergraduate Student
 
 - name: Ranya Agarwal
+  pic: default
+  position: High School Student
+
+- name: Karima Bello
   pic: default
   position: High School Student
 
