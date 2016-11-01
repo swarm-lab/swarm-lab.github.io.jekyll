@@ -34,15 +34,6 @@ people:
     - title: link
       url: https://sites.google.com/site/jasonmgrahamus/
 
-- name: Heather Barnett
-  pic: heather
-  position: Visiting Artist
-  social:
-    - title: link
-      url: http://heatherbarnett.co.uk/
-    - title: twitter
-      url: https://twitter.com/HeatherABarnett
-
 - name: Lisa O'Bryan
   pic: lisa
   position: Postdoctoral Fellow
@@ -52,14 +43,21 @@ people:
 
 - name: Nicole Dykstra
   pic: nicole
-  position: Graduate Student (rotation)
+  position: Graduate Student
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/nicolefdykstra
 
+- name: Abid Haque
+  pic: abid
+  position: Graduate Student
+  social:
+    - title: twitter
+      url: https://twitter.com/abidhhaque
+
 - name: Subash Ray
   pic: subash
-  position: Graduate Student (rotation)
+  position: Graduate Student
   social:
     - title: twitter
       url: https://twitter.com/skrRay
@@ -85,26 +83,22 @@ people:
 
 - name: Maggie Wisniewska
   pic: maggie
-  position: Graduate Student (rotation)
+  position: Graduate Student
   social:
     - title: linkedin
       url: https://www.linkedin.com/pub/maggie-wisniewska/44/858/515
 
-- name: Prit Zaveri
-  pic: prit
-  position: Master Student
-
-- name: Hala Abbas
-  pic: default
-  position: Undergraduate Student
-
-- name: Breeann Baptiste
+- name: Noelle Batista
   pic: default
   position: Undergraduate Student
 
 - name: Jordan Bryant-Smith
   pic: jordan
   position: Undergraduate Student, Lab Assistant
+
+- name: Leia Chemmacheril
+  pic: default
+  position: Undergraduate Student
 
 - name: Daniel Chen
   pic: daniel
@@ -118,15 +112,11 @@ people:
   pic: default
   position: Undergraduate Student
 
-- name: Sima Kalam
-  pic: default
-  position: Undergraduate Student
-
 - name: Jianna Kurian
   pic: default
   position: Undergraduate Student, Lab Assistant
 
-- name: Djerrica Larsen-Simon
+- name: Aatqa Memon
   pic: default
   position: Undergraduate Student
 
@@ -134,15 +124,11 @@ people:
   pic: wajihah
   position: Undergraduate Student
 
-- name: Matthew Moreno
-  pic: default
-  position: Undergraduate Student, MBI REU intern
-
 - name: Shrina Patel
   pic: shrina
   position: Undergraduate Student
 
-- name: Emil Severe
+- name: Marzia Rahman
   pic: default
   position: Undergraduate Student
 
@@ -150,9 +136,13 @@ people:
   pic: purva
   position: Undergraduate Student, Lab Assistant
 
-- name: Dylana Wilhelm
+- name: Zainab Shahsamand
   pic: default
-  position: Undergraduate Student, MBI REU intern
+  position: Undergraduate Student
+
+- name: Marie Stewart
+  pic: default
+  position: Undergraduate Student
 
 - name: Caren Willphine
   pic: caren
@@ -167,6 +157,15 @@ people_old:
       url: https://twitter.com/ChrisRReid1
     - title: link
       url: https://sites.google.com/site/chrisreidbiologist/home
+
+- name: Heather Barnett
+  pic: heather
+  position: Visiting Artist
+  social:
+    - title: link
+      url: http://heatherbarnett.co.uk/
+    - title: twitter
+      url: https://twitter.com/HeatherABarnett
 
 - name: Megan Wilson
   pic: megan
@@ -188,6 +187,18 @@ people_old:
 - name: Oswaldo Gil
   pic: oswaldo
   position: Master Student
+
+- name: Prit Zaveri
+  pic: prit
+  position: Master Student
+
+- name: Hala Abbas
+  pic: default
+  position: Undergraduate Student
+
+- name: Breeann Baptiste
+  pic: default
+  position: Undergraduate Student
 
 - name: Amy Belot
   pic: default
@@ -213,11 +224,11 @@ people_old:
   pic: nilanjan
   position: Undergraduate Student
 
-- name: Abid Haque
-  pic: abid
+- name: Katharina Hildebrandt
+  pic: default
   position: Undergraduate Student
 
-- name: Katharina Hildebrandt
+- name: Sima Kalam
   pic: default
   position: Undergraduate Student
 
@@ -225,13 +236,21 @@ people_old:
   pic: default
   position: Undergraduate Student
 
-- name: Richard lee
+- name: Djerrica Larsen-Simon
+  pic: default
+  position: Undergraduate Student
+
+- name: Richard Lee
   pic: default
   position: Undergraduate Student
 
 - name: Hannelore MacDonald
   pic: hannelore
   position: Undergraduate Student
+
+- name: Matthew Moreno
+  pic: default
+  position: Undergraduate Student, MBI REU intern
 
 - name: Sudheesha Perera
   pic: sudheesha
@@ -249,9 +268,17 @@ people_old:
   pic: leslie
   position: Undergraduate Student
 
+- name: Emil Severe
+  pic: default
+  position: Undergraduate Student
+
 - name: Balvir Singh
   pic: default
   position: Undergraduate Student
+
+- name: Dylana Wilhelm
+  pic: default
+  position: Undergraduate Student, MBI REU intern
 
 - name: Anna Wisniewski
   pic: default
