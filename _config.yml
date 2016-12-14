@@ -88,6 +88,10 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/pub/maggie-wisniewska/44/858/515
 
+- name: Prit Zaveri
+  pic: prit
+  position: Master Student
+
 - name: Noelle Batista
   pic: default
   position: Undergraduate Student
@@ -112,6 +116,10 @@ people:
   pic: default
   position: Undergraduate Student
 
+- name: Eleni-Anna Korakas
+  pic: default
+  position: Undergraduate Student
+
 - name: Jianna Kurian
   pic: default
   position: Undergraduate Student, Lab Assistant
@@ -122,6 +130,10 @@ people:
 
 - name: Wajihah Memon
   pic: wajihah
+  position: Undergraduate Student
+
+- name: Amisha Naik
+  pic: amisha
   position: Undergraduate Student
 
 - name: Shrina Patel
@@ -186,10 +198,6 @@ people_old:
 
 - name: Oswaldo Gil
   pic: oswaldo
-  position: Master Student
-
-- name: Prit Zaveri
-  pic: prit
   position: Master Student
 
 - name: Hala Abbas
