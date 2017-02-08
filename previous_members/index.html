@@ -28,7 +28,7 @@ title: Previous members of the lab
                         <h4>{{ member.name }}</h4>
                         <p class="text-muted">{{ member.position }}</p>
                         <ul class="list-inline social-buttons">
-                            {% if member.social == %}
+                            {% if member.social == nil %}
                             <li><a href="#" class="fa-fw"><i class="fa fa-fw"></i></a></li>
                             {% else %}
                             {% for network in member.social %}

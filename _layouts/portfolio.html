@@ -20,7 +20,7 @@
 <section id="truc" class="portfolio">
     <div class="container">
         <div class="row">
-            {% for post in site.categories.[page.portfolio] %}
+            {% for post in site.categories[page.portfolio] %}
             <div class="col-md-4 col-sm-6 portfolio-item">
                 <a href="#portfolioModal{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
                     <div class="portfolio-hover">

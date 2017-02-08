@@ -19,7 +19,7 @@
 <!-- Content -->
 <div class="home">
 
-    {% for post in site.categories.[page.category] %}
+    {% for post in site.categories[page.category] %}
 
     {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
 
