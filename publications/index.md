@@ -6,17 +6,21 @@ title: Publication list
 
 #### Papers submitted or in preparation
 
-1. Lutz M, Reid C, Powell S, Couzin ID, **Garnier S** (2015) Living holds facilitate movement of army ants on steep
+1. **Garnier, S**, Kronauer, DJC. The adaptive significance of phasic colony cycles in army ants. Submitted.
+
+1. Theoretical Predictions for Living-bridge Optimal Positioning. In preparation.
+
+1. Lutz M, Reid C, Powell S, Couzin ID, **Garnier S**. Living holds facilitate movement of army ants on steep
 surfaces. In preparation.
 
-1. Rockenbach C, Reid C, **Garnier S** (2015) Supply chains in ant colonies. In preparation.
+1. Rockenbach C, Reid C, **Garnier S**. Supply chains in ant colonies. In preparation.
 
-1. **Garnier S**, Hurme E, Couzin ID (2015) Temporal organization of traffic in army ant trails. In preparation.
+1. **Garnier S**, Hurme E, Couzin ID. Temporal organization of traffic in army ant trails. In preparation.
 
-1. **Garnier S**, Neiman D, Ray S, Perna A (2015) Formation of optimal angles at trail bifurcations in the Argentine ant
+1. **Garnier S**, Neiman D, Ray S, Perna A. Formation of optimal angles at trail bifurcations in the Argentine ant
 (*Linepithema humile*). In preparation.  
 
-1. **Garnier S**, Perna A, Labédan M, Fourcassié V, Theraulaz G, Couzin ID (2015) Spatio-temporal characteristics of
+1. **Garnier S**, Perna A, Labédan M, Fourcassié V, Theraulaz G, Couzin ID. Spatio-temporal characteristics of
 emerging trail networks in the Argentine ant (*Linepithema humile*). In preparation.
 
 ---

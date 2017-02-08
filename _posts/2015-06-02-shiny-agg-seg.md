@@ -7,10 +7,10 @@ date: 2015-06-02
 img: agg_seg.png
 thumbnail: agg_seg-thumbnail.png
 alt: image-alt
-category: 
+category:
     - shiny-portfolio
-description: 
-    <b>Description:</b> ...
+description:
+    <b>Description:</b> This app lets you explore a simple model of aggregation and segregation between two types of particles. 
     <br><br>
     <b>Demo:</b> <a href="/shiny/aggregation_segregation/">Click here</a>
     <br><br>

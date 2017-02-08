@@ -7,10 +7,10 @@ date: 2015-07-28
 img: opin_dyn.png
 thumbnail: opin_dyn-thumbnail.png
 alt: image-alt
-category: 
+category:
     - shiny-portfolio
-description: 
-    <b>Description:</b> ...
+description:
+    <b>Description:</b> This app lets you explore a simple model of the spreading and competition between types of opinions.
     <br><br>
     <b>Demo:</b> <a href="/shiny/opinion_dynamics/">Click here</a>
     <br><br>

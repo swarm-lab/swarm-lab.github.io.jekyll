@@ -57,7 +57,7 @@ people:
 
 - name: Subash Ray
   pic: subash
-  position: Graduate Student
+  position: Graduate Student (PhD candidate)
   social:
     - title: twitter
       url: https://twitter.com/skrRay
@@ -141,6 +141,10 @@ people:
   position: Undergraduate Student
 
 - name: Marzia Rahman
+  pic: default
+  position: Undergraduate Student
+
+- name: Mitali Shah
   pic: default
   position: Undergraduate Student
 

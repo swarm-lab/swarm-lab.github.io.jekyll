@@ -1,5 +1,5 @@
 ---
 layout: shiny
-address: http://165.230.88.17:3838/biol337/wisdom_of_crowd_exp/
+address: http://shiny.njit.edu/app/05bis_wisdom_of_crowds
 
 ---
