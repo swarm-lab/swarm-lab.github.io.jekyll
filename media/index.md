@@ -6,6 +6,18 @@ title: In the media
 
 #### Television & Documentaries
 
+1. "Swarm Intelligence with Simon Garnier + Corrie Moreau", by [Massive](http://massivesci.com/) and [Pioneer Works](http://pioneerworks.org/science)
+
+    <iframe width="100%" height="400" src="https://player.vimeo.com/video/300794922" frameborder="0" allowfullscreen></iframe><script src="https://player.vimeo.com/api/player.js"></script>
+
+    <br>
+
+1. "What self-driving cars can learn from brainless slime mold", by [Verge Science](https://www.youtube.com/channel/UCtxJFU9DgUhfr2J2bveCHkQ)
+
+    <iframe width="100%" height="400" src="https://www.youtube.com/embed/40f7_93NIgA" frameborder="0" allowfullscreen></iframe>
+
+    <br>
+
 1. "Lens of Time: Slime Lapse", by Spine Films
 
     <video width="100%" controls="controls">
@@ -28,17 +40,7 @@ title: In the media
 
 1. "Scientists Use Tiny Robots to Understand Ants", by Seth Wharton for Scientific American
 
-    <object id="flashObj" width="100%" height="400" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,47,0">
-    <param name="movie" value="http://c.brightcove.com/services/viewer/federated_f9?isVid=1&isUI=1" />
-    <param name="bgcolor" value="#FFFFFF" />
-    <param name="flashVars" value="videoId=2260588361001&playerID=4298174096001&playerKey=AQ~~,AAAAAFNl7zk~,OmXvgxJOvrFlNNcISwb5HS0SrUe6qS3Q&domain=embed&dynamicStreaming=true" />
-    <param name="base" value="http://admin.brightcove.com" />
-    <param name="seamlesstabbing" value="false" />
-    <param name="allowFullScreen" value="true" />
-    <param name="swLiveConnect" value="true" />
-    <param name="allowScriptAccess" value="always" />
-    <param name="autoStart" value="false" />
-    <embed src="http://c.brightcove.com/services/viewer/federated_f9?isVid=1&isUI=1" bgcolor="#FFFFFF" flashVars="videoId=2260588361001&playerID=4298174096001&playerKey=AQ~~,AAAAAFNl7zk~,OmXvgxJOvrFlNNcISwb5HS0SrUe6qS3Q&domain=embed&dynamicStreaming=true" base="http://admin.brightcove.com" name="flashObj" width="100%" height="400" seamlesstabbing="false" type="application/x-shockwave-flash" allowFullScreen="true" allowScriptAccess="always" swLiveConnect="true" autoStart="false" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></embed></object>
+    <iframe width="100%" height="400"  src="https://players.brightcove.net/1399189305/55ae5614-dcad-43e6-9fe9-0da2d5c1cf0f_default/index.html?videoId=2260588361001" allowfullscreen frameborder="0"></iframe>
 
     <br>
 

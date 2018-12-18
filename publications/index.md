@@ -6,26 +6,28 @@ title: Publication list
 
 #### Papers submitted or in preparation
 
-1. **Garnier, S**, Kronauer, DJC. The adaptive significance of phasic colony cycles in army ants. Submitted.
+1. Graham JM, Kao AB, Wilhelm DA, **Garnier S**. Optimal construction of army ant living bridges. Under review.
 
-1. Theoretical Predictions for Living-bridge Optimal Positioning. In preparation.
+1. Delcourt J, Miller N, Couzin ID, **Garnier S**. Methods for the effective study of collective behaviour in a radial arm maze. Under review.
 
-1. Lutz M, Reid C, Powell S, Couzin ID, **Garnier S**. Living holds facilitate movement of army ants on steep
-surfaces. In preparation.
+1. Middleton, EJT, **Garnier S**, Latty T, Reid CR. Temporal and spatial dynamics of trail clearing in the Australian meat ant (*Iridomyrmex purpureus*). In preparation.
+
+1. Lutz M, Reid C, Powell S, Couzin ID, **Garnier S**. Living holds facilitate movement of army ants on steep surfaces. In preparation.
+
+1. **Garnier S**, Neiman D, Ray S, Perna A. Formation of optimal angles at trail bifurcations in the Argentine ant (*Linepithema humile*). In preparation.  
 
 1. Rockenbach C, Reid C, **Garnier S**. Supply chains in ant colonies. In preparation.
 
 1. **Garnier S**, Hurme E, Couzin ID. Temporal organization of traffic in army ant trails. In preparation.
 
-1. **Garnier S**, Neiman D, Ray S, Perna A. Formation of optimal angles at trail bifurcations in the Argentine ant
-(*Linepithema humile*). In preparation.  
-
-1. **Garnier S**, Perna A, Labédan M, Fourcassié V, Theraulaz G, Couzin ID. Spatio-temporal characteristics of
-emerging trail networks in the Argentine ant (*Linepithema humile*). In preparation.
+1. **Garnier S**, Perna A, Labédan M, Fourcassié V, Theraulaz G, Couzin ID. Spatio-temporal characteristics of emerging trail networks in the Argentine ant (*Linepithema humile*). In preparation.
 
 ---
 
 #### Published Refereed Journal Papers
+
+1. **Garnier S**, Kronauer DJC (2017) The adaptive significance of phasic colony cycles in army ants. Journal of Theoretical Biology, 428, 43–47.
+[link](https://doi.org/10.1016/j.jtbi.2017.04.023) | [pdf](http://www.sciencedirect.com/science/article/pii/S002251931730187X/pdfft?md5=39eb91083e1d969b0b0f6de2f3f8d880&pid=1-s2.0-S002251931730187X-main.pdf)
 
 1. Reid CR, MacDonald H, Mann RP, Marshall JAR, Latty T, **Garnier S** (2016) Decision-making without a brain: how an amoeboid organism solves the two-armed bandit. J R Soc Interface 13: 20160030.
 [link](http://rsif.royalsocietypublishing.org/content/13/119/20160030) |

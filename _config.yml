@@ -92,41 +92,13 @@ people:
   pic: prit
   position: Master Student
 
-- name: Noelle Batista
+- name: Scott Bingham
   pic: default
-  position: Undergraduate Student
+  position: Undergraduate Student, MBI REU intern
 
-- name: Jordan Bryant-Smith
-  pic: jordan
-  position: Undergraduate Student, Lab Assistant
-
-- name: Leia Chemmacheril
+- name: Nicole Korzeniecki
   pic: default
-  position: Undergraduate Student
-
-- name: Daniel Chen
-  pic: daniel
-  position: Undergraduate Student
-
-- name: Yasmine Elfarra
-  pic: default
-  position: Undergraduate Student
-
-- name: Urvya Iyer
-  pic: default
-  position: Undergraduate Student
-
-- name: Eleni-Anna Korakas
-  pic: default
-  position: Undergraduate Student
-
-- name: Jianna Kurian
-  pic: default
-  position: Undergraduate Student, Lab Assistant
-
-- name: Aatqa Memon
-  pic: default
-  position: Undergraduate Student
+  position: Undergraduate Student, MBI REU intern
 
 - name: Wajihah Memon
   pic: wajihah
@@ -136,17 +108,17 @@ people:
   pic: amisha
   position: Undergraduate Student
 
-- name: Shrina Patel
-  pic: shrina
-  position: Undergraduate Student
+- name: Oluwatobi Olarogba
+  pic: default
+  position: Undergraduate Student, LSAMP intern
 
-- name: Marzia Rahman
+- name: Ana Pais
   pic: default
   position: Undergraduate Student
 
-- name: Mitali Shah
+- name: Ezekiel Sandor
   pic: default
-  position: Undergraduate Student
+  position: Undergraduate Student, MBI REU intern
 
 - name: Purva Shah
   pic: purva
@@ -156,13 +128,9 @@ people:
   pic: default
   position: Undergraduate Student
 
-- name: Marie Stewart
+- name: Matt Dreyer
   pic: default
-  position: Undergraduate Student
-
-- name: Caren Willphine
-  pic: caren
-  position: High School Student
+  position: High School Student, Provost Summer Research Fellow
 
 people_old:
 - name: Chris Reid
@@ -212,6 +180,10 @@ people_old:
   pic: default
   position: Undergraduate Student
 
+- name: Noelle Batista
+  pic: default
+  position: Undergraduate Student
+
 - name: Amy Belot
   pic: default
   position: Undergraduate Student
@@ -220,12 +192,28 @@ people_old:
   pic: archana
   position: Undergraduate Student
 
+- name: Jordan Bryant-Smith
+  pic: jordan
+  position: Undergraduate Student, Lab Assistant
+
+- name: Leia Chemmacheril
+  pic: default
+  position: Undergraduate Student
+
+- name: Daniel Chen
+  pic: daniel
+  position: Undergraduate Student
+
 - name: Atharva Dhole
   pic: default
   position: Undergraduate Student
 
 - name: Omar Elamir
   pic: omar
+  position: Undergraduate Student
+
+- name: Yasmine Elfarra
+  pic: default
   position: Undergraduate Student
 
 - name: Michael Gonzalez
@@ -240,6 +228,10 @@ people_old:
   pic: default
   position: Undergraduate Student
 
+- name: Urvya Iyer
+  pic: default
+  position: Undergraduate Student
+
 - name: Sima Kalam
   pic: default
   position: Undergraduate Student
@@ -247,6 +239,14 @@ people_old:
 - name: Moheb Kamel
   pic: default
   position: Undergraduate Student
+
+- name: Eleni-Anna Korakas
+  pic: default
+  position: Undergraduate Student
+
+- name: Jianna Kurian
+  pic: default
+  position: Undergraduate Student, Lab Assistant
 
 - name: Djerrica Larsen-Simon
   pic: default
@@ -260,12 +260,32 @@ people_old:
   pic: hannelore
   position: Undergraduate Student
 
+- name: Aatqa Memon
+  pic: default
+  position: Undergraduate Student
+
 - name: Matthew Moreno
   pic: default
   position: Undergraduate Student, MBI REU intern
 
+- name: Ami Patel
+  pic: default
+  position: Undergraduate Student
+
+- name: Shrina Patel
+  pic: shrina
+  position: Undergraduate Student
+
 - name: Sudheesha Perera
   pic: sudheesha
+  position: Undergraduate Student
+
+- name: Omar Qari
+  pic: omar2
+  position: Undergraduate Student
+
+- name: Marzia Rahman
+  pic: default
   position: Undergraduate Student
 
 - name: Suraj Rajesh
@@ -284,7 +304,15 @@ people_old:
   pic: default
   position: Undergraduate Student
 
+- name: Mitali Shah
+  pic: default
+  position: Undergraduate Student
+
 - name: Balvir Singh
+  pic: default
+  position: Undergraduate Student
+
+- name: Marie Stewart
   pic: default
   position: Undergraduate Student
 
@@ -310,6 +338,10 @@ people_old:
 
 - name: David Neiman
   pic: default
+  position: High School Student
+
+- name: Caren Willphine
+  pic: caren
   position: High School Student
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
