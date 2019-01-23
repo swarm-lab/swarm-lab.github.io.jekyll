@@ -1,9 +1,9 @@
 ---
-title: <code>teachR</code> package
+title: <code>teachR</code>
 subtitle: All our educational Shiny apps in one place
 layout: default
 modal-id: teachR
-date: 2015-06-01
+date: 2019-01-18
 img: r_teachr.png
 thumbnail: r_teachr-thumbnail.png
 alt: image-alt

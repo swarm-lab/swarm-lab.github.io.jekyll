@@ -1,9 +1,9 @@
 ---
-title: <code>ROpenCVLite</code> package
+title: <code>ROpenCVLite</code>
 subtitle: Utility package to install OpenCV in R
 layout: default
 modal-id: ropencvlite
-date: 2019-01-22
+date: 2019-01-20
 img: r_ropencvlite.png
 thumbnail: r_ropencvlite-thumbnail.png
 alt: image-alt
