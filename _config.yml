@@ -12,7 +12,8 @@ color:
   secondary: f96b61
   secondary-dark: 333
 
-# Team names, titles and social links
+# Current lab members
+# Name, position and social links
 people:
 - name: Simon Garnier
   pic: simon
@@ -34,17 +35,19 @@ people:
     - title: link
       url: https://sites.google.com/site/jasonmgrahamus/
 
-- name: Lisa O'Bryan
-  pic: lisa
+- name: Michal Pluháček
+  pic: michal
   position: Postdoctoral Fellow
   social:
     - title: twitter
-      url: https://twitter.com/Project_Grunt
+      url: https://twitter.com/MPluhacek
 
 - name: Nicole Dykstra
   pic: nicole
   position: Graduate Student
   social:
+    - title: twitter
+      url: https://twitter.com/enephdee
     - title: linkedin
       url: https://www.linkedin.com/in/nicolefdykstra
 
@@ -85,54 +88,41 @@ people:
   pic: maggie
   position: Graduate Student
   social:
+    - title: twitter
+      url: https://twitter.com/GosiaVisniewska
     - title: linkedin
       url: https://www.linkedin.com/pub/maggie-wisniewska/44/858/515
 
-- name: Prit Zaveri
-  pic: prit
-  position: Master Student
-
-- name: Scott Bingham
+- name: Daniel Meza
   pic: default
-  position: Undergraduate Student, MBI REU intern
-
-- name: Nicole Korzeniecki
-  pic: default
-  position: Undergraduate Student, MBI REU intern
-
-- name: Wajihah Memon
-  pic: wajihah
   position: Undergraduate Student
-
-- name: Amisha Naik
-  pic: amisha
-  position: Undergraduate Student
-
-- name: Oluwatobi Olarogba
-  pic: default
-  position: Undergraduate Student, LSAMP intern
 
 - name: Ana Pais
   pic: default
   position: Undergraduate Student
 
-- name: Ezekiel Sandor
+- name: Saumil Parikh
   pic: default
-  position: Undergraduate Student, MBI REU intern
+  position: Undergraduate Student
 
 - name: Purva Shah
   pic: purva
   position: Undergraduate Student, Lab Assistant
 
-- name: Zainab Shahsamand
-  pic: default
-  position: Undergraduate Student
-
 - name: Matt Dreyer
   pic: default
   position: High School Student, Provost Summer Research Fellow
 
+# Former lab members
+# Name, position and social links
 people_old:
+- name: Lisa O'Bryan
+  pic: lisa
+  position: Postdoctoral Fellow
+  social:
+    - title: twitter
+      url: https://twitter.com/Project_Grunt
+
 - name: Chris Reid
   pic: chris
   position: Postdoctoral Fellow & Australian Extraordinaire
@@ -172,6 +162,10 @@ people_old:
   pic: oswaldo
   position: Master Student
 
+- name: Prit Zaveri
+  pic: prit
+  position: Master Student
+
 - name: Hala Abbas
   pic: default
   position: Undergraduate Student
@@ -187,6 +181,10 @@ people_old:
 - name: Amy Belot
   pic: default
   position: Undergraduate Student
+
+- name: Scott Bingham
+  pic: default
+  position: Undergraduate Student, MBI REU intern
 
 - name: Archana Bottu
   pic: archana
@@ -244,6 +242,10 @@ people_old:
   pic: default
   position: Undergraduate Student
 
+- name: Nicole Korzeniecki
+  pic: default
+  position: Undergraduate Student, MBI REU intern
+
 - name: Jianna Kurian
   pic: default
   position: Undergraduate Student, Lab Assistant
@@ -264,9 +266,21 @@ people_old:
   pic: default
   position: Undergraduate Student
 
+- name: Wajihah Memon
+  pic: wajihah
+  position: Undergraduate Student
+
 - name: Matthew Moreno
   pic: default
   position: Undergraduate Student, MBI REU intern
+
+- name: Amisha Naik
+  pic: amisha
+  position: Undergraduate Student
+
+- name: Oluwatobi Olarogba
+  pic: default
+  position: Undergraduate Student, LSAMP intern
 
 - name: Ami Patel
   pic: default
@@ -292,6 +306,10 @@ people_old:
   pic: suraj
   position: Undergraduate Student
 
+- name: Ezekiel Sandor
+  pic: default
+  position: Undergraduate Student, MBI REU intern
+
 - name: Albert Saez
   pic: default
   position: Undergraduate Student
@@ -305,6 +323,10 @@ people_old:
   position: Undergraduate Student
 
 - name: Mitali Shah
+  pic: default
+  position: Undergraduate Student
+
+- name: Zainab Shahsamand
   pic: default
   position: Undergraduate Student
 
