@@ -384,3 +384,12 @@ ul.share-buttons{
 ul.share-buttons li{
   display: inline;
 }
+
+.scholar {
+    line-height: 0px;
+    font-size: small;
+}
+
+.scholar td {
+    padding-right: 25px;
+}

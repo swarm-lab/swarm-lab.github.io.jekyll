@@ -1,16 +1,16 @@
 ---
-title: New publication - ""
+title: New publication - "Information Transfer During Food Choice in the Slime Mold <i>Physarum polycephalum</i>"
 date: 2019-03-14
 author: Simon Garnier
 layout: post
 type: post
 category:
     - blog
-published: false
+published: true
 
 ---
 
-The SwarmLab is happy to announce the publication of: [Ray, S., Valentini, G., Shah, P., Haque, A., Reid, C., Weber, G., et al. (2019). Information Transfer During Food Choice in the Slime Mold Physarum polycephalum. Frontiers in Ecology and Evolution 7, 67. doi:10.3389/fevo.2019.00067]](https://www.frontiersin.org/articles/10.3389/fevo.2019.00067/)
+The SwarmLab is happy to announce the publication of: [Ray, S., Valentini, G., Shah, P., Haque, A., Reid, C., Weber, G., et al. (2019). Information Transfer During Food Choice in the Slime Mold Physarum polycephalum. Frontiers in Ecology and Evolution 7, 67. doi:10.3389/fevo.2019.00067](https://www.frontiersin.org/articles/10.3389/fevo.2019.00067/)
 
 This paper is a first publication for Subash, Purva and Abid. Many congratulations to them!
 

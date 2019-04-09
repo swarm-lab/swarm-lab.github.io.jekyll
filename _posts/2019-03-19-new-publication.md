@@ -1,12 +1,12 @@
 ---
-title: New publication - ""
-date: 2019-03-24
+title: New publication - "Contact Calls Facilitate Group Contraction in Free-ranging Goats (<i>Capra aegagrus hircus</i>)"
+date: 2019-03-19
 author: Simon Garnier
 layout: post
 type: post
 category:
     - blog
-published: false
+published: true
 
 ---
 
