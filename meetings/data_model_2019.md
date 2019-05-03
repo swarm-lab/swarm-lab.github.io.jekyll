@@ -11,7 +11,7 @@ title: 4th Collaborative Workshop on Modeling Collective Behavior
 
 ###### Funding: NSF OAC Public Access Initiative [grant #1838955](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1838955)
 
-###### Application deadline: March 31, 2019 ([Apply here](https://goo.gl/forms/FrK2Tm5HIkiMACNB3))
+###### Application deadline: March 31, 2019 (~~Apply here~~{% comment %}[Apply here](https://goo.gl/forms/FrK2Tm5HIkiMACNB3){% endcomment %})
 
 ---
 
@@ -25,6 +25,7 @@ This should provide valuable training and experience for researchers coming from
 
 ---
 
+{% comment %}
 #### If you are interested in participating, please read the list of available research projects below and [apply here](https://goo.gl/forms/FrK2Tm5HIkiMACNB3) to join one of them.
 
 #### *Application deadline: March 31, 2019*
@@ -34,6 +35,7 @@ Space is limited. In addition to the project leaders below, we will recruits bet
 Information about travel and housing will be soon indicated at the bottom of this page.
 
 ---
+{% endcomment %}
 
 #### Project list:
 
@@ -75,19 +77,34 @@ Inspired by the coordinated motion of animal groups, 'The Realm' combines visual
 #### Confirmed participants (so far):
 
 - [Heather Barnett](https://heatherbarnett.co.uk/)
+- [Agnes Cameron](https://www.media.mit.edu/people/agnescam/overview/)
+- William Chang
 - [James Curley](https://labs.la.utexas.edu/curley/)
+- [Teodoro Dannemann](https://teodannemann.wordpress.com/)
+- [Jessica Davis](https://www.networkscienceinstitute.org/people/jessica-davis)
+- [Matina Donaldson-Matasci](http://hmcbee.blogspot.com/)
+- Leo Epstein
 - [Josh Firth](https://www.merton.ox.ac.uk/people/dr-josh-firth)
 - [Miguel A Fuentes-Cabrera](https://www.ornl.gov/staff-profile/miguel-fuentes-cabrera)
 - [Simon Garnier](http://www.theswarmlab.com)
 - [Jason Graham](https://sites.google.com/site/jasonmgrahamus/)
 - [Abid Haque](https://www.linkedin.com/in/abidhaque/)
+- Quentin Le Guennec
+- [Carter Loftus](https://cbsapps.ucdavis.edu/GradStudents/Student/View/10758)
+- [Matthew Lutz](https://matthewlutz.net/)
 - [Richard Mann](http://www.richardpmann.com/)
+- [Christine Marizzi](https://www.dnalc.org/about/staff/marizzi.html)
 - [Lisa O’Bryan](https://riceacademy.rice.edu/node/301)
+- Angela Pitera
+- [Maurizio Porfiri](http://faculty.poly.edu/~mporfiri/)
 - [Subash Ray](https://twitter.com/subashKray)
+- [Christopher Revell](http://www.christopherrevell.com/)
+- [Manuel Ruiz Marin](https://sites.google.com/site/webparadocencia/)
 - [Olga Shishkov](http://www.hu.gatech.edu/Shishkov/)
+- [Marius Somveille](https://www.mariussomveille.com/)
 - [Daniel Strömbom](https://scholar.google.se/citations?user=B9DUCHYAAAAJ&hl=sv)
-
-Want to join them? **[APPLY HERE](https://goo.gl/forms/FrK2Tm5HIkiMACNB3)**
+- Ruichen Sun
+- [Adrienne Wood](https://emotionbehavior.com/)
 
 --------------------------------------------------------------------------------
 
