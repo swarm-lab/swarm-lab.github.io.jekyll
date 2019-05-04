@@ -23,7 +23,7 @@ if (!require(ggplot2)) {
   require(ggplot2)
 }
 
-### 
+###
 
 scholar_html <- read_html("https://scholar.google.com/citations?user=4MNHWX8AAAAJ")
 
@@ -35,7 +35,7 @@ scholar_tab <- strsplit(kable(scholar_tab), "\n")[[1]]
 
 scholar_page <- readLines("publications/index.md")
 # start <- which(scholar_page == "#### Google Scholar Report")
-start <- grep("scholar.png", scholar_page)
+start <- grep("scholar.svg", scholar_page)
 end <- min(which(scholar_page == "---")[which(scholar_page == "---") > start])
 scholar_page <- scholar_page[-(start + 1):-(end - 1)]
 
@@ -43,7 +43,7 @@ out <- c(scholar_page[1:start], "", "{:.scholar}", scholar_tab, "", scholar_page
 
 writeLines(out, "publications/index.md")
 
-### 
+###
 
 scholar_df <- data.frame(years = scholar_html %>%
                            html_nodes(xpath='//*[@class="gsc_g_t"]') %>%
@@ -55,13 +55,13 @@ scholar_df <- data.frame(years = scholar_html %>%
                            as.character(.) %>%
                            str_extract(., "(?<=>).+(?=<)") %>%
                            as.numeric()) %>%
-  mutate(., cum_citations = cumsum(citations)) 
+  mutate(., cum_citations = cumsum(citations))
 
-png("img/posts/publications/scholar.png", width = 768, height = 250)
+svg("img/posts/publications/scholar.svg", width = 9, height = 3)
 ggplot(scholar_df, aes(years)) +
   geom_col(aes(y = cum_citations), fill = "#b4133b") +
   geom_col(aes(y = cum_citations - citations), fill = "#008ea5") +
-  geom_text(aes(y = cum_citations, label = paste0("+", citations)), 
+  geom_text(aes(y = cum_citations, label = paste0("+", citations)),
             position = position_dodge(width = 0.9), vjust = -0.75,
             fontface = "bold", size = 5) +
   xlab(NULL)+ ylab(NULL) +

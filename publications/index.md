@@ -6,7 +6,7 @@ title: Publication list
 
 #### Google Scholar Report
 
-![](/img/posts/publications/scholar.png "Cumulated number of publications"){:width="100%"}
+![](/img/posts/publications/scholar.svg "Cumulated number of publications"){:width="100%"}
 
 {:.scholar}
 |As of May 03, 2019 |  All| Since 2014|
