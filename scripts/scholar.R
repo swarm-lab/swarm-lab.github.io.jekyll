@@ -23,18 +23,22 @@ if (!require(ggplot2)) {
   require(ggplot2)
 }
 
+if (!require(svglite)) {
+  install.packages("svglite", repos="http://cran.us.r-project.org")
+  require(svglite)
+}
+
 ###
 
 scholar_html <- read_html("https://scholar.google.com/citations?user=4MNHWX8AAAAJ")
 
 scholar_tab <- scholar_html %>%
-  html_nodes(xpath='//*[@id="gsc_rsb_st"]') %>%
+  html_nodes(xpath = '//*[@id="gsc_rsb_st"]') %>%
   html_table(fill = TRUE)
 names(scholar_tab[[1]])[1] <- paste0("As of ", format(Sys.time(), "%B %d, %Y"))
 scholar_tab <- strsplit(kable(scholar_tab), "\n")[[1]]
 
 scholar_page <- readLines("publications/index.md")
-# start <- which(scholar_page == "#### Google Scholar Report")
 start <- grep("scholar.svg", scholar_page)
 end <- min(which(scholar_page == "---")[which(scholar_page == "---") > start])
 scholar_page <- scholar_page[-(start + 1):-(end - 1)]
@@ -46,18 +50,16 @@ writeLines(out, "publications/index.md")
 ###
 
 scholar_df <- data.frame(years = scholar_html %>%
-                           html_nodes(xpath='//*[@class="gsc_g_t"]') %>%
-                           as.character(.) %>%
-                           str_extract(., "(?<=>).+(?=<)") %>%
+                           html_nodes(xpath = '//*[@class="gsc_g_t"]') %>%
+                           html_text() %>%
                            as.numeric,
                          citations = scholar_html %>%
-                           html_nodes(xpath='//*[@class="gsc_g_al"]') %>%
-                           as.character(.) %>%
-                           str_extract(., "(?<=>).+(?=<)") %>%
+                           html_nodes(xpath = '//*[@class="gsc_g_al"]') %>%
+                           html_text() %>%
                            as.numeric()) %>%
   mutate(., cum_citations = cumsum(citations))
 
-svg("img/posts/publications/scholar.svg", width = 9, height = 3)
+svglite("img/posts/publications/scholar.svg", width = 9, height = 3)
 ggplot(scholar_df, aes(years)) +
   geom_col(aes(y = cum_citations), fill = "#b4133b") +
   geom_col(aes(y = cum_citations - citations), fill = "#008ea5") +

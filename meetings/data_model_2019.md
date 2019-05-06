@@ -98,7 +98,6 @@ Inspired by the coordinated motion of animal groups, 'The Realm' combines visual
 - Angela Pitera
 - [Maurizio Porfiri](http://faculty.poly.edu/~mporfiri/)
 - [Subash Ray](https://twitter.com/subashKray)
-- [Christopher Revell](http://www.christopherrevell.com/)
 - [Manuel Ruiz Marin](https://sites.google.com/site/webparadocencia/)
 - [Olga Shishkov](http://www.hu.gatech.edu/Shishkov/)
 - [Marius Somveille](https://www.mariussomveille.com/)
