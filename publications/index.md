@@ -9,9 +9,9 @@ title: Publication list
 ![](/img/posts/publications/scholar.svg "Cumulated number of publications"){:width="100%"}
 
 {:.scholar}
-|As of May 06, 2019 |  All| Since 2014|
+|As of May 21, 2019 |  All| Since 2014|
 |:------------------|----:|----------:|
-|Citations          | 2689|       1842|
+|Citations          | 2709|       1858|
 |h-index            |   21|         19|
 |i10-index          |   24|         22|
 

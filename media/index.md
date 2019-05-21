@@ -66,6 +66,7 @@ title: In the media
 
 #### Magazines & Newspapers
 
+1. [Striking Down the Queen Won’t Save You From the Swarm](https://www.nytimes.com/2019/05/14/science/hives-queens-science-fiction.html) (The New York Times)
 1. [The Remarkable Self-Organization of Ants](http://www.simonsfoundation.org/quanta/20140409-the-remarkable-self-organization-of-ants/) (Quanta Magazine)
 1. [Do robot ants dream of electric crumbs?](http://www.latimes.com/news/science/sciencenow/la-sci-sn-ant-robots-20130327,0,4899210.story) (The Los Angeles Times)
 1. [Robot Ants Could Make Us More Efficient](http://newswatch.nationalgeographic.com/2013/03/29/robot-ants-could-make-us-more-efficient/) (National Geographic)

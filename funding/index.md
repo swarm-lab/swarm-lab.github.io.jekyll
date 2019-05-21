@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Funding sources
-published: false
+published: true
 
 ---
 
