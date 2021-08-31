@@ -6,7 +6,13 @@ title: Join the Swarm Lab
 
 #### Postdoctoral researchers
 
-There is currently no postdoctoral position available at the Swarm Lab.
+[//]: # There is currently no postdoctoral position available at the Swarm Lab
+
+---
+
+**We currently have a postdoctoral position available on a DARPA-funded research project aimed at testing and validating modeling methods for detecting the onset of migrations and predicting their final destinations using ant colonies as a model system. More info [here](/blog/2019/06/06/postdoc-position/).**
+
+---
 
 Postdoctoral positions are rare because grants large enough to support a postdoctoral researcher are also rare. If you want to join the Swarm Lab as a postdoctoral researcher, your best option is to apply for postdoctoral fellowships that are granted by public and private foundations (NSF, Fulbrigth, Fyssen, etc.). A fairly exhaustive list of postdoctoral funding opportunities was compiled by [Marissa Baskett](http://www.des.ucdavis.edu/faculty/baskett) who made it available  [here](http://www.des.ucdavis.edu/faculty/baskett/links/academia.html#Postdoc).
 

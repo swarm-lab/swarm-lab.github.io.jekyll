@@ -1,5 +1,5 @@
 ---
 layout: shiny
-address: http://shiny.njit.edu/app/06_axelrod
+address: http://shiny.njit.edu/app_direct/06_axelrod
 
 ---

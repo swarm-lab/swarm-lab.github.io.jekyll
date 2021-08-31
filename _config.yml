@@ -17,7 +17,7 @@ color:
 people:
 - name: Simon Garnier
   pic: simon
-  position: PI / Assistant Professor
+  position: PI / Associate Professor
   social:
     - title: twitter
       url: https://twitter.com/sjmgarnier
@@ -35,16 +35,30 @@ people:
     - title: link
       url: https://sites.google.com/site/jasonmgrahamus/
 
-- name: Michal Pluháček
-  pic: michal
+- name: Yohann Chemtob
+  pic: yohann
   position: Postdoctoral Fellow
   social:
     - title: twitter
-      url: https://twitter.com/MPluhacek
+      url: https://twitter.com/ChemtobYohann
+
+- name: Isabella Muratore
+  pic: isabella
+  position: Postdoctoral Fellow
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/isabella-muratore-phd-6b143a5b/
+
+- name: Raphael Asfour
+  pic: raphael
+  position: Graduate Student
+  social:
+    - title: twitter
+      url: https://twitter.com/AsfourRaphael
 
 - name: Nicole Dykstra
   pic: nicole
-  position: Graduate Student
+  position: Graduate Student (PhD candidate)
   social:
     - title: twitter
       url: https://twitter.com/enephdee
@@ -53,7 +67,7 @@ people:
 
 - name: Abid Haque
   pic: abid
-  position: Graduate Student
+  position: Graduate Student (PhD candidate)
   social:
     - title: twitter
       url: https://twitter.com/abidhhaque
@@ -86,32 +100,21 @@ people:
 
 - name: Maggie Wisniewska
   pic: maggie
-  position: Graduate Student
+  position: Graduate Student (PhD candidate)
   social:
     - title: twitter
       url: https://twitter.com/GosiaVisniewska
     - title: linkedin
       url: https://www.linkedin.com/pub/maggie-wisniewska/44/858/515
 
-- name: Daniel Meza
+- name: Israa Amer
   pic: default
   position: Undergraduate Student
 
-- name: Ana Pais
+- name: Derek Gomez
   pic: default
   position: Undergraduate Student
 
-- name: Saumil Parikh
-  pic: default
-  position: Undergraduate Student
-
-- name: Purva Shah
-  pic: purva
-  position: Undergraduate Student, Lab Assistant
-
-- name: Matt Dreyer
-  pic: default
-  position: High School Student, Provost Summer Research Fellow
 
 # Former lab members
 # Name, position and social links
@@ -123,6 +126,13 @@ people_old:
     - title: twitter
       url: https://twitter.com/Project_Grunt
 
+- name: Michal Pluháček
+  pic: michal
+  position: Postdoctoral Fellow
+  social:
+    - title: twitter
+      url: https://twitter.com/MPluhacek
+
 - name: Chris Reid
   pic: chris
   position: Postdoctoral Fellow & Australian Extraordinaire
@@ -131,6 +141,10 @@ people_old:
       url: https://twitter.com/ChrisRReid1
     - title: link
       url: https://sites.google.com/site/chrisreidbiologist/home
+
+- name: Purva Shah
+  pic: purva
+  position: Lab Assistant Extraordinaire
 
 - name: Heather Barnett
   pic: heather
@@ -170,6 +184,10 @@ people_old:
   pic: default
   position: Undergraduate Student
 
+- name:  Chukwueloka (Eloka) Anemelu
+  pic: eloka
+  position: Undergraduate Student
+
 - name: Breeann Baptiste
   pic: default
   position: Undergraduate Student
@@ -205,6 +223,10 @@ people_old:
 - name: Atharva Dhole
   pic: default
   position: Undergraduate Student
+
+- name: Andrew Edwards
+  pic: andrew
+  position: Undergraduate Student, MBI REU intern
 
 - name: Omar Elamir
   pic: omar
@@ -262,12 +284,24 @@ people_old:
   pic: hannelore
   position: Undergraduate Student
 
+- name: LaMonte McFarlande
+  pic: default
+  position: Undergraduate Student
+
 - name: Aatqa Memon
   pic: default
   position: Undergraduate Student
 
 - name: Wajihah Memon
   pic: wajihah
+  position: Undergraduate Student
+
+- name: Jalen Merchant
+  pic: default
+  position: Undergraduate Student
+
+- name: Daniel Meza
+  pic: default
   position: Undergraduate Student
 
 - name: Matthew Moreno
@@ -281,6 +315,14 @@ people_old:
 - name: Oluwatobi Olarogba
   pic: default
   position: Undergraduate Student, LSAMP intern
+
+- name: Ana Pais
+  pic: default
+  position: Undergraduate Student
+
+- name: Saumil Parikh
+  pic: default
+  position: Undergraduate Student
 
 - name: Ami Patel
   pic: default
@@ -304,6 +346,14 @@ people_old:
 
 - name: Suraj Rajesh
   pic: suraj
+  position: Undergraduate Student
+
+- name: Madisson Ann Russell
+  pic: default
+  position: Undergraduate Student, MBI REU intern
+
+- name: Amogh Sakhvala
+  pic: amogh
   position: Undergraduate Student
 
 - name: Ezekiel Sandor
@@ -338,6 +388,10 @@ people_old:
   pic: default
   position: Undergraduate Student
 
+- name: Jessica Wang
+  pic: jessica
+  position: Undergraduate Student, MBI REU intern
+
 - name: Dylana Wilhelm
   pic: default
   position: Undergraduate Student, MBI REU intern
@@ -345,6 +399,10 @@ people_old:
 - name: Anna Wisniewski
   pic: default
   position: Undergraduate Student
+
+- name: James Wolf
+  pic: default
+  position: Undergraduate Student, MBI REU intern
 
 - name: Ranya Agarwal
   pic: default
@@ -358,9 +416,25 @@ people_old:
   pic: default
   position: High School Student
 
+- name: Matt Dreyer
+  pic: default
+  position: High School Student, Provost Summer Research Fellow
+
+- name: Cyreema Marshall
+  pic: default
+  position: High School Student
+
 - name: David Neiman
   pic: default
   position: High School Student
+
+- name: Jayla Nii-Moi
+  pic: default
+  position: High School Student
+
+- name: Shayan Turbin
+  pic: default
+  position: High School Student, Provost Summer Research Fellow
 
 - name: Caren Willphine
   pic: caren

@@ -9,111 +9,116 @@ title: Publication list
 ![](/img/posts/publications/scholar.svg "Cumulated number of publications"){:width="100%"}
 
 {:.scholar}
-|As of May 21, 2019 |  All| Since 2014|
-|:------------------|----:|----------:|
-|Citations          | 2709|       1858|
-|h-index            |   21|         19|
-|i10-index          |   24|         22|
+|As of August 31, 2021 |  All| Since 2016|
+|:---------------------|----:|----------:|
+|Citations             | 4206|       2590|
+|h-index               |   24|         21|
+|i10-index             |   33|         31|
 
 ---
 
-#### Journal Articles Submitted or in Preparation
+#### Refereed Articles (Last updated Aug 31, 2021)
 
-1. Walsh, J. T., **Garnier, S.**, & Linksvayer, T. A. Collective ant behaviors are heritable and shaped by selection. Submitted.
+1. Lutz, M.J., Reid, C.R., Lustri, C.J., Kao, A.B., Garnier, S., Couzin, I.D.: Individual error correction drives responsive self-assembly of army ant scaffolds. Proc. Natl. Acad. Sci. U. S. A. 118, (2021). [10.1073/pnas.2013741118](https://doi.org/10.1073/pnas.2013741118)
 
-1. Wisniewska M., Dykstra N., O’Bryan L., **Garnier, S.**, & Russell G. Teasing apart environmental and social influences on the movement of individuals in group living species - proof of concept. In preparation.
+1. Blackiston, D., Lederer, E., Kriegman, S., Garnier, S., Bongard, J., Levin, M.: A cellular platform for the development of synthetic living machines. Science Robotics. 6, (2021). [10.1126/scirobotics.abf1571](https://doi.org/10.1126/scirobotics.abf1571)
 
-1. Rockenbach, C., Wisclo, W. T., & **Garnier, S.** Leaf-cutter ants buffer fluctuations in the supply and demand of vegetation by creating leaf-piles along their trails. In preparation.
+1. Sankey, D.W.E., O’Bryan, L.R., Garnier, S., Cowlishaw, G., Hopkins, P., Holton, M., Fürtbauer, I., King, A.J.: Consensus of travel direction is achieved by simple copying, not voting, in free-ranging goats. R Soc Open Sci. 8, 201128 (2021). [10.1098/rsos.201128](https://doi.org/10.1098/rsos.201128)
 
-1. Lutz, M., Reid, C. R., **Garnier, S.**, & Couzin, I. D. Dynamical scaffolding along army ants foraging trails. In preparation.
+1. Moffett, M.W., Garnier, S., Eisenhardt, K.M., Furr, N.R., Warglien, M., Sartoris, C., Ocasio, W., Knudsen, T., Bach, L.A., Offenberg, J.: Ant colonies: building complex organizations with minuscule brains and no leaders. Journal of Organization Design. (2021). [10.1007/s41469-021-00093-4](https://doi.org/10.1007/s41469-021-00093-4)
 
----
+1. Walsh, J.T., Garnier, S., Linksvayer, T.A.: Ant collective behavior is heritable and shaped by selection. Am. Nat. 567503 (2020). [10.1086/710709](https://doi.org/10.1086/710709)
 
-#### Published Refereed Journal Articles
+1. Samson, J.E., Ray, D.D., Porfiri, M., Miller, L.A., Garnier, S.: Collective Pulsing in Xeniid Corals: Part I-Using Computer Vision and Information Theory to Search for Coordination. Bull. Math. Biol. 82, 90 (2020). [10.1007/s11538-020-00759-2](https://doi.org/10.1007/s11538-020-00759-2)
 
-1. Ray, S. K., Valentini, G., Shah, P., Haque, A., Reid, C. R., Weber, G. F., & **Garnier, S.** Information Transfer During Food Choice in the Slime Mold *Physarum polycephalum*. Frontiers in Ecology and Evolution. 7, 67. DOI: [10.3389/fevo.2019.00067](https://doi.org/10.3389/fevo.2019.00067)
+1. Pilkiewicz, K.R., Lemasson, B.H., Rowland, M.A., Hein, A., Sun, J., Berdahl, A., Mayo, M.L., Moehlis, J., Porfiri, M., Fernández-Juricic, E., Garnier, S., Bollt, E.M., Carlson, J.M., Tarampi, M.R., Macuga, K.L., Rossi, L., Shen, C.-C.: Decoding collective communications using information theory tools. J. R. Soc. Interface. 17, 20190563 (2020). [10.1098/rsif.2019.0563](https://doi.org/10.1098/rsif.2019.0563)
 
-1. O'Bryan, L. R., Abaid, N., Nakayama, S., Dey, T., King, A. J., Cowlishaw, G., Rubenstein, D., & **Garnier, S.** Contact Calls Facilitate Group Contraction in Free-ranging Goats (*Capra aegagrus hircus*). Frontiers in Ecology and Evolution. 7, 73. DOI: [10.3389/fevo.2019.00073](https://doi.org/10.3389/fevo.2019.00073)
+1. Middleton, E.J.T., Garnier, S., Latty, T., Reid, C.R.: Temporal and spatial pattern of trail clearing in the Australian meat ant, Iridomyrmex purpureus. Anim. Behav. 150, 97–111 (2019). [10.1016/j.anbehav.2019.02.006](https://doi.org/10.1016/j.anbehav.2019.02.006)
 
-1. Middleton, E.J.T., **Garnier, S.**, Latty T., & Reid C.R. (2019). Temporal and spatial dynamics of trail clearing in the Australian meat ant (*Iridomyrmex purpureus*). Animal Behaviour. 150, 97-111. DOI: [10.1016/j.anbehav.2019.02.006](https://doi.org/10.1016/j.anbehav.2019.02.006)
+1. Ray, S., Valentini, G., Shah, P., Haque, A., Reid, C., Weber, G., Garnier, S.: Information Transfer During Food Choice in the Slime Mold Physarum polycephalum. Frontiers in Ecology and Evolution. 7, 67 (2019). [10.3389/fevo.2019.00067](https://doi.org/10.3389/fevo.2019.00067)
 
-1. Ireland, T., & **Garnier, S.** (2018). Architecture, space and information in constructions built by humans and social insects: a conceptual review. Philosophical Transactions of the Royal Society B: Biological Sciences. 373:a753. DOI: [10.1098/rstb.2017.0244](https://doi.org/10.1098/rstb.2017.0244)
+1. O’Bryan, L., Abaid, N., Nakayama, S., Dey, T., King, A., Cowlishaw, G., Rubenstein, D., Garnier, S.: Contact Calls Facilitate Group Contraction in Free-ranging Goats (Capra aegagrus hircus). Frontiers in Ecology and Evolution. 7, 73 (2019). [10.3389/fevo.2019.00073](https://doi.org/10.3389/fevo.2019.00073)
 
-1. Moser, H. L., Doe, A. P., Meier, K., **Garnier, S.**, Laudier, D., Akiyama, H., et al. (2018). Genetic lineage tracing of targeted cell populations during enthesis healing. Journal of Orthopaedic Research. 36, 3275-3284. DOI: [10.1002/jor.24122](https://doi.org/10.1002/jor.24122)
+1. Tuci, E., Trianni, V., King, A., Garnier, S.: Editorial: Novel Technological and Methodological Tools for the Understanding of Collective Behaviors. Frontiers in Robotics and AI. 6, 139 (2019). [10.3389/frobt.2019.00139](https://doi.org/10.3389/frobt.2019.00139)
 
-1. Delcourt, J., Miller, N. Y., Couzin, I. D., & **Garnier, S.** (2018). Methods for the effective study of collective behavior in a radial arm maze. Behavior Research Methods 50:4, 1673-1685. DOI: [10.3758/s13428-018-1024-9](https://doi.org/10.3758/s13428-018-1024-9)
+1. Moser, H.L., Doe, A.P., Meier, K., Garnier, S., Laudier, D., Akiyama, H., Zumstein, M.A., Galatz, L.M., Huang, A.H.: Genetic lineage tracing of targeted cell populations during enthesis healing. J. Orthop. Res. 36, 3275–3284 (2018). [10.1002/jor.24122](https://doi.org/10.1002/jor.24122)
 
-1. **Garnier, S.**, Caplan, J. M., & Kennedy, L. W. (2018). Predicting Dynamical Crime Distribution From Environmental and Social Influences. Frontiers in Applied Mathematics and Statistics 4, 13. DOI: [10.3389/fams.2018.00013](https://doi.org/10.3389/fams.2018.00013)
+1. Ireland, T., Garnier, S.: Architecture, space and information in constructions built by humans and social insects: a conceptual review. Philos. Trans. R. Soc. Lond. B Biol. Sci. 373, (2018). [10.1098/rstb.2017.0244](https://doi.org/10.1098/rstb.2017.0244)
 
-1. Graham, J., Wilhelm, D., Kao, A., & **Garnier, S.** (2017). Optimal construction of army ant living bridges. Journal of Theoretical Biology, 435, 184-198. DOI: [10.1016/j.jtbi.2017.09.017](https://doi.org/10.1016/j.jtbi.2017.09.017)
+1. Delcourt, J., Miller, N.Y., Couzin, I.D., Garnier, S.: Methods for the effective study of collective behavior in a radial arm maze. Behav. Res. Methods. 50, 1673–1685 (2018). [10.3758/s13428-018-1024-9](https://doi.org/10.3758/s13428-018-1024-9)
 
-1. **Garnier, S.**, & Kronauer DJC (2017). The adaptive significance of phasic colony cycles in army ants. Journal of Theoretical Biology, 428, 43-47. DOI: [10.1016/j.jtbi.2017.04.023](https://doi.org/10.1016/j.jtbi.2017.04.023)
+1. Garnier, S., Caplan, J.M., Kennedy, L.W.: Predicting Dynamical Crime Distribution From Environmental and Social Influences. Frontiers in Applied Mathematics and Statistics. 4, 13 (2018). [10.3389/fams.2018.00013](https://doi.org/10.3389/fams.2018.00013)
 
-1. Reid, C. R., MacDonald, H., Mann, R. P., Marshall, J. A. R., Latty, T., & **Garnier, S.** (2016). Decision-Making without a Brain: How an Amoeboid Organism Solves the Two-Armed Bandit. Proceedings of the Royal Society Interface, 13(119), 20160030. DOI: [10.1098/rsif.2016.0030](http://dx.doi.org/10.1098/rsif.2016.0030)
+1. Graham, J.M., Kao, A.B., Wilhelm, D.A., Garnier, S.: Optimal construction of army ant living bridges. J. Theor. Biol. 435, 184–198 (2017). [10.1016/j.jtbi.2017.09.017](https://doi.org/10.1016/j.jtbi.2017.09.017)
 
-1. Reid, C. R., Lutz, M. J., Powell, S., Kao, A. B., Couzin, I. D., & **Garnier, S.** (2015). Army ants dynamically adjust living bridges in response to a cost-benefit trade-off. Proceedings of the National Academy of Sciences of the United States of America, 112(49), 15113-15118. DOI: [10.1073/pnas.1512241112](http://doi.org/10.1073/pnas.1512241112)
+1. Garnier, S., Kronauer, D.J.C.: The adaptive significance of phasic colony cycles in army ants. J. Theor. Biol. 428, 43–47 (2017). [10.1016/j.jtbi.2017.04.023](https://doi.org/10.1016/j.jtbi.2017.04.023)
 
-1. Dorigo, M., Birattari, M., **Garnier, S.**, Hamann, H., de Oca, M. A. M., Solnon, C., & Stützle, T. (2015). ANTS 2014 special issue: Editorial. Swarm Intelligence, 9(2-3), 71-73. DOI: [10.1007/s11721-015-0111-0](http://doi.org/10.1007/s11721-015-0111-0)
+1. Reid, C.R., MacDonald, H., Mann, R.P., Marshall, J.A.R., Latty, T., Garnier, S.: Decision-making without a brain: how an amoeboid organism solves the two-armed bandit. J. R. Soc. Interface. 13, 20160030 (2016). [10.1098/rsif.2016.0030](https://doi.org/10.1098/rsif.2016.0030)
 
-1. Reid, C. R., **Garnier, S.**, Beekman, M., & Latty, T. (2015). Information integration and multiattribute decision making in non-neuronal organisms. Animal Behaviour, 100, 44-50. DOI: [10.1016/j.anbehav.2014.11.010](http://doi.org/10.1016/j.anbehav.2014.11.010)
+1. Reid, C.R., Lutz, M.J., Powell, S., Kao, A.B., Couzin, I.D., Garnier, S.: Army ants dynamically adjust living bridges in response to a cost-benefit trade-off. Proc. Natl. Acad. Sci. U. S. A. 112, 15113–15118 (2015). [10.1073/pnas.1512241112](https://doi.org/10.1073/pnas.1512241112)
 
-1. Vela-Pérez, M., Fontelos, M. a., & **Garnier, S.** (2015). From individual to collective dynamics in Argentine ants (*Linepithema humile*). Mathematical Biosciences, 262, 56-64. DOI: [10.1016/j.mbs.2015.01.007](http://doi.org/10.1016/j.mbs.2015.01.007)
+1. Dorigo, M., Birattari, M., Garnier, S., Hamann, H., de Oca, M.A.M., Solnon, C., Stützle, T.: ANTS 2014 special issue: Editorial. Swarm Intell. 9, 71–73 (2015). [10.1007/s11721-015-0111-0](https://doi.org/10.1007/s11721-015-0111-0)
 
-1. Pérez-Escudero, A., Miller, N., Hartnett, A. T., **Garnier, S.**, Couzin, I. D., & de Polavieja, G. G. (2013). Estimation models describe well collective decisions among three options. Proceedings of the National Academy of Sciences of the United States of America, 110(37), E3466-7. DOI: [10.1073/pnas.1309867110](http://doi.org/10.1073/pnas.1309867110)
+1. Vela-Pérez, M., Fontelos, M.A., Garnier, S.: From individual to collective dynamics in Argentine ants (Linepithema humile). Math. Biosci. 262, 56–64 (2015). [10.1016/j.mbs.2015.01.007](https://doi.org/10.1016/j.mbs.2015.01.007)
 
-1. Miller, N., **Garnier, S.**, Hartnett, A. T., & Couzin, I. D. (2013). Both information and social cohesion determine collective decisions in animal groups. Proceedings of the National Academy of Sciences of the United States of America, 110(13), 5263-5268. DOI: [10.1073/pnas.1217513110](http://doi.org/10.1073/pnas.1217513110)
+1. Reid, C.R., Garnier, S., Beekman, M., Latty, T.: Information integration and multiattribute decision making in non-neuronal organisms. Anim. Behav. 100, 44–50 (2015). [10.1016/j.anbehav.2014.11.010](https://doi.org/10.1016/j.anbehav.2014.11.010)
 
-1. **Garnier, S.**, Murphy, T., Lutz, M., Hurme, E., Leblanc, S., & Couzin, I. D. (2013). Stability and responsiveness in a self-organized living architecture. PLoS Computational Biology, 9(3), e1002984. DOI: [10.1371/journal.pcbi.1002984](http://doi.org/10.1371/journal.pcbi.1002984)
+1. Pérez-Escudero, A., Miller, N., Hartnett, A.T., Garnier, S., Couzin, I.D., de Polavieja, G.G.: Estimation models describe well collective decisions among three options. Proc. Natl. Acad. Sci. U. S. A. 110, E3466–7 (2013). [10.1073/pnas.1309867110](https://doi.org/10.1073/pnas.1309867110)
 
-1. **Garnier, S.**, Combe, M., Jost, C., & Theraulaz, G. (2013). Do ants need to estimate the geometrical properties of trail bifurcations to find an efficient route? A swarm robotics test bed. PLoS Computational Biology, 9(3), e1002903. http://doi.org/10.1371/journal.pcbi.1002903
+1. Miller, N., Garnier, S., Hartnett, A.T., Couzin, I.D.: Both information and social cohesion determine collective decisions in animal groups. Proc. Natl. Acad. Sci. U. S. A. 110, 5263–5268 (2013). [10.1073/pnas.1217513110](https://doi.org/10.1073/pnas.1217513110)
 
-1. Perna, A., Granovskiy, B., **Garnier, S.**, Nicolis, S. C., Labédan, M., Theraulaz, G., Fourcassié, V., & Sumpter, D. J. T. (2012). Individual rules for trail pattern formation in Argentine ants (*Linepithema humile*). PLoS Computational Biology, 8(7), e1002592. DOI: [10.1371/journal.pcbi.1002592](http://doi.org/10.1371/journal.pcbi.1002592)
+1. Garnier, S., Murphy, T., Lutz, M., Hurme, E., Leblanc, S., Couzin, I.D.: Stability and responsiveness in a self-organized living architecture. PLoS Comput. Biol. 9, e1002984 (2013). [10.1371/journal.pcbi.1002984](https://doi.org/10.1371/journal.pcbi.1002984)
 
-1. Gallup, A. C., Hale, J. J., Sumpter, D. J. T., **Garnier, S.**, Kacelnik, A., Krebs, J. R., & Couzin, I. D. (2012). Visual attention and the acquisition of information in human crowds. Proceedings of the National Academy of Sciences, 109(19), 7245-7250. DOI: [10.1073/pnas.1116141109](http://doi.org/10.1073/pnas.1116141109)
+1. Garnier, S., Combe, M., Jost, C., Theraulaz, G.: Do ants need to estimate the geometrical properties of trail bifurcations to find an efficient route? A swarm robotics test bed. PLoS Comput. Biol. 9, e1002903 (2013). [10.1371/journal.pcbi.1002903](https://doi.org/10.1371/journal.pcbi.1002903)
 
-1. Campo, A., **Garnier, S.**, Dédriche, O., Zekkri, M., & Dorigo, M. (2011). Self-organized discrimination of resources. PloS One, 6(5), e19888. DOI: [10.1371/journal.pone.0019888](http://doi.org/10.1371/journal.pone.0019888)
+1. Perna, A., Granovskiy, B., Garnier, S., Nicolis, S.C., Labédan, M., Theraulaz, G., Fourcassié, V., Sumpter, D.J.T.: Individual rules for trail pattern formation in Argentine ants (Linepithema humile). PLoS Comput. Biol. 8, e1002592 (2012). [10.1371/journal.pcbi.1002592](https://doi.org/10.1371/journal.pcbi.1002592)
 
-1. **Garnier, S.** (2011). From Ants to Robots and Back : How Robotics Can Contribute to the Study of Collective Animal Behavior. Bio-Inspired Self-Organizing Robotic Systems, 355, 105-120. DOI: [10.1007/978-3-642-20760-0_5](http://doi.org/10.1007/978-3-642-20760-0_5)
+1. Gallup, A.C., Hale, J.J., Sumpter, D.J.T., Garnier, S., Kacelnik, A., Krebs, J.R., Couzin, I.D.: Visual attention and the acquisition of information in human crowds. Proceedings of the National Academy of Sciences. 109, 7245–7250 (2012). [10.1073/pnas.1116141109](https://doi.org/10.1073/pnas.1116141109)
 
-1. Moussaïd, M., Perozo, N., **Garnier, S.**, Helbing, D., & Theraulaz, G. (2010). The Walking Behaviour of Pedestrian Social Groups and Its Impact on Crowd Dynamics. PloS One, 5(4), e10047. DOI: [10.1371/journal.pone.0010047](http://doi.org/10.1371/journal.pone.0010047)
+1. Campo, A., Garnier, S., Dédriche, O., Zekkri, M., Dorigo, M.: Self-organized discrimination of resources. PLoS One. 6, e19888 (2011). [10.1371/journal.pone.0019888](https://doi.org/10.1371/journal.pone.0019888)
 
-1. Campo, A., Gutiérrez, A., Nouyan, S., Pinciroli, C., Longchamp, V., **Garnier, S.**, & Dorigo, M. (2010). Artificial pheromone for path selection by a foraging swarm of robots. Biological Cybernetics, 103, 339-352. DOI: [10.1007/s00422-010-0402-x](http://dx.doi.org/10.1007/s00422-010-0402-x)
+1. Garnier, S.: From Ants to Robots and Back : How Robotics Can Contribute to the Study of Collective Animal Behavior. Bio-Inspired Self-Organizing Robotic Systems. 355, 105–120 (2011). [10.1007/978-3-642-20760-0_5](https://doi.org/10.1007/978-3-642-20760-0_5)
 
-1. Moussaid, M., Helbing, D., **Garnier, S.**, Johansson, A., Combe, M., & Theraulaz, G. (2009). Experimental study of the behavioural mechanisms underlying self-organization in human crowds. Proceedings of the Royal Society B: Biological Sciences, 276(1668), 2755-2762. DOI: [10.1098/rspb.2009.0405](http://doi.org/10.1098/rspb.2009.0405)
+1. Campo, A., Gutiérrez, A., Nouyan, S., Pinciroli, C., Longchamp, V., Garnier, S., Dorigo, M.: Artificial pheromone for path selection by a foraging swarm of robots. Biol. Cybern. 103, 339–352 (2010). [10.1007/s00422-010-0402-x](https://doi.org/10.1007/s00422-010-0402-x)
 
-1. Moussaid, M., **Garnier, S.**, Theraulaz, G., & Helbing, D. (2009). Collective Information Processing and Pattern Formation in Swarms, Flocks, and Crowds. Topics in Cognitive Science, 1(3), 469-497. DOI: [10.1111/j.1756-8765.2009.01028.x](http://doi.org/10.1111/j.1756-8765.2009.01028.x)
+1. Moussaïd, M., Perozo, N., Garnier, S., Helbing, D., Theraulaz, G.: The Walking Behaviour of Pedestrian Social Groups and Its Impact on Crowd Dynamics. PLoS One. 5, e10047 (2010). [10.1371/journal.pone.0010047](https://doi.org/10.1371/journal.pone.0010047)
 
-1. **Garnier, S.**, Guérécheau, A., Combe, M., Fourcassié, V., & Theraulaz, G. (2009). Path selection and foraging efficiency in Argentine ant transport networks. Behavioral Ecology and Sociobiology, 63(8), 1167-1179. DOI: [10.1007/s00265-009-0741-6](http://doi.org/10.1007/s00265-009-0741-6)
+1. Moussaid, M., Helbing, D., Garnier, S., Johansson, A., Combe, M., Theraulaz, G.: Experimental study of the behavioural mechanisms underlying self-organization in human crowds. Proceedings of the Royal Society B: Biological Sciences. 276, 2755–2762 (2009). [10.1098/rspb.2009.0405](https://doi.org/10.1098/rspb.2009.0405)
 
-1. **Garnier, S.**, Gautrais, J., Asadpour, M., Jost, C., & Theraulaz, G. (2009). Self-Organized Aggregation Triggers Collective Decision Making in a Group of Cockroach-Like Robots. Adaptive Behavior, 17(2), 109-133. DOI: [10.1177/1059712309103430](http://doi.org/10.1177/1059712309103430)
+1. Moussaid, M., Garnier, S., Theraulaz, G., Helbing, D.: Collective Information Processing and Pattern Formation in Swarms, Flocks, and Crowds. Top. Cogn. Sci. 1, 469–497 (2009). [10.1111/j.1756-8765.2009.01028.x](https://doi.org/10.1111/j.1756-8765.2009.01028.x)
 
-1. **Garnier, S.**, Jost, C., Gautrais, J., Asadpour, M., Caprari, G., Jeanson, R., Grimal, A., & Theraulaz, G. (2008). The Embodiment of Cockroach Aggregation Behavior in a Group of Micro-robots. Artificial Life, 14(4), 387-408. DOI: [10.1162/artl.2008.14.4.14400](http://doi.org/10.1162/artl.2008.14.4.14400)
+1. Garnier, S., Guérécheau, A., Combe, M., Fourcassié, V., Theraulaz, G.: Path selection and foraging efficiency in Argentine ant transport networks. Behav. Ecol. Sociobiol. 63, 1167–1179 (2009). [10.1007/s00265-009-0741-6](https://doi.org/10.1007/s00265-009-0741-6)
 
-1. Gerbier, G., **Garnier, S.**, Rieu, C., Theraulaz, G., & Fourcassié, V. (2008). Are ants sensitive to the geometry of tunnel bifurcation? Animal Cognition, 11(4), 637-642. DOI: [10.1007/s10071-008-0153-4](http://doi.org/10.1007/s10071-008-0153-4)
+1. Garnier, S., Gautrais, J., Asadpour, M., Jost, C., Theraulaz, G.: Self-Organized Aggregation Triggers Collective Decision Making in a Group of Cockroach-Like Robots. Adapt. Behav. 17, 109–133 (2009). [10.1177/1059712309103430](https://doi.org/10.1177/1059712309103430)
 
-1. **Garnier, S.**, Gautrais, J., & Theraulaz, G. (2007). The biological principles of swarm intelligence. Swarm Intelligence, 1(1), 3-31. DOI: [10.1007/s11721-007-0004-y](http://doi.org/10.1007/s11721-007-0004-y)
+1. Garnier, S., Jost, C., Gautrais, J., Asadpour, M., Caprari, G., Jeanson, R., Grimal, A., Theraulaz, G.: The Embodiment of Cockroach Aggregation Behavior in a Group of Micro-robots. Artif. Life. 14, 387–408 (2008). [10.1162/artl.2008.14.4.14400](https://doi.org/10.1162/artl.2008.14.4.14400)
 
-1. **Garnier, S.**, Jost, C., Jeanson, R., Gautrais, J., Asadpour, M., Caprari, G., & Theraulaz, G. (2005). Aggregation behaviour as a source of collective decision in a group of cockroach-like-robots. Advances in Artificial Life, 3630, 169-178. DOI: [10.1007/11553090_18](http://doi.org/10.1007/11553090_18)
+1. Gerbier, G., Garnier, S., Rieu, C., Theraulaz, G., Fourcassié, V.: Are ants sensitive to the geometry of tunnel bifurcation? Anim. Cogn. 11, 637–642 (2008). [10.1007/s10071-008-0153-4](https://doi.org/10.1007/s10071-008-0153-4)
 
----
+1. Garnier, S., Gautrais, J., Theraulaz, G.: The biological principles of swarm intelligence. Swarm Intell. 1, 3–31 (2007). [10.1007/s11721-007-0004-y](https://doi.org/10.1007/s11721-007-0004-y)
 
-#### Published Refereed Conference Articles
-
-1. **Garnier, S.**, Tache, F., Combe, M., Grimal, A., & Theraulaz, G. (2007). Alice in Pheromone Land: An Experimental Setup for the Study of Ant-like Robots. In 2007 IEEE Swarm Intelligence Symposium (pp. 37-44). IEEE. http://doi.org/10.1109/SIS.2007.368024
-
-1. Jost, C., **Garnier, S.**, Jeanson, R., Asadpour, M., Gautrais, J., & Theraulaz, G. (2004). The embodiment of cockroach behaviour in a micro-robot. In Proceedings of the 35th International Symposium on Robotics, (pp. 23-26). https://infoscience.epfl.ch/record/97539/files/fullpaperTH31-7garnier.pdf
-
-1. **Garnier, S.**, Jost, C., Jeanson, R., Gautrais, J., Asadpour, M., Caprari, G., & Theraulaz, G. (2005). Collective decision-making by a group of cockroach-like robots. In Proceedings 2005 IEEE Swarm Intelligence Symposium, 2005. SIS 2005. (pp. 233-240). IEEE. http://doi.org/10.1109/SIS.2005.1501627
+1. Garnier, S., Jost, C., Jeanson, R., Gautrais, J., Asadpour, M., Caprari, G., Theraulaz, G.: Aggregation Behaviour as a Source of Collective Decision in a Group of Cockroach-Like-Robots. In: Capcarrère, M.S., Freitas, A.A., Bentley, P.J., Johnson, C.G., and Timmis, J. (eds.) Advances in Artificial Life. pp. 169–178. Springer Berlin Heidelberg, Berlin, Heidelberg (2005). [http://dx.doi.org/10.1007/11553090_18](http://dx.doi.org/10.1007/11553090_18)
 
 ---
 
-#### Published Books as Editor
+#### Refereed Conference Articles (Last updated Aug 31, 2021)
 
-1. Dorigo, M., Birattari, M., **Garnier, S.**, Hamann, H., Montes de Oca, M., Solnon, C., & Stützle, T. (Eds.). (2014). Proceedings of the 9th International Conference on Swarm Intelligence (ANTS2014) (Vol. 8667). Springer.
+1. Garnier, S., Tache, F., Combe, M., Grimal, A., Theraulaz, G.: Alice in Pheromone Land: An Experimental Setup for the Study of Ant-like Robots. In: 2007 IEEE Swarm Intelligence Symposium. pp. 37–44. IEEE (2007). [10.1109/SIS.2007.368024](https://doi.org/10.1109/SIS.2007.368024)
+
+1. Garnier, S., Jost, C., Jeanson, R., Gautrais, J., Asadpour, M., Caprari, G., Theraulaz, G.: Collective decision-making by a group of cockroach-like robots. In: Proceedings 2005 IEEE Swarm Intelligence Symposium, 2005. SIS 2005. pp. 233–240. IEEE (2005). [10.1109/SIS.2005.1501627](https://doi.org/10.1109/SIS.2005.1501627)
+
+1. Jost, C., Garnier, S., Jeanson, R., Asadpour, M., Gautrais, J., Theraulaz, G.: The embodiment of cockroach behaviour in a micro-robot. In: Proc. of the 35th Int. Symposium on Robotics. pp. 23–26 (2004). 
+[https://infoscience.epfl.ch/record/142784](https://infoscience.epfl.ch/record/142784)
 
 ---
 
-#### Presentations
+#### Books as Editor (Last updated Aug 31, 2021)
+
+1. Dorigo, M., Birattari, M., Garnier, S., Hamann, H., Montes de Oca, M., Solnon, C., & Stützle, T. (Eds.). (2014). Proceedings of the 9th International Conference on Swarm Intelligence (ANTS2014) (Vol. 8667). Springer.
+
+---
+
+#### Presentations  (Last updated Feb 11, 2019)
 
 1. **Garnier, S.** We the Swarm: lessons in problem-solving from tiny brains and neuron-less creatures. In Entomology Colloquium, University of Illinois at Urbana-Champaign, Urbana-Champaign, IL, February 11, 2019. **Invited**.
 

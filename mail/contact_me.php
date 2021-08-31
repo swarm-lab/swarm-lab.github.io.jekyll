@@ -1,30 +1,30 @@
 <?php
-// Check for empty fields
-if(empty($_POST['name'])  		||
-   empty($_POST['email']) 		||
-   empty($_POST['message'])	||
-   !filter_var($_POST['email'],FILTER_VALIDATE_EMAIL))
-   {
-	echo "No arguments Provided!";
-	return false;
-   }
+	// Check for empty fields
+	if(empty($_POST['name'])  		||
+	   empty($_POST['email']) 		||
+	   empty($_POST['message'])	||
+	   !filter_var($_POST['email'],FILTER_VALIDATE_EMAIL))
+	   {
+		echo "No arguments Provided!";
+		return false;
+	   }
 
-$name = $_POST['name'];
-$email_address = $_POST['email'];
-if(empty($_POST['website']))
-{
-    $website = '';
-} else {
-    $website = $_POST['website'];
-}
-$message = $_POST['message'];
+	$name = $_POST['name'];
+	$email_address = $_POST['email'];
+	if(empty($_POST['website']))
+	{
+	   $website = '';
+	} else {
+	   $website = $_POST['website'];
+	}
+	$message = $_POST['message'];
 
-// Create the email and send the message
-$to = 'contact@theswarmlab.com'; // Add your email address inbetween the '' replacing yourname@yourdomain.com - This is where the form will send a message to.
-$email_subject = "Website Contact Form:  $name";
-$email_body = "You have received a new message from your website contact form.\n\n"."Here are the details:\n\nName: $name\n\nEmail: $email_address\n\nWebsite: $website\n\nMessage:\n$message";
-$headers = "From: noreply@yourdomain.com\n"; // This is the email address the generated message will be from. We recommend using something like noreply@yourdomain.com.
-$headers .= "Reply-To: $email_address";
-mail($to,$email_subject,$email_body,$headers);
-return true;
+	// Create the email and send the message
+	$from = "contact@theswarmlab.com";
+	$to = "garnier@njit.edu";
+	$subject = "Website Contact Form:" . $name;
+	$content = "You have received a new message from your website contact form.\n\n" . "Here are the details:\n\nName: " . $name . "\n\nEmail: " . $email_address . "\n\nWebsite: " . $website . "\n\nMessage:\n " . $message;
+	$headers = "From:" . $from . "\r\n" . "Reply-To:" . $email_address;
+	mail($to,$subject,$content,$headers);
+	return true;
 ?>
