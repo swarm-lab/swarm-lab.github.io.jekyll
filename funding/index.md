@@ -7,6 +7,12 @@ published: true
 
 ![banner](/img/posts/funding/funding.png){: .full}
 
+1. SNSF Visitor Grant - January 2021 to July 2021 - Co-PI.
+
+1. NSF CISE/IOS: "Collaborative Proposal: RI: Medium: Living Architectures: From Army Ants to Self-Assembling Robots" - August 2020 to July 2024 - PI. 
+
+1. Fondation Herbette Visitor Fellowship - October 2020 to December 2020 - PI.
+
 1. DARPA Young Faculty Award: “Topic 8: Ant colonies as an animal model to understand the economic, environmental and conflictive drivers of mass migrations” - July 2019 to June 2022 - PI.  
 
 1. NSF MBI: “2019 MBI REU Undergraduate Summer Research Program” - June 2019 to August 2019 - NJIT Site Coordinator.
