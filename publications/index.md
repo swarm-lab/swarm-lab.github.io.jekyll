@@ -9,11 +9,11 @@ title: Publication list
 ![](/img/posts/publications/scholar.svg "Cumulated number of publications"){:width="100%"}
 
 {:.scholar}
-|As of August 31, 2021 |  All| Since 2016|
-|:---------------------|----:|----------:|
-|Citations             | 4206|       2590|
-|h-index               |   24|         21|
-|i10-index             |   33|         31|
+|As of September 01, 2021 |  All| Since 2016|
+|:------------------------|----:|----------:|
+|Citations                | 4206|       2590|
+|h-index                  |   24|         21|
+|i10-index                |   33|         31|
 
 ---
 

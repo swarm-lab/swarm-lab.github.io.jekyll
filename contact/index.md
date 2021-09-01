@@ -24,7 +24,7 @@ You can contact us using the following methods:
 ---
 
 <section id="map" class="map">
-<iframe width="100%" height="500" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=Central%20King%20Building%2C%20Newark%2C%20NJ%2C%20United%20States&key=AIzaSyBkKBQJ8ZyvLB3Z339X-6iOo-YsyE19oAw"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.8730492947107!2d-74.17925918419007!3d40.742818879328546!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2537dff1aaaab%3A0x227a12b41287c6d7!2sSwarm%20Lab!5e0!3m2!1sen!2sus!4v1630500028018!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 </section>
 
 ---
