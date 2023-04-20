@@ -7,6 +7,8 @@ published: true
 
 ![banner](/img/posts/funding/funding.png){: .full}
 
+1. NSF URoL/EN: "Emergent Energetic Regulation in Dynamic Biological Networks” - September 2022 to August 2027 - PI.
+
 1. SNSF Visitor Grant - January 2021 to July 2021 - Co-PI.
 
 1. NSF CISE/IOS: "Collaborative Proposal: RI: Medium: Living Architectures: From Army Ants to Self-Assembling Robots" - August 2020 to July 2024 - PI. 

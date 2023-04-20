@@ -1,30 +1,31 @@
+### ENVIRONMENT
 if (!require(rvest)) {
-  install.packages("rvest", repos="http://cran.us.r-project.org")
+  install.packages("rvest", repos = "http://cran.us.r-project.org")
   require(rvest)
 }
 
 if (!require(dplyr)) {
-  install.packages("dplyr", repos="http://cran.us.r-project.org")
+  install.packages("dplyr", repos = "http://cran.us.r-project.org")
   require(dplyr)
 }
 
 if (!require(knitr)) {
-  install.packages("knitr", repos="http://cran.us.r-project.org")
+  install.packages("knitr", repos = "http://cran.us.r-project.org")
   require(knitr)
 }
 
 if (!require(stringr)) {
-  install.packages("stringr", repos="http://cran.us.r-project.org")
+  install.packages("stringr", repos = "http://cran.us.r-project.org")
   require(stringr)
 }
 
 if (!require(ggplot2)) {
-  install.packages("ggplot2", repos="http://cran.us.r-project.org")
+  install.packages("ggplot2", repos = "http://cran.us.r-project.org")
   require(ggplot2)
 }
 
 if (!require(svglite)) {
-  install.packages("svglite", repos="http://cran.us.r-project.org")
+  install.packages("svglite", repos = "http://cran.us.r-project.org")
   require(svglite)
 }
 

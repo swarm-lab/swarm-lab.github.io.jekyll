@@ -6,53 +6,21 @@ title: In the media
 
 #### Television & Documentaries
 
-1. "Swarm Intelligence with Simon Garnier + Corrie Moreau", by [Massive](http://massivesci.com/) and [Pioneer Works](http://pioneerworks.org/science)
+1. "Swarm Intelligence with Simon Garnier + Corrie Moreau", by [Massive](http://massivesci.com/) and [Pioneer Works](http://pioneerworks.org/science): [https://vimeo.com/300794922](https://vimeo.com/300794922)
 
-    <iframe width="100%" height="400" src="https://player.vimeo.com/video/300794922" frameborder="0" allowfullscreen></iframe><script src="https://player.vimeo.com/api/player.js"></script>
+1. "What self-driving cars can learn from brainless slime mold", by [Verge Science](https://www.youtube.com/channel/UCtxJFU9DgUhfr2J2bveCHkQ): [https://www.youtube.com/watch?v=40f7_93NIgA](https://www.youtube.com/watch?v=40f7_93NIgA)
 
-    <br>
+1. "Lens of Time: Slime Lapse", by Spine Films: [https://www.biographic.com/lens-of-time-slime-lapse/](https://www.biographic.com/lens-of-time-slime-lapse/)
 
-1. "What self-driving cars can learn from brainless slime mold", by [Verge Science](https://www.youtube.com/channel/UCtxJFU9DgUhfr2J2bveCHkQ)
+1. "The Road Best Traveled: A Tale of Ants, Slime Mold and the New Jersey Turnpike", by Luke Groskin for Science Friday: [https://www.youtube.com/watch?v=NUJ_6vju_U0](https://www.youtube.com/watch?v=NUJ_6vju_U0)
 
-    <iframe width="100%" height="400" src="https://www.youtube.com/embed/40f7_93NIgA" frameborder="0" allowfullscreen></iframe>
+1. "Robot swarms: will they bomb us or save us?", by Mae Ryan for The Guardian: [https://www.youtube.com/watch?v=qXpjX49N7Zo](https://www.youtube.com/watch?v=qXpjX49N7Zo)
 
-    <br>
+1. "Scientists Use Tiny Robots to Understand Ants", by Seth Wharton for Scientific American: [https://www.scientificamerican.com/blog/post/scientists-use-tiny-robots-to-understand-ants-video/](https://www.scientificamerican.com/blog/post/scientists-use-tiny-robots-to-understand-ants-video/)
 
-1. "Lens of Time: Slime Lapse", by Spine Films
+1. "Robot ants: mini-machines mimic insect colony", by Victoria Gill for BBC News: [https://www.bbc.co.uk/news/21956795](https://www.bbc.co.uk/news/21956795)
 
-    <video width="100%" controls="controls">
-      <source src="http://n2ps.storied.co/uploads/548ceb34b78402c4c1baadd636a132f4.mp4" type="video/mp4">
-    </video>
-
-    <br>
-
-1. "The Road Best Traveled: A Tale of Ants, Slime Mold and the New Jersey Turnpike", by Luke Groskin for Science Friday
-
-    <iframe width="100%" height="400" src="https://www.youtube.com/embed/NUJ_6vju_U0" frameborder="0" allowfullscreen></iframe>
-
-    <br>
-
-1. "Robot swarms: will they bomb us or save us?", by Mae Ryan for The Guardian
-
-    <iframe width="100%" height="400"  src="https://embed.theguardian.com/embed/video/technology/video/2015/sep/18/robot-swarms-video" frameborder="0" scrolling="no" allowfullscreen></iframe>
-
-    <br>
-
-1. "Scientists Use Tiny Robots to Understand Ants", by Seth Wharton for Scientific American
-
-    <iframe width="100%" height="400"  src="https://players.brightcove.net/1399189305/55ae5614-dcad-43e6-9fe9-0da2d5c1cf0f_default/index.html?videoId=2260588361001" allowfullscreen frameborder="0"></iframe>
-
-    <br>
-
-1. "Robot ants: mini-machines mimic insect colony", by Victoria Gill for BBC News
-
-    <iframe width="100%" height="400" src="https://www.youtube.com/embed/4PUsIr1yIOo" frameborder="0" allowfullscreen></iframe>
-
-    <br>
-
-1. "Collective Minds - The Intelligence of Swarms", by Jakob Kneser for Arte, produced by [A&Obuero](http://www.a-o-buero.de/)
-
-    <iframe width="100%" height="400" src="https://www.youtube.com/embed/iawyek_00ik" frameborder="0" allowfullscreen></iframe>
+1. "Collective Minds - The Intelligence of Swarms", by Jakob Kneser for Arte, produced by [A&Obuero](http://www.a-o-buero.de/): Video not available online.
 
 ---
 

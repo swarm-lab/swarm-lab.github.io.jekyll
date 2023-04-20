@@ -10,7 +10,7 @@ title: Join the Swarm Lab
 
 ---
 
-**We currently have a postdoctoral position available on a DARPA-funded research project aimed at testing and validating modeling methods for detecting the onset of migrations and predicting their final destinations using ant colonies as a model system. More info [here](/blog/2019/06/06/postdoc-position/).**
+**We currently have a postdoctoral position available on an NSF-funded research project aimed at investigating how biological collectives perform energetic regulation in response to variations in energy demand and availability using ant colonies as a model system. More info [here](/blog/2022/09/27/postdoc-position/).**
 
 ---
 

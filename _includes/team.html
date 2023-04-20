@@ -19,7 +19,11 @@
                                 <li><a href="#" class="fa-fw"><i class="fa fa-fw"></i></a></li>
                             {% else %}
                                 {% for network in member.social %}
-                                    <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a></li>
+                                    {% if network.title == "link" %}
+                                        <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a></li>
+                                    {% else %}
+                                        <li><a rel="me" href="{{ network.url }}"><i class="fa-brands fa-{{ network.title }}"></i></a></li>
+                                    {% endif %}
                                 {% endfor %}
                             {% endif %}
 

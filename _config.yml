@@ -19,10 +19,10 @@ people:
   pic: simon
   position: PI / Associate Professor
   social:
+    - title: mastodon
+      url: https://ecoevo.social/@SimonGarnier
     - title: twitter
       url: https://twitter.com/sjmgarnier
-    - title: google-plus
-      url: https://plus.google.com/u/0/+SimonGarnier
     - title: github
       url: https://github.com/sjmgarnier
     - title: linkedin
@@ -35,12 +35,14 @@ people:
     - title: link
       url: https://sites.google.com/site/jasonmgrahamus/
 
-- name: Yohann Chemtob
-  pic: yohann
+- name: Santiago Meneses
+  pic: santiago
   position: Postdoctoral Fellow
   social:
     - title: twitter
-      url: https://twitter.com/ChemtobYohann
+      url: https://twitter.com/antneurobio
+    - title: linkedin
+      url: http://linkedin.com/in/santiago-meneses
 
 - name: Isabella Muratore
   pic: isabella
@@ -55,6 +57,20 @@ people:
   social:
     - title: twitter
       url: https://twitter.com/AsfourRaphael
+
+- name: William Botta
+  pic: william
+  position: Graduate Student
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/william-botta-76924722b
+
+- name: Daniele Carlesso
+  pic: daniele
+  position: Graduate Student (Macquarie U, Australia)
+  social:
+    - title: twitter
+      url: https://twitter.com/carlessodaniele
 
 - name: Nicole Dykstra
   pic: nicole
@@ -72,17 +88,6 @@ people:
     - title: twitter
       url: https://twitter.com/abidhhaque
 
-- name: Subash Ray
-  pic: subash
-  position: Graduate Student (PhD candidate)
-  social:
-    - title: twitter
-      url: https://twitter.com/skrRay
-    - title: github
-      url: https://github.com/subashray
-    - title: linkedin
-      url: https://www.linkedin.com/profile/view?id=141381128
-
 - name: Courtney Rockenbach
   pic: courtney
   position: Graduate Student (PhD candidate)
@@ -98,27 +103,39 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/pub/courtney-rockenbach/1a/8a8/794
 
-- name: Maggie Wisniewska
-  pic: maggie
-  position: Graduate Student (PhD candidate)
+- name: Pratik Ingle
+  pic: pratik
+  position: Master Student (IISER, India)
   social:
     - title: twitter
-      url: https://twitter.com/GosiaVisniewska
+      url: https://twitter.com/PratikIngle_
+    - title: github
+      url: https://github.com/pratik-ingle
     - title: linkedin
-      url: https://www.linkedin.com/pub/maggie-wisniewska/44/858/515
+      url: https://www.linkedin.com/in/pratik-ingle-03034b152/
 
-- name: Israa Amer
+- name: Sarah Abdul
   pic: default
   position: Undergraduate Student
 
-- name: Derek Gomez
+- name: Avery Lange
   pic: default
   position: Undergraduate Student
 
+- name: Mario Salah
+  pic: default
+  position: Undergraduate Student
 
 # Former lab members
 # Name, position and social links
 people_old:
+- name: Yohann Chemtob
+  pic: yohann
+  position: Postdoctoral Fellow
+  social:
+    - title: twitter
+      url: https://twitter.com/ChemtobYohann
+
 - name: Lisa O'Bryan
   pic: lisa
   position: Postdoctoral Fellow
@@ -155,6 +172,26 @@ people_old:
     - title: twitter
       url: https://twitter.com/HeatherABarnett
 
+- name: Subash Ray
+  pic: subash
+  position: Graduate Student (PhD candidate)
+  social:
+    - title: twitter
+      url: https://twitter.com/skrRay
+    - title: github
+      url: https://github.com/subashray
+    - title: linkedin
+      url: https://www.linkedin.com/profile/view?id=141381128
+
+- name: Maggie Wisniewska
+  pic: maggie
+  position: Graduate Student (PhD candidate)
+  social:
+    - title: twitter
+      url: https://twitter.com/GosiaVisniewska
+    - title: linkedin
+      url: https://www.linkedin.com/pub/maggie-wisniewska/44/858/515
+
 - name: Megan Wilson
   pic: megan
   position: Graduate Student (rotation)
@@ -184,8 +221,16 @@ people_old:
   pic: default
   position: Undergraduate Student
 
+- name: Israa Amer
+  pic: default
+  position: Undergraduate Student
+
 - name:  Chukwueloka (Eloka) Anemelu
   pic: eloka
+  position: Undergraduate Student
+
+- name: Lilian Azab
+  pic: default
   position: Undergraduate Student
 
 - name: Breeann Baptiste
@@ -233,6 +278,14 @@ people_old:
   position: Undergraduate Student
 
 - name: Yasmine Elfarra
+  pic: default
+  position: Undergraduate Student
+
+- name: Brandon Fialos
+  pic: default
+  position: Undergraduate Student (BioSMART REU)
+
+- name: Derek Gomez
   pic: default
   position: Undergraduate Student
 
@@ -350,7 +403,7 @@ people_old:
 
 - name: Madisson Ann Russell
   pic: default
-  position: Undergraduate Student, MBI REU intern
+  position: Undergraduate Student (MBI REU)
 
 - name: Amogh Sakhvala
   pic: amogh
@@ -358,7 +411,7 @@ people_old:
 
 - name: Ezekiel Sandor
   pic: default
-  position: Undergraduate Student, MBI REU intern
+  position: Undergraduate Student (MBI REU)
 
 - name: Albert Saez
   pic: default
@@ -390,19 +443,19 @@ people_old:
 
 - name: Jessica Wang
   pic: jessica
-  position: Undergraduate Student, MBI REU intern
+  position: Undergraduate Student (MBI REU)
 
 - name: Dylana Wilhelm
   pic: default
-  position: Undergraduate Student, MBI REU intern
+  position: Undergraduate Student (MBI REU)
 
 - name: Anna Wisniewski
   pic: default
   position: Undergraduate Student
 
-- name: James Wolf
+- name: James Wolfe
   pic: default
-  position: Undergraduate Student, MBI REU intern
+  position: Undergraduate Student (MBI REU)
 
 - name: Ranya Agarwal
   pic: default
@@ -444,8 +497,6 @@ people_old:
 social:
   - title: twitter
     url: https://twitter.com/sjmgarnier
-  - title: google-plus
-    url: https://plus.google.com/u/0/+SimonGarnier
   - title: github
     url: https://github.com/swarm-lab
   - title: linkedin
