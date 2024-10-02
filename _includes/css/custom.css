@@ -33,6 +33,14 @@ li {
     text-align: justify;
 }
 
+.project_entry {
+    width: 90%;
+    max-width: 1170px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+}
+
 .lab-name {
     font-family: "Ubuntu", "Montserrat","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-style: normal;

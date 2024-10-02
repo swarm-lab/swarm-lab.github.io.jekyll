@@ -10,6 +10,10 @@ published: true
 
 ---
 
+**THIS POSITION IS NO LONGER AVAILABLE**
+
+---
+
 The SwarmLab at the [New Jersey Institute of Technology](http://www.njit.edu/) (NJIT) is seeking a postdoctoral researcher with expertise in animal behavior and lab experimentation to join an NSF-funded research project led by Dr. Simon Garnier (NJIT), in collaboration with [Prof. Maurizio Porfiri](https://wp.nyu.edu/dsl/) (NYU), [Dr. Nicole Abaid](https://math.vt.edu/people/faculty/abaid-nicole.html) (Virginia Tech), [Dr. Mike Rubenstein](http://users.eecs.northwestern.edu/~mrubenst/) (Northwestern University), and [Dr. James Waters](https://www.lovetheants.org/lab/) (Providence College). This project brings together biologists, theoreticians, and engineers to study distributed energetic regulation in ant colonies. The objectives of the project are (1) to increase the overall understanding of emergent regulation networks in social systems and (2) to derive general principles for applications such as autonomous robotic swarms.
 
 ![We're hiring](/img/posts/2015-07-01-postdoc-position-available/we-are-hiring.png){: .sixty .center }

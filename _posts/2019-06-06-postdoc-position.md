@@ -10,6 +10,10 @@ published: true
 
 ---
 
+**THIS POSITION IS NO LONGER AVAILABLE**
+
+---
+
 The SwarmLab at the [New Jersey Institute of Technology](http://www.njit.edu/) (NJIT) is seeking a postdoctoral researcher with expertise in the modeling and analysis of collective behaviors and complex systems. The successful candidate will join a [DARPA](https://www.darpa.mil/)-funded research project aimed at testing and validating modeling methods for detecting the onset of migrations and predicting their final destinations using ant colonies as a model system.
 
 ![We're hiring](/img/posts/2015-07-01-postdoc-position-available/we-are-hiring.png){: .sixty .center }

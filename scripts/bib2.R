@@ -21,6 +21,7 @@ if (!require(lubridate)) {
 
 BibOptions(check.entries = "warn",
            sorting = "ydnt",
+           match.date = "exact",
            style = "markdown",
            bib.style = "numeric",
            max.names = Inf,

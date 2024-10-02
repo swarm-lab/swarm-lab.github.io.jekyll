@@ -44,13 +44,6 @@ people:
     - title: linkedin
       url: http://linkedin.com/in/santiago-meneses
 
-- name: Isabella Muratore
-  pic: isabella
-  position: Postdoctoral Fellow
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/isabella-muratore-phd-6b143a5b/
-
 - name: Raphael Asfour
   pic: raphael
   position: Graduate Student
@@ -65,56 +58,15 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/william-botta-76924722b
 
-- name: Daniele Carlesso
-  pic: daniele
-  position: Graduate Student (Macquarie U, Australia)
-  social:
-    - title: twitter
-      url: https://twitter.com/carlessodaniele
+- name: Clea Chelala
+  pic: default
+  position: Undergraduate Student
 
-- name: Nicole Dykstra
-  pic: nicole
-  position: Graduate Student (PhD candidate)
-  social:
-    - title: twitter
-      url: https://twitter.com/enephdee
-    - title: linkedin
-      url: https://www.linkedin.com/in/nicolefdykstra
+- name: Aleesha Deshmukh
+  pic: aleesha
+  position: Undergraduate Student
 
-- name: Abid Haque
-  pic: abid
-  position: Graduate Student (PhD candidate)
-  social:
-    - title: twitter
-      url: https://twitter.com/abidhhaque
-
-- name: Courtney Rockenbach
-  pic: courtney
-  position: Graduate Student (PhD candidate)
-  social:
-    - title: twitter
-      url: https://twitter.com/CourtRockenbach
-    - title: tumblr
-      url: https://www.tumblr.com/blog/field-biology
-    - title: link
-      url: https://www.researchgate.net/profile/Courtney_Rockenbach
-    - title: github
-      url: https://github.com/livethedance
-    - title: linkedin
-      url: https://www.linkedin.com/pub/courtney-rockenbach/1a/8a8/794
-
-- name: Pratik Ingle
-  pic: pratik
-  position: Master Student (IISER, India)
-  social:
-    - title: twitter
-      url: https://twitter.com/PratikIngle_
-    - title: github
-      url: https://github.com/pratik-ingle
-    - title: linkedin
-      url: https://www.linkedin.com/in/pratik-ingle-03034b152/
-
-- name: Sarah Abdul
+- name: Maya Hassan
   pic: default
   position: Undergraduate Student
 
@@ -135,6 +87,13 @@ people_old:
   social:
     - title: twitter
       url: https://twitter.com/ChemtobYohann
+
+- name: Isabella Muratore
+  pic: isabella
+  position: Postdoctoral Fellow
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/isabella-muratore-phd-6b143a5b/
 
 - name: Lisa O'Bryan
   pic: lisa
@@ -172,6 +131,29 @@ people_old:
     - title: twitter
       url: https://twitter.com/HeatherABarnett
 
+- name: Daniele Carlesso
+  pic: daniele
+  position: Graduate Student (Macquarie U, Australia)
+  social:
+    - title: twitter
+      url: https://twitter.com/carlessodaniele
+
+- name: Nicole Dykstra
+  pic: nicole
+  position: Graduate Student (PhD candidate)
+  social:
+    - title: twitter
+      url: https://twitter.com/enephdee
+    - title: linkedin
+      url: https://www.linkedin.com/in/nicolefdykstra
+
+- name: Abid Haque
+  pic: abid
+  position: Graduate Student (PhD candidate)
+  social:
+    - title: twitter
+      url: https://twitter.com/abidhhaque
+
 - name: Subash Ray
   pic: subash
   position: Graduate Student (PhD candidate)
@@ -182,6 +164,21 @@ people_old:
       url: https://github.com/subashray
     - title: linkedin
       url: https://www.linkedin.com/profile/view?id=141381128
+
+- name: Courtney Rockenbach
+  pic: courtney
+  position: Graduate Student (PhD candidate)
+  social:
+    - title: twitter
+      url: https://twitter.com/CourtRockenbach
+    - title: tumblr
+      url: https://www.tumblr.com/blog/field-biology
+    - title: link
+      url: https://www.researchgate.net/profile/Courtney_Rockenbach
+    - title: github
+      url: https://github.com/livethedance
+    - title: linkedin
+      url: https://www.linkedin.com/pub/courtney-rockenbach/1a/8a8/794
 
 - name: Maggie Wisniewska
   pic: maggie
@@ -213,6 +210,17 @@ people_old:
   pic: oswaldo
   position: Master Student
 
+- name: Pratik Ingle
+  pic: pratik
+  position: Master Student (IISER, India)
+  social:
+    - title: twitter
+      url: https://twitter.com/PratikIngle_
+    - title: github
+      url: https://github.com/pratik-ingle
+    - title: linkedin
+      url: https://www.linkedin.com/in/pratik-ingle-03034b152/
+
 - name: Prit Zaveri
   pic: prit
   position: Master Student
@@ -221,6 +229,10 @@ people_old:
   pic: default
   position: Undergraduate Student
 
+- name: Sarah Abdul
+  pic: default
+  position: Undergraduate Student
+  
 - name: Israa Amer
   pic: default
   position: Undergraduate Student

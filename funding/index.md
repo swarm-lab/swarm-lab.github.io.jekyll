@@ -9,6 +9,8 @@ published: true
 
 1. NSF URoL/EN: "Emergent Energetic Regulation in Dynamic Biological Networks” - September 2022 to August 2027 - PI.
 
+1. NJIT Faculty Seed Grant: “Neuro-Swarm: A Novel Experimental Platform for Studying the Neuroscience of Mass Behaviors” - July 2022 to June 2023 - Co-PI.
+
 1. SNSF Visitor Grant - January 2021 to July 2021 - Co-PI.
 
 1. NSF CISE/IOS: "Collaborative Proposal: RI: Medium: Living Architectures: From Army Ants to Self-Assembling Robots" - August 2020 to July 2024 - PI. 

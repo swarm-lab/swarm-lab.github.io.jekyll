@@ -10,6 +10,9 @@ published: true
 
 ---
 
+**THIS POSITION IS NO LONGER AVAILABLE**
+
+---
 The SwarmLab at the [New Jersey Institute of Technology](http://www.njit.edu/) (NJIT) is seeking a postdoctoral researcher with expertise in animal behavior and field experimentation to join an NSF-funded research project led by Dr. Simon Garnier (NJIT) and [Dr. Mike Rubenstein](http://users.eecs.northwestern.edu/~mrubenst/) (Northwestern University). This project brings together biologists and engineers to achieve two goals: (1) understand the principles of self-assembling construction in army ants, and (2) adapt these principles to create a new generation of robots capable of self-assembling in unpredictable environments.
 
 ![We're hiring](/img/posts/2015-07-01-postdoc-position-available/we-are-hiring.png){: .sixty .center }

@@ -31,7 +31,7 @@ if (!require(svglite)) {
 
 ###
 
-scholar_html <- read_html("https://scholar.google.com/citations?user=4MNHWX8AAAAJ")
+scholar_html <- read_html("https://scholar.google.com/citations?user=4MNHWX8AAAAJ&hl=en")
 
 scholar_tab <- scholar_html %>%
   html_nodes(xpath = '//*[@id="gsc_rsb_st"]') %>%
