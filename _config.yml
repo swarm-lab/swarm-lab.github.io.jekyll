@@ -44,19 +44,23 @@ people:
     - title: linkedin
       url: http://linkedin.com/in/santiago-meneses
 
-- name: Raphael Asfour
-  pic: raphael
-  position: Graduate Student
-  social:
-    - title: twitter
-      url: https://twitter.com/AsfourRaphael
-
 - name: William Botta
   pic: william
   position: Graduate Student
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/william-botta-76924722b
+
+- name: Paco Chow
+  pic: paco
+  position: Graduate Student
+  social: 
+    - title: twitter
+      url: https://x.com/paacochow
+
+- name: Roxy Nadim
+  pic: default
+  position: Graduate Student
 
 - name: Clea Chelala
   pic: default
@@ -70,11 +74,15 @@ people:
   pic: default
   position: Undergraduate Student
 
-- name: Avery Lange
+- name: Vita Infurna
   pic: default
   position: Undergraduate Student
 
-- name: Mario Salah
+- name: Gurnoor Kaur
+  pic: default
+  position: Undergraduate Student
+
+- name: Avery Lange
   pic: default
   position: Undergraduate Student
 
@@ -130,6 +138,13 @@ people_old:
       url: http://heatherbarnett.co.uk/
     - title: twitter
       url: https://twitter.com/HeatherABarnett
+
+- name: Raphael Asfour
+  pic: raphael
+  position: Graduate Student
+  social:
+    - title: twitter
+      url: https://twitter.com/AsfourRaphael
 
 - name: Daniele Carlesso
   pic: daniele
@@ -419,6 +434,10 @@ people_old:
 
 - name: Amogh Sakhvala
   pic: amogh
+  position: Undergraduate Student
+
+- name: Mario Salah
+  pic: default
   position: Undergraduate Student
 
 - name: Ezekiel Sandor

@@ -66,7 +66,7 @@ ggplot(scholar_df, aes(years)) +
   geom_col(aes(y = cum_citations - citations), fill = "#008ea5") +
   geom_text(aes(y = cum_citations, label = paste0("+", citations)),
             position = position_dodge(width = 0.9), vjust = -0.75,
-            fontface = "bold", size = 5) +
+            fontface = "bold", size = 4) +
   xlab(NULL)+ ylab(NULL) +
   scale_y_continuous(limits = c(0, 1.1 * max(scholar_df$cum_citations)),
                      sec.axis = sec_axis(~.)) +
