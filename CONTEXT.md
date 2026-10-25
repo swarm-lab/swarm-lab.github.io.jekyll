@@ -60,8 +60,7 @@ The two R scripts run before the local Jekyll server starts.
 
 `rake deploy` deploys `_site/` to the configured remote host with `rsync -rtzh --delete`. It deletes remote files absent from the local generated site.
 
-## Generated and local-only paths
+## Generated and deployment paths
 
-- `_site/` is generated Jekyll output; edit its source files instead.
+- `_site/` is generated Jekyll output and a versioned deployment-backup repository. Edit source files, then regenerate it.
 - `._*` files are macOS metadata artifacts.
-- `.idea/` contains local IDE configuration.
