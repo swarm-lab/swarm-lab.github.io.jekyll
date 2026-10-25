@@ -1,0 +1,9 @@
+desc 'Publishing the website via rsync'
+task :deploy do
+  puts 'Publishing your website, silence is golden...'
+  user = 'simon'
+  server = 'theswarmlab.com'
+  path = 'theswarmlab/static'
+  sh "rsync -rtzh --delete _site/ #{user}@#{server}:#{path}"
+  puts 'Your website is now published!'
+end

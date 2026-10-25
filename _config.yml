@@ -1,0 +1,594 @@
+url: http://www.theswarmlab.com
+#baseurl: /agency-jekyll-theme/
+
+# Site settings
+title: Swarm Lab
+email: garnier@njit.edu
+description: "Welcome to the Swarm Lab where we study Swarm Intelligence in natural and artificial systems."
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: ed564b
+  secondary: f96b61
+  secondary-dark: 333
+
+# Current lab members
+# Name, position and social links
+people:
+- name: Simon Garnier
+  pic: simon
+  position: PI / Associate Professor
+  social:
+    - title: mastodon
+      url: https://ecoevo.social/@SimonGarnier
+    - title: twitter
+      url: https://twitter.com/sjmgarnier
+    - title: github
+      url: https://github.com/sjmgarnier
+    - title: linkedin
+      url: https://www.linkedin.com/in/simongarnier
+
+- name: Jason Graham
+  pic: jason
+  position: Visiting Scholar (<a href="http://www.scranton.edu/">U. of Scranton</a>)
+  social:
+    - title: link
+      url: https://sites.google.com/site/jasonmgrahamus/
+
+- name: Alexa Aucoin
+  pic: default
+  position: MCBC Postdoctoral Fellow
+
+- name: Max Comstock
+  pic: default
+  position: Postdoctoral Fellow
+
+- name: Santiago Meneses
+  pic: santiago
+  position: Postdoctoral Fellow
+  social:
+    - title: twitter
+      url: https://twitter.com/antneurobio
+    - title: linkedin
+      url: http://linkedin.com/in/santiago-meneses
+
+- name: William Botta
+  pic: william
+  position: Graduate Student
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/william-botta-76924722b
+
+- name: Paco Chow
+  pic: paco
+  position: Graduate Student
+  social: 
+    - title: twitter
+      url: https://x.com/paacochow
+
+- name: Roxy Nadim
+  pic: roxy
+  position: Graduate Student
+
+- name: Lindsay Burke
+  pic: default
+  position: Undergraduate Student
+
+- name: Brando Castillo-Paulino
+  pic: default
+  position: Undergraduate Student
+
+- name: Clea Chelala
+  pic: default
+  position: Undergraduate Student
+
+- name: Shifa Hammoudeh
+  pic: default
+  position: Undergraduate Student
+
+- name: Vita Infurna
+  pic: default
+  position: Undergraduate Student
+
+- name: Benjamin Khrapko
+  pic: default
+  position: Undergraduate Student
+
+- name: Nick Pape
+  pic: default
+  position: Undergraduate Student
+
+- name: Krish Patel
+  pic: default
+  position: Undergraduate Student
+
+- name: Jasleen Phalora
+  pic: default
+  position: Undergraduate Student
+
+# Former lab members
+# Name, position and social links
+people_old:
+- name: Yohann Chemtob
+  pic: yohann
+  position: Postdoctoral Fellow
+  social:
+    - title: twitter
+      url: https://twitter.com/ChemtobYohann
+
+- name: Isabella Muratore
+  pic: isabella
+  position: Postdoctoral Fellow
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/isabella-muratore-phd-6b143a5b/
+
+- name: Lisa O'Bryan
+  pic: lisa
+  position: Postdoctoral Fellow
+  social:
+    - title: twitter
+      url: https://twitter.com/Project_Grunt
+
+- name: Michal Pluháček
+  pic: michal
+  position: Postdoctoral Fellow
+  social:
+    - title: twitter
+      url: https://twitter.com/MPluhacek
+
+- name: Chris Reid
+  pic: chris
+  position: Postdoctoral Fellow & Australian Extraordinaire
+  social:
+    - title: twitter
+      url: https://twitter.com/ChrisRReid1
+    - title: link
+      url: https://sites.google.com/site/chrisreidbiologist/home
+
+- name: Purva Shah
+  pic: purva
+  position: Lab Assistant Extraordinaire
+
+- name: Heather Barnett
+  pic: heather
+  position: Visiting Artist
+  social:
+    - title: link
+      url: http://heatherbarnett.co.uk/
+    - title: twitter
+      url: https://twitter.com/HeatherABarnett
+
+- name: Raphael Asfour
+  pic: raphael
+  position: Graduate Student
+  social:
+    - title: twitter
+      url: https://twitter.com/AsfourRaphael
+
+- name: Daniele Carlesso
+  pic: daniele
+  position: Graduate Student (Macquarie U, Australia)
+  social:
+    - title: twitter
+      url: https://twitter.com/carlessodaniele
+
+- name: Nicole Dykstra
+  pic: nicole
+  position: Graduate Student (PhD candidate)
+  social:
+    - title: twitter
+      url: https://twitter.com/enephdee
+    - title: linkedin
+      url: https://www.linkedin.com/in/nicolefdykstra
+
+- name: Abid Haque
+  pic: abid
+  position: Graduate Student (PhD candidate)
+  social:
+    - title: twitter
+      url: https://twitter.com/abidhhaque
+
+- name: Subash Ray
+  pic: subash
+  position: Graduate Student (PhD candidate)
+  social:
+    - title: twitter
+      url: https://twitter.com/skrRay
+    - title: github
+      url: https://github.com/subashray
+    - title: linkedin
+      url: https://www.linkedin.com/profile/view?id=141381128
+
+- name: Courtney Rockenbach
+  pic: courtney
+  position: Graduate Student (PhD candidate)
+  social:
+    - title: twitter
+      url: https://twitter.com/CourtRockenbach
+    - title: tumblr
+      url: https://www.tumblr.com/blog/field-biology
+    - title: link
+      url: https://www.researchgate.net/profile/Courtney_Rockenbach
+    - title: github
+      url: https://github.com/livethedance
+    - title: linkedin
+      url: https://www.linkedin.com/pub/courtney-rockenbach/1a/8a8/794
+
+- name: Maggie Wisniewska
+  pic: maggie
+  position: Graduate Student (PhD candidate)
+  social:
+    - title: twitter
+      url: https://twitter.com/GosiaVisniewska
+    - title: linkedin
+      url: https://www.linkedin.com/pub/maggie-wisniewska/44/858/515
+
+- name: Megan Wilson
+  pic: megan
+  position: Graduate Student (rotation)
+
+- name: Felipe Marcel Neves
+  pic: felipe
+  position: Visiting Graduate Student
+  social:
+    - title: twitter
+      url: https://twitter.com/fmarcelneves
+    - title: link
+      url: https://www.researchgate.net/profile/Felipe_Neves5
+
+- name: Nidhi Dharithreesan
+  pic: default
+  position: Master Student
+
+- name: Oswaldo Gil
+  pic: oswaldo
+  position: Master Student
+
+- name: Pratik Ingle
+  pic: pratik
+  position: Master Student (IISER, India)
+  social:
+    - title: twitter
+      url: https://twitter.com/PratikIngle_
+    - title: github
+      url: https://github.com/pratik-ingle
+    - title: linkedin
+      url: https://www.linkedin.com/in/pratik-ingle-03034b152/
+
+- name: Prit Zaveri
+  pic: prit
+  position: Master Student
+
+- name: Hala Abbas
+  pic: default
+  position: Undergraduate Student
+
+- name: Sarah Abdul
+  pic: default
+  position: Undergraduate Student
+  
+- name: Israa Amer
+  pic: default
+  position: Undergraduate Student
+
+- name:  Chukwueloka (Eloka) Anemelu
+  pic: eloka
+  position: Undergraduate Student
+
+- name: Hansel Asmar
+  pic: default
+  position: Undergraduate Student, NIFA-HSI Intern
+
+- name: Lilian Azab
+  pic: default
+  position: Undergraduate Student
+
+- name: Breeann Baptiste
+  pic: default
+  position: Undergraduate Student
+
+- name: Noelle Batista
+  pic: default
+  position: Undergraduate Student
+
+- name: Amy Belot
+  pic: default
+  position: Undergraduate Student
+
+- name: Scott Bingham
+  pic: default
+  position: Undergraduate Student, MBI REU intern
+
+- name: Archana Bottu
+  pic: archana
+  position: Undergraduate Student
+
+- name: Jordan Bryant-Smith
+  pic: jordan
+  position: Undergraduate Student, Lab Assistant
+
+- name: Leia Chemmacheril
+  pic: default
+  position: Undergraduate Student
+
+- name: Daniel Chen
+  pic: daniel
+  position: Undergraduate Student
+
+- name: Aleesha Deshmukh
+  pic: aleesha
+  position: Undergraduate Student
+
+- name: Atharva Dhole
+  pic: default
+  position: Undergraduate Student
+
+- name: Andrew Edwards
+  pic: andrew
+  position: Undergraduate Student, MBI REU intern
+
+- name: Omar Elamir
+  pic: omar
+  position: Undergraduate Student
+
+- name: Yasmine Elfarra
+  pic: default
+  position: Undergraduate Student
+
+- name: Brandon Fialos
+  pic: default
+  position: Undergraduate Student (BioSMART REU)
+
+- name: Derek Gomez
+  pic: default
+  position: Undergraduate Student
+
+- name: Michael Gonzalez
+  pic: default
+  position: Undergraduate Student
+
+- name: Nilanjan Haldar
+  pic: nilanjan
+  position: Undergraduate Student
+
+- name: Maya Hassan
+  pic: default
+  position: Undergraduate Student
+
+- name: Katharina Hildebrandt
+  pic: default
+  position: Undergraduate Student
+
+- name: Urvya Iyer
+  pic: default
+  position: Undergraduate Student
+
+- name: Sima Kalam
+  pic: default
+  position: Undergraduate Student
+
+- name: Moheb Kamel
+  pic: default
+  position: Undergraduate Student
+
+- name: Gurnoor Kaur
+  pic: default
+  position: Undergraduate Student
+
+- name: Eleni-Anna Korakas
+  pic: default
+  position: Undergraduate Student
+
+- name: Nicole Korzeniecki
+  pic: default
+  position: Undergraduate Student, MBI REU intern
+
+- name: Jianna Kurian
+  pic: default
+  position: Undergraduate Student, Lab Assistant
+
+- name: Avery Lange
+  pic: default
+  position: Undergraduate Student
+
+- name: Djerrica Larsen-Simon
+  pic: default
+  position: Undergraduate Student
+
+- name: Maria Lazcano
+  pic: default
+  position: Undergraduate Student, NIFA-HSI Intern
+
+- name: Richard Lee
+  pic: default
+  position: Undergraduate Student
+
+- name: Hannelore MacDonald
+  pic: hannelore
+  position: Undergraduate Student
+
+- name: LaMonte McFarlande
+  pic: default
+  position: Undergraduate Student
+
+- name: Aatqa Memon
+  pic: default
+  position: Undergraduate Student
+
+- name: Wajihah Memon
+  pic: wajihah
+  position: Undergraduate Student
+
+- name: Jalen Merchant
+  pic: default
+  position: Undergraduate Student
+
+- name: Daniel Meza
+  pic: default
+  position: Undergraduate Student
+
+- name: Matthew Moreno
+  pic: default
+  position: Undergraduate Student, MBI REU intern
+
+- name: Amisha Naik
+  pic: amisha
+  position: Undergraduate Student
+
+- name: Oluwatobi Olarogba
+  pic: default
+  position: Undergraduate Student, LSAMP intern
+
+- name: Ana Pais
+  pic: default
+  position: Undergraduate Student
+
+- name: Saumil Parikh
+  pic: default
+  position: Undergraduate Student
+
+- name: Ami Patel
+  pic: default
+  position: Undergraduate Student
+
+- name: Shrina Patel
+  pic: shrina
+  position: Undergraduate Student
+
+- name: Zoe Paxos
+  pic: default
+  position: Undergraduate Student, NIFA-HSI Intern
+
+- name: Sudheesha Perera
+  pic: sudheesha
+  position: Undergraduate Student
+
+- name: Omar Qari
+  pic: omar2
+  position: Undergraduate Student
+
+- name: Marzia Rahman
+  pic: default
+  position: Undergraduate Student
+
+- name: Suraj Rajesh
+  pic: suraj
+  position: Undergraduate Student
+
+- name: Madisson Ann Russell
+  pic: default
+  position: Undergraduate Student (MBI REU)
+
+- name: Amogh Sakhvala
+  pic: amogh
+  position: Undergraduate Student
+
+- name: Mario Salah
+  pic: default
+  position: Undergraduate Student
+
+- name: Ezekiel Sandor
+  pic: default
+  position: Undergraduate Student (MBI REU)
+
+- name: Albert Saez
+  pic: default
+  position: Undergraduate Student
+
+- name: Leslie Seby
+  pic: leslie
+  position: Undergraduate Student
+
+- name: Emil Severe
+  pic: default
+  position: Undergraduate Student
+
+- name: Mitali Shah
+  pic: default
+  position: Undergraduate Student
+
+- name: Zainab Shahsamand
+  pic: default
+  position: Undergraduate Student
+
+- name: Balvir Singh
+  pic: default
+  position: Undergraduate Student
+
+- name: Marie Stewart
+  pic: default
+  position: Undergraduate Student
+
+- name: Jessica Wang
+  pic: jessica
+  position: Undergraduate Student (MBI REU)
+
+- name: Dylana Wilhelm
+  pic: default
+  position: Undergraduate Student (MBI REU)
+
+- name: Anna Wisniewski
+  pic: default
+  position: Undergraduate Student
+
+- name: James Wolfe
+  pic: default
+  position: Undergraduate Student (MBI REU)
+
+- name: Ranya Agarwal
+  pic: default
+  position: High School Student
+
+- name: Karima Bello
+  pic: default
+  position: High School Student
+
+- name: Anusha Bharadia
+  pic: default
+  position: High School Student
+
+- name: Matt Dreyer
+  pic: default
+  position: High School Student, Provost Summer Research Fellow
+
+- name: Cyreema Marshall
+  pic: default
+  position: High School Student
+
+- name: David Neiman
+  pic: default
+  position: High School Student
+
+- name: Jayla Nii-Moi
+  pic: default
+  position: High School Student
+
+- name: Shayan Turbin
+  pic: default
+  position: High School Student, Provost Summer Research Fellow
+
+- name: Caren Willphine
+  pic: caren
+  position: High School Student
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/sjmgarnier
+  - title: github
+    url: https://github.com/swarm-lab
+  - title: linkedin
+    url: https://www.linkedin.com/in/simongarnier
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Central King Building, New Jersey Institute of Technology
+  - line: Newark, NJ 07102, USA
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+kramdown:
+  syntax_highlighter: rouge
+highlighter: rouge
