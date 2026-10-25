@@ -52,7 +52,7 @@ Portfolio posts in `_posts/` use YAML front matter. Existing posts use `title`, 
 
 ```sh
 Rscript scripts/scholar.R
-Rscript scripts/bib2.R
+Rscript scripts/bib.R
 bundle exec jekyll serve
 ```
 
