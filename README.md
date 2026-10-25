@@ -1,30 +1,18 @@
-Agency Jekyll theme
-====================
+# Swarm Lab
 
-Agency theme based on [Agency bootstrap theme ](http://startbootstrap.com/templates/agency/)
+Source for the Swarm Lab website. Jekyll renders the static site.
 
-# How to use
+## Local preview
 
-###Portfolio 
+```sh
+bundle exec jekyll serve
+```
 
-Portfolio projects are in '/_posts'
+Jekyll writes generated output to `_site/`, the versioned deployment backup. Edit source files rather than generated output.
 
-Images are in '/img/portfolio'
+## Repository map
 
-###About
-
-Images are in '/img/about/'
-
-###Team
-
-Team members and info are in '_config.yml'
-
-Images are in '/img/team/'
-
-
-# Demo
-
-View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
-
-=========
-For more details, read [documentation](http://jekyllrb.com/)
+- `_posts/` and top-level content directories contain pages and posts.
+- `_layouts/` and `_includes/` compose the site.
+- `img/` contains site images and retained design sources.
+- `scripts/scholar.R` and `scripts/bib.R` refresh publication content before a build.
