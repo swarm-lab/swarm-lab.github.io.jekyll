@@ -18,23 +18,23 @@ ORCID: 0000-0002-3886-3974
 ![](/img/posts/publications/scholar.svg "Cumulated number of publications"){:width="100%"}
 
 {:.scholar}
-|As of April 02, 2026 |  All| Since 2021|
-|:--------------------|----:|----------:|
-|Citations            | 7932|       4002|
-|h-index              |   37|         30|
-|i10-index            |   50|         43|
+|As of October 26, 2026 |  All| Since 2021|
+|:----------------------|----:|----------:|
+|Citations              | 8583|       4643|
+|h-index                |   38|         31|
+|i10-index              |   57|         51|
 
 ---
 
-#### Preprints under Review (Last updated Oct 25, 2026)
+#### Preprints under Review (Last updated Oct 26, 2026)
 
 1. L. Burke, M. Comstock, J. Graham, R. Malenda, **S. Garnier**, and P. Swissler. “A swarm approach to public transit using on-demand routing in a slime-mold-inspired framework”. In: _arXiv [cs.MA]_ (Jun. 04, 2026). DOI: [10.48550/arXiv.2606.06189](https://doi.org/10.48550%2FarXiv.2606.06189). arXiv: 2606.06189 [cs.MA].
-2. L. Gyllingberg, A. Haque, S. K. Ray, G. Weber, J. M. Graham, and **S. Garnier**. “Self-organizing physical and biochemical interactions explain diverse behaviours in \textitPhysarum polycephalum”. In: _bioRxiv_ (May. 12, 2026), p. 2026.05.07.723662. DOI: [10.64898/2026.05.07.723662](https://doi.org/10.64898%2F2026.05.07.723662).
+2. L. Gyllingberg, A. Haque, S. K. Ray, G. Weber, J. M. Graham, and **S. Garnier**. “Self-organizing physical and biochemical interactions explain diverse behaviours in Physarum polycephalum”. In: _bioRxiv_ (May. 12, 2026), p. 2026.05.07.723662. DOI: [10.64898/2026.05.07.723662](https://doi.org/10.64898%2F2026.05.07.723662).
 3. T. Bochynek, F. Schiffers, A. Aichert, O. Cossairt, **S. Garnier**, and M. Rubenstein. “Anatomy of a superorganism - structure and growth dynamics of army ant bivouacs”. In: _arXiv [q-bio.QM]_ (Oct. 18, 2021). DOI: [10.48550/arXiv.2110.09017](https://doi.org/10.48550%2FarXiv.2110.09017). arXiv: 2110.09017 [q-bio.QM].
 
 ---
 
-#### Refereed Journal Articles (Last updated Oct 25, 2026)
+#### Refereed Journal Articles (Last updated Oct 26, 2026)
 
 1. A. J. King, E. G. Henry, **S. Garnier**, W. L. Allen, R. J. P. Heathcote, M. Fele, M. Papadopoulou, D. W. E. Sankey, and I. Fürtbauer. “Evolutionary spandrels in collective animal behaviour”. In: _Trends in Ecology & Evolution_ 0.0 (Aug. 24, 2026). DOI: [10.1016/j.tree.2026.07.011](https://doi.org/10.1016%2Fj.tree.2026.07.011).
 2. M. Napoli, **S. Garnier**, and M. Porfiri. “Nest-level phase transition drives synchronized activity bursts in ant colonies”. In: _PRX Life_ 4.3 (Aug. 05, 2026), p. 033010. DOI: [10.1103/ghnl-p5c1](https://doi.org/10.1103%2Fghnl-p5c1).
@@ -96,7 +96,7 @@ ORCID: 0000-0002-3886-3974
 
 ---
 
-#### Refereed Conference Articles (Last updated Oct 25, 2026)
+#### Refereed Conference Articles (Last updated Oct 26, 2026)
 
 1. **S. Garnier**, F. Tache, M. Combe, A. Grimal, and G. Theraulaz. “Alice in Pheromone Land: An Experimental Setup for the Study of Ant-like Robots”. In: _2007 IEEE Swarm Intelligence Symposium_. IEEE, Apr. 2007, pp. 37-44. ISBN: 9781424407088. DOI: [10.1109/SIS.2007.368024](https://doi.org/10.1109%2FSIS.2007.368024).
 2. **S. Garnier**, C. Jost, R. Jeanson, J. Gautrais, M. Asadpour, G. Caprari, and G. Theraulaz. “Collective decision-making by a group of cockroach-like robots”. In: _Proceedings 2005 IEEE Swarm Intelligence Symposium, 2005. SIS 2005._. IEEE, 2005, pp. 233-240. ISBN: 9780780389168. DOI: [10.1109/SIS.2005.1501627](https://doi.org/10.1109%2FSIS.2005.1501627).
@@ -104,20 +104,20 @@ ORCID: 0000-0002-3886-3974
 
 ---
 
-#### Refereed Book Chapters (Last updated Oct 25, 2026)
+#### Refereed Book Chapters (Last updated Oct 26, 2026)
 
 1. **S. Garnier**. “From Ants to Robots and Back : How Robotics Can Contribute to the Study of Collective Animal Behavior”. In: _Bio-Inspired Self-Organizing Robotic Systems_ 355 (2011), pp. 105-120. DOI: [10.1007/978-3-642-20760-0\_5](https://doi.org/10.1007%2F978-3-642-20760-0%5C_5).
 2. **S. Garnier**, C. Jost, R. Jeanson, J. Gautrais, M. Asadpour, G. Caprari, and G. Theraulaz. “Aggregation behaviour as a source of collective decision in a group of cockroach-like-robots”. In: _Advances in Artificial Life_. Ed. by M. S. Capcarrère, A. A. Freitas, P. J. Bentley, C. G. Johnson and J. Timmis. Vol. 3630. Lecture notes in computer science. Berlin, Heidelberg: Springer Berlin Heidelberg, 2005, pp. 169-178. ISBN: 9783540288480,9783540318163. DOI: [10.1007/11553090\_18](https://doi.org/10.1007%2F11553090%5C_18).
 
 ---
 
-#### Books as Editor (Last updated Oct 25, 2026)
+#### Books as Editor (Last updated Oct 26, 2026)
 
 1. M. Dorigo, M. Birattari, **S. Garnier**, H. Hamann, M. Montes de Oca, C. Solnon, and T. Stützle, ed. _Swarm intelligence: 9th international conference, ANTS 2014, Brussels, Belgium, September 10-12, 2014. Proceedings_. 2014th ed. Vol. 8667. Lecture Notes in Computer Science. Basel, Switzerland: Springer International Publishing, Jul. 31, 2014. ISBN: 9783319099521.
 
 ---
 
-#### Invited Presentations (Last updated Oct 25, 2026)
+#### Invited Presentations (Last updated Oct 26, 2026)
 
 1. **S. Garnier**. _Tinbergen's 5th question: how to make money with animal behavior?_. Columbia Seminar on Integrative Animal Behavior. Feb. 10, 2025.
 2. **S. Garnier**. _Of Swarms and Slimes: Intelligence Beyond the Brain, Intelligence Without a Brain_. 2024 Duquesne University Darwin Day Lecture. Feb. 07, 2024.
@@ -194,7 +194,7 @@ ORCID: 0000-0002-3886-3974
 
 ---
 
-#### Conference Abstracts (Last updated Oct 25, 2026)
+#### Conference Abstracts (Last updated Oct 26, 2026)
 
 1. L. Gyllingberg, A. Haque, J. Graham, and **S. Garnier**. “From intracellular oscillations to complex behaviour in the unicellular slime mould Physarum polycephalum”. In: _European Conference on Mathematical and Theoretical Biology (ECMTB 2026)_. University of Graz, Jul. 2026.
 2. W. Botta, **S. Garnier**, and K. Severi. _Neurobiological Factors affecting collective circling behavior in the zebrafish danio rerio_. NJIT Three-minute Research Presentation. Apr. 08, 2025.

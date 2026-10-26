@@ -31,10 +31,86 @@ if (!require(svglite)) {
 
 ###
 
-scholar_html <- read_html("https://scholar.google.com/citations?user=4MNHWX8AAAAJ&hl=en")
+scholar_url <- "https://scholar.google.com/citations?user=4MNHWX8AAAAJ&hl=en"
+snapshot_path <- "data/scholar-profile.html"
 
-scholar_tab <- scholar_html %>%
-  html_nodes(xpath = '//*[@id="gsc_rsb_st"]') %>%
+snapshot_hash <- function() {
+  if (file.exists(snapshot_path)) {
+    unname(tools::md5sum(snapshot_path))
+  } else {
+    NULL
+  }
+}
+
+read_answer <- function(prompt) {
+  cat(prompt)
+  answer <- readLines("stdin", n = 1)
+  if (length(answer)) tolower(trimws(answer[[1]])) else ""
+}
+
+wait_for_snapshot <- function(reason, previous_hash = NULL) {
+  browseURL(scholar_url)
+  message(
+    reason, "\n",
+    "The Google Scholar profile was opened in your browser.\n",
+    "Save the rendered page as ", snapshot_path, ".\n"
+  )
+
+  repeat {
+    read_answer("Press Enter here to continue: ")
+    if (!file.exists(snapshot_path)) {
+      message("Snapshot is still missing.")
+    } else if (!is.null(previous_hash) &&
+               identical(snapshot_hash(), previous_hash)) {
+      message("Snapshot is unchanged; overwrite it before continuing.")
+    } else {
+      return(invisible(NULL))
+    }
+  }
+}
+
+if (file.exists(snapshot_path) &&
+    read_answer("Refresh Google Scholar data? [y/N]: ") %in% c("y", "yes")) {
+  wait_for_snapshot(
+    "Refresh requested.",
+    previous_hash = snapshot_hash()
+  )
+}
+
+if (!file.exists(snapshot_path)) {
+  wait_for_snapshot("Google Scholar snapshot is missing.")
+}
+
+repeat {
+
+  scholar_html <- tryCatch(
+    read_html(snapshot_path),
+    error = function(error) NULL
+  )
+
+  if (!is.null(scholar_html)) {
+    scholar_table <- scholar_html %>%
+      html_nodes(xpath = '//*[@id="gsc_rsb_st"]')
+    years <- scholar_html %>%
+      html_nodes(xpath = '//*[@class="gsc_g_t"]') %>%
+      html_text() %>%
+      as.numeric()
+    citations <- scholar_html %>%
+      html_nodes(xpath = '//*[@class="gsc_g_al"]') %>%
+      html_text() %>%
+      as.numeric()
+
+    if (length(scholar_table) == 1 && length(years) &&
+        length(years) == length(citations) &&
+        !anyNA(years) && !anyNA(citations)) {
+      break
+    }
+  }
+
+  wait_for_snapshot("Google Scholar snapshot does not contain usable profile data.")
+}
+
+scholar_tab <- scholar_table %>%
   html_table(fill = TRUE)
 names(scholar_tab[[1]])[1] <- paste0("As of ", format(Sys.time(), "%B %d, %Y"))
 scholar_tab <- strsplit(kable(scholar_tab), "\n")[[1]]
@@ -50,14 +126,7 @@ writeLines(out, "publications/index.md")
 
 ###
 
-scholar_df <- data.frame(years = scholar_html %>%
-                           html_nodes(xpath = '//*[@class="gsc_g_t"]') %>%
-                           html_text() %>%
-                           as.numeric,
-                         citations = scholar_html %>%
-                           html_nodes(xpath = '//*[@class="gsc_g_al"]') %>%
-                           html_text() %>%
-                           as.numeric()) %>%
+scholar_df <- data.frame(years = years, citations = citations) %>%
   mutate(., cum_citations = cumsum(citations))
 
 svglite("img/posts/publications/scholar.svg", width = 9, height = 3)

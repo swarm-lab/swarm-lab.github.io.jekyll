@@ -1,5 +1,6 @@
 url: http://www.theswarmlab.com
-#baseurl: /agency-jekyll-theme/
+repository: swarm-lab/swarm-lab.github.io.jekyll
+baseurl: ""
 
 # Site settings
 title: Swarm Lab
@@ -592,3 +593,14 @@ permalink: pretty
 kramdown:
   syntax_highlighter: rouge
 highlighter: rouge
+
+# Source-only files not published with the site
+exclude:
+  - data/
+  - scripts/
+  - CONTEXT.md
+  - README.md
+  - LICENSE
+  - RAKEFILE
+  - Gemfile
+  - Gemfile.lock

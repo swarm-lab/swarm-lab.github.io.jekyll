@@ -1,4 +1,5 @@
 #!/bin/bash
+set -e
 Rscript scripts/scholar.R
 Rscript scripts/bib.R
-bundle exec jekyll serve
+JEKYLL_ENV=production bundle exec jekyll serve
