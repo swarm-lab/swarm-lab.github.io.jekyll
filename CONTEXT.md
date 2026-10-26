@@ -53,14 +53,26 @@ Portfolio posts in `_posts/` use YAML front matter. Existing posts use `title`, 
 ```sh
 Rscript scripts/scholar.R
 Rscript scripts/bib.R
-bundle exec jekyll serve
+JEKYLL_ENV=production bundle exec jekyll serve
 ```
 
-The two R scripts run before the local Jekyll server starts.
+The two R scripts run before the local Jekyll server starts. `scripts/scholar.R` reads a manually saved Google Scholar profile snapshot at `data/scholar-profile.html`: Enter reuses it; `y` opens the profile and waits for a replacement snapshot.
 
-`rake deploy` deploys `_site/` to the configured remote host with `rsync -rtzh --delete`. It deletes remote files absent from the local generated site.
+Deploy with:
+
+```sh
+DRY_RUN=1 rake deploy
+rake deploy
+```
+
+Both commands mirror `_site/` with `rsync --delete --delete-excluded`; they exclude and remove remote `.git/`, `.DS_Store`, and `._*` metadata.
 
 ## Generated and deployment paths
 
-- `_site/` is generated Jekyll output and a versioned deployment-backup repository. Edit source files, then regenerate it.
+- `_site/` is generated Jekyll output and a versioned deployment-backup repository. Commit and push `_site/` first, then commit its Gitlink in the outer repository and push the outer repository.
+- `data/scholar-profile.html` and `data/scholar-profile_files/` are local-only Scholar snapshot artifacts. They are Git-ignored and excluded from generated output.
 - `._*` files are macOS metadata artifacts.
+
+## Known dependency constraint
+
+`github-pages` 232 is the current supported GitHub Pages bundle. Its `jekyll-remote-theme` 0.4.3 dependency requires `rubyzip < 3.0`, so Dependabot alert #79 cannot be fixed by a supported bundle update. Leave the alert open until GitHub Pages changes that dependency set.
