@@ -71,10 +71,6 @@ people:
   pic: roxy
   position: Graduate Student
 
-- name: Lindsay Burke
-  pic: default
-  position: Undergraduate Student
-
 - name: Brando Castillo-Paulino
   pic: default
   position: Undergraduate Student
@@ -87,7 +83,7 @@ people:
   pic: default
   position: Undergraduate Student
 
-- name: Vita Infurna
+- name: Ethan Kalajian
   pic: default
   position: Undergraduate Student
 
@@ -95,7 +91,7 @@ people:
   pic: default
   position: Undergraduate Student
 
-- name: Nick Pape
+- name: Pranay K.
   pic: default
   position: Undergraduate Student
 
@@ -106,6 +102,10 @@ people:
 - name: Jasleen Phalora
   pic: default
   position: Undergraduate Student
+
+- name: Michael Zipay
+  pic: default
+  position: Undergraduate Student (Scranton U.)
 
 # Former lab members
 # Name, position and social links
@@ -309,6 +309,10 @@ people_old:
   pic: jordan
   position: Undergraduate Student, Lab Assistant
 
+- name: Lindsay Burke
+  pic: default
+  position: Undergraduate Student
+
 - name: Leia Chemmacheril
   pic: default
   position: Undergraduate Student
@@ -358,6 +362,10 @@ people_old:
   position: Undergraduate Student
 
 - name: Katharina Hildebrandt
+  pic: default
+  position: Undergraduate Student
+
+- name: Vita Infurna
   pic: default
   position: Undergraduate Student
 
@@ -442,6 +450,10 @@ people_old:
   position: Undergraduate Student, LSAMP intern
 
 - name: Ana Pais
+  pic: default
+  position: Undergraduate Student
+
+- name: Nick Pape
   pic: default
   position: Undergraduate Student
 
